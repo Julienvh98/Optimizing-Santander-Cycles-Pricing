@@ -1,0 +1,8 @@
+yfinance>=0.2.40
+streamlit>=1.32
+altair>=5.0
+ipywidgets>=8.0
+pandas>=2.0
+matplotlib>=3.7
+lxml>=4.9
+requests>=2.31
