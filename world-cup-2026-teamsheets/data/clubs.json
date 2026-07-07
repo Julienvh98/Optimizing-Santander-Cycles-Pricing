@@ -1,226 +1,1150 @@
 {
-  "Real Madrid": ["#FFFFFF", "#FEBE10"],
-  "Manchester United": ["#DA291C", "#000000"],
-  "RC Strasbourg": ["#009FE3", "#FFFFFF"],
-  "Fulham FC": ["#FFFFFF", "#000000"],
-  "Sporting CP": ["#008057", "#FFFFFF"],
-  "Brighton & Hove Albion FC": ["#0057B8", "#FFFFFF"],
-  "AC Milan": ["#FB090B", "#000000"],
-  "Club Brugge KV": ["#0055A4", "#000000"],
-  "LOSC Lille": ["#E01E13", "#12284B"],
-  "Eintracht Frankfurt": ["#E1000F", "#000000"],
-  "SSC Napoli": ["#12A0D7", "#003C82"],
-  "Aston Villa": ["#670E36", "#95BFE5"],
-  "Rangers FC": ["#0033A0", "#FFFFFF"],
-  "Girona FC": ["#CD2534", "#FFFFFF"],
-  "Atalanta BC": ["#1E71B8", "#000000"],
-  "Manchester City": ["#6CABDD", "#FFFFFF"],
-  "SL Benfica": ["#E83030", "#FFFFFF"],
-  "Arsenal FC": ["#EF0107", "#FFFFFF"],
-  "Santos Laguna": ["#009150", "#FFFFFF"],
-  "AEL Limassol": ["#FFD700", "#00489A"],
-  "CD Guadalajara": ["#C8102E", "#FFFFFF"],
-  "Fenerbahçe SK": ["#FFED00", "#163962"],
-  "AZ Alkmaar": ["#DA291C", "#FFFFFF"],
-  "Deportivo Toluca": ["#E30613", "#FFFFFF"],
-  "Lokomotiv Moscow": ["#00805E", "#DA291C"],
-  "Club América": ["#FFF200", "#00295B"],
-  "Cruz Azul": ["#005CA9", "#FFFFFF"],
-  "Genoa CFC": ["#AD1919", "#00205B"],
-  "Dynamo Moscow": ["#005CA9", "#FFFFFF"],
-  "Chicago Fire FC": ["#FF0000", "#141946"],
-  "Club Tijuana": ["#D22630", "#000000"],
-  "AEK Athens": ["#FFD700", "#000000"],
-  "Seattle Sounders FC": ["#5D9741", "#005595"],
-  "RSC Anderlecht": ["#5E2D91", "#FFFFFF"],
-  "Pumas UNAM": ["#00274C", "#B49A57"],
-  "Al-Qadsiah FC": ["#FFD24F", "#1D2951"],
-  "Orlando Pirates": ["#000000", "#FFFFFF"],
-  "Siwelele FC": ["#00843D", "#FFFFFF"],
-  "Mamelodi Sundowns": ["#FFDE00", "#0033A0"],
-  "Kaizer Chiefs": ["#FFB81C", "#000000"],
-  "Polokwane City": ["#0057B8", "#FFFFFF"],
-  "Molde FK": ["#0F4CA0", "#FFFFFF"],
-  "Philadelphia Union": ["#071B2C", "#B49759"],
-  "Hannover 96": ["#DA291C", "#000000"],
-  "CD Tondela": ["#FFD100", "#00843D"],
-  "Burnley FC": ["#6C1D45", "#99D6EA"],
-  "Ulsan HD FC": ["#0053A0", "#FFC600"],
-  "FC Tokyo": ["#0033A0", "#DA291C"],
-  "Jeonbuk Hyundai Motors": ["#0C6B37", "#FFD100"],
-  "Bayern Munich": ["#DC052D", "#FFFFFF"],
-  "Daejeon Hana Citizen": ["#8A1538", "#FFFFFF"],
-  "Red Star Belgrade": ["#D6001C", "#FFFFFF"],
-  "Sharjah FC": ["#DA291C", "#FFFFFF"],
-  "Austria Wien": ["#5E2D91", "#FFFFFF"],
-  "Zhejiang FC": ["#009150", "#FFD100"],
-  "Kashima Antlers": ["#8A1538", "#00205B"],
-  "FC Midtjylland": ["#000000", "#DA291C"],
-  "Wolverhampton Wanderers": ["#FDB913", "#231F20"],
-  "Feyenoord": ["#E01E13", "#FFFFFF"],
-  "Paris Saint-Germain": ["#004170", "#DA291C"],
-  "Birmingham City": ["#0000FF", "#FFFFFF"],
-  "Stoke City": ["#E03A3E", "#FFFFFF"],
-  "Swansea City": ["#FFFFFF", "#000000"],
-  "Celtic FC": ["#018749", "#FFFFFF"],
-  "1. FSV Mainz 05": ["#C3141E", "#FFFFFF"],
-  "Borussia Mönchengladbach": ["#FFFFFF", "#000000"],
-  "Los Angeles FC": ["#000000", "#C39E6D"],
-  "Beşiktaş JK": ["#000000", "#FFFFFF"],
-  "PSV Eindhoven": ["#ED1C24", "#FFFFFF"],
-  "Slavia Prague": ["#CD1719", "#FFFFFF"],
-  "SC Braga": ["#DA291C", "#FFFFFF"],
-  "TSG Hoffenheim": ["#1961B5", "#FFFFFF"],
-  "Sparta Prague": ["#7B0C13", "#FFD100"],
-  "Viktoria Plzeň": ["#00529C", "#DA291C"],
-  "FC Hradec Králové": ["#000000", "#FFFFFF"],
-  "West Ham United": ["#7A263A", "#1BB1E7"],
-  "Olympique Lyonnais": ["#FFFFFF", "#DA291C"],
-  "Bayer Leverkusen": ["#E32221", "#000000"],
-  "Orlando City SC": ["#633492", "#FDE192"],
-  "Inter Miami CF": ["#F7B5CD", "#231F20"],
-  "Crystal Palace": ["#1B458F", "#C4122E"],
-  "OGC Nice": ["#CC0000", "#000000"],
-  "Olympique de Marseille": ["#FFFFFF", "#2FAEE0"],
-  "Middlesbrough FC": ["#DA291C", "#FFFFFF"],
-  "Toronto FC": ["#B81137", "#455560"],
-  "HNK Hajduk Split": ["#FFFFFF", "#0044A9"],
-  "Norwich City": ["#FFF200", "#00A650"],
-  "Villarreal CF": ["#FFE667", "#005187"],
-  "FC Porto": ["#00428C", "#FFFFFF"],
-  "Tigres UANL": ["#FDB913", "#00205B"],
-  "US Sassuolo": ["#00A752", "#000000"],
-  "Hull City": ["#F5971D", "#000000"],
-  "Juventus FC": ["#000000", "#FFFFFF"],
-  "Union Saint-Gilloise": ["#FFD800", "#004F9F"],
-  "RCD Mallorca": ["#E20613", "#000000"],
-  "FC St. Pauli": ["#624636", "#FFFFFF"],
-  "HNK Rijeka": ["#FFFFFF", "#0D5EAF"],
-  "NK Slaven Belupo": ["#0057B8", "#FFFFFF"],
-  "FC Schalke 04": ["#004D9D", "#FFFFFF"],
-  "Gaziantep FK": ["#DA291C", "#000000"],
-  "UC Sampdoria": ["#0044A9", "#FFFFFF"],
-  "RC Lens": ["#EC1C24", "#FFD100"],
-  "FC Astana": ["#00AEEF", "#FFD100"],
-  "Karlsruher SC": ["#00447A", "#FFFFFF"],
-  "BSC Young Boys": ["#FFD800", "#000000"],
-  "Pafos FC": ["#6EC5E9", "#FFFFFF"],
-  "Brøndby IF": ["#FFDD00", "#0055A5"],
-  "Slovan Liberec": ["#004B93", "#FFFFFF"],
-  "RB Salzburg": ["#DA291C", "#FFFFFF"],
-  "Jagiellonia Białystok": ["#FFD100", "#DA291C"],
-  "VfB Stuttgart": ["#FFFFFF", "#E32219"],
-  "Universitatea Cluj": ["#000000", "#FFFFFF"],
-  "Al-Rayyan SC": ["#DA291C", "#000000"],
-  "Al-Sadd SC": ["#FFFFFF", "#000000"],
-  "Al-Duhail SC": ["#DA291C", "#FFFFFF"],
-  "Al-Wakrah SC": ["#0055A5", "#FFFFFF"],
-  "Al-Arabi SC": ["#DA291C", "#FFFFFF"],
-  "Al-Gharafa SC": ["#F9A11B", "#00205B"],
-  "Cultural Leonesa": ["#FFFFFF", "#DA291C"],
-  "Borussia Dortmund": ["#FDE100", "#000000"],
-  "FC Lorient": ["#FF6600", "#000000"],
-  "Inter Milan": ["#0068A8", "#000000"],
-  "Valencia CF": ["#FFFFFF", "#000000"],
-  "Hamburger SV": ["#0A3F86", "#FFFFFF"],
-  "Real Betis": ["#00954C", "#FFFFFF"],
-  "Pisa SC": ["#00205B", "#000000"],
-  "Bologna FC": ["#A21C26", "#00205B"],
-  "SC Freiburg": ["#000000", "#DA291C"],
-  "FC Augsburg": ["#DA291C", "#00594C"],
-  "Sevilla FC": ["#FFFFFF", "#D8091C"],
-  "Sunderland AFC": ["#EB172B", "#FFFFFF"],
-  "AS Monaco": ["#E51B22", "#FFFFFF"],
-  "Fortuna Düsseldorf": ["#DA291C", "#FFFFFF"],
-  "Nottingham Forest": ["#DD0000", "#FFFFFF"],
-  "Leeds United": ["#FFFFFF", "#1D428A"],
-  "Liverpool FC": ["#C8102E", "#FFFFFF"],
-  "SE Palmeiras": ["#006437", "#FFFFFF"],
-  "CR Flamengo": ["#C52613", "#000000"],
-  "Zenit St. Petersburg": ["#0197D8", "#FFFFFF"],
-  "Al-Ahli SFC": ["#00524E", "#FFFFFF"],
-  "Newcastle United": ["#241F20", "#FFFFFF"],
-  "Botafogo FR": ["#000000", "#FFFFFF"],
-  "Al-Ittihad Club": ["#FFD700", "#000000"],
-  "FC Barcelona": ["#A50044", "#004D98"],
-  "Santos FC": ["#FFFFFF", "#000000"],
-  "Brentford FC": ["#E30613", "#FFFFFF"],
-  "AFC Bournemouth": ["#DA291C", "#000000"],
-  "Al-Hilal SFC": ["#0060AA", "#FFFFFF"],
-  "RS Berkane": ["#FF7F00", "#000000"],
-  "AS FAR": ["#000000", "#CE1126"],
-  "Al Ahly SC": ["#E30613", "#FFFFFF"],
-  "KRC Genk": ["#00448E", "#FFFFFF"],
-  "KV Mechelen": ["#FFD100", "#DA291C"],
-  "AS Roma": ["#8E1F2F", "#F0BC42"],
-  "Olympiacos FC": ["#D8091C", "#FFFFFF"],
-  "Al Ain FC": ["#6B2C91", "#FFFFFF"],
-  "FC Cosmos Koblenz": ["#0057B8", "#FFFFFF"],
-  "FC Sochaux": ["#FFD100", "#00205B"],
-  "SC Bastia": ["#0055A5", "#FFFFFF"],
-  "LDU Quito": ["#FFFFFF", "#00205B"],
-  "Angers SCO": ["#000000", "#FFFFFF"],
-  "FC Lugano": ["#000000", "#FFFFFF"],
-  "KAA Gent": ["#00447A", "#FFFFFF"],
-  "AS Nancy": ["#DA291C", "#FFFFFF"],
-  "Colorado Springs Switchbacks": ["#F58025", "#00205B"],
-  "SV Zulte Waregem": ["#DA291C", "#00843D"],
-  "El Paso Locomotive": ["#00205B", "#F58025"],
-  "Tatran Prešov": ["#00843D", "#FFFFFF"],
-  "Violette AC": ["#6B2C91", "#FFFFFF"],
-  "AJ Auxerre": ["#FFFFFF", "#00205B"],
-  "FC Dallas": ["#DA291C", "#00205B"],
-  "FC Vizela": ["#0055A5", "#FFFFFF"],
-  "Ferencváros TC": ["#00843D", "#FFFFFF"],
-  "Esteghlal FC": ["#0055A5", "#FFFFFF"],
-  "Çaykur Rizespor": ["#00843D", "#0055A5"],
-  "Almere City FC": ["#000000", "#DA291C"],
-  "Heart of Midlothian": ["#800910", "#FFFFFF"],
-  "Hibernian FC": ["#00843D", "#FFFFFF"],
-  "Al-Ettifaq FC": ["#00843D", "#DA291C"],
-  "Wrexham AFC": ["#DA291C", "#FFFFFF"],
-  "Dinamo Zagreb": ["#0055A5", "#FFFFFF"],
-  "Everton FC": ["#003399", "#FFFFFF"],
-  "Torino FC": ["#8A1E03", "#FFFFFF"],
-  "Ipswich Town": ["#0044A9", "#FFFFFF"],
-  "Southampton FC": ["#D71920", "#FFFFFF"],
-  "New York City FC": ["#6CACE4", "#041E42"],
-  "New England Revolution": ["#0A2240", "#CE0E2D"],
-  "Columbus Crew": ["#FEDD00", "#000000"],
-  "Toulouse FC": ["#5F259F", "#FFFFFF"],
-  "Charlotte FC": ["#1A85C8", "#000000"],
-  "FC Cincinnati": ["#F05323", "#263B80"],
-  "Vancouver Whitecaps": ["#00245E", "#9DC2EA"],
-  "Coventry City": ["#78D0F3", "#002240"],
-  "Cerro Porteño": ["#D50032", "#0033A0"],
-  "São Paulo FC": ["#FFFFFF", "#DA291C"],
-  "Club Olimpia": ["#FFFFFF", "#000000"],
-  "Atlético Mineiro": ["#000000", "#FFFFFF"],
-  "Grêmio FBPA": ["#0D80BF", "#000000"],
-  "CA Lanús": ["#800000", "#FFFFFF"],
-  "CA Talleres": ["#00205B", "#FFFFFF"],
-  "Atlanta United": ["#80000B", "#A19060"],
-  "Real Salt Lake": ["#B30838", "#013A81"],
-  "Portsmouth FC": ["#001489", "#FFFFFF"],
-  "RB Bragantino": ["#FFFFFF", "#DA291C"],
-  "US Cremonese": ["#EE1C25", "#A7A9AC"],
-  "CA Independiente": ["#E30613", "#FFFFFF"],
-  "Independiente Rivadavia": ["#0055A5", "#FFFFFF"],
-  "Levante UD": ["#005CA9", "#AD1919"],
-  "Randers FC": ["#FFFFFF", "#0055A5"],
-  "Melbourne City FC": ["#6CACE4", "#FFFFFF"],
-  "APOEL FC": ["#F58025", "#0055A5"],
-  "Parma Calcio": ["#FFD100", "#0055A5"],
-  "Grazer AK": ["#DA291C", "#FFFFFF"],
-  "Albirex Niigata": ["#F58025", "#0055A5"],
-  "Colorado Rapids": ["#862633", "#8BB8E8"],
-  "Leicester City": ["#003090", "#FDBE11"],
-  "Heracles Almelo": ["#000000", "#FFFFFF"],
-  "Sydney FC": ["#6CACE4", "#041E42"],
-  "Watford FC": ["#FBEE23", "#000000"],
-  "CD Castellón": ["#000000", "#FFFFFF"],
-  "Melbourne Victory": ["#00205B", "#FFFFFF"],
-  "FC Machida Zelvia": ["#0055A5", "#FFFFFF"],
-  "Galatasaray SK": ["#A32638", "#FDB912"],
-  "Kasımpaşa SK": ["#00205B", "#FFFFFF"]
+  "Real Madrid": [
+    "#FFFFFF",
+    "#FEBE10"
+  ],
+  "Manchester United": [
+    "#DA291C",
+    "#000000"
+  ],
+  "RC Strasbourg": [
+    "#009FE3",
+    "#FFFFFF"
+  ],
+  "Fulham FC": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "Sporting CP": [
+    "#008057",
+    "#FFFFFF"
+  ],
+  "Brighton & Hove Albion FC": [
+    "#0057B8",
+    "#FFFFFF"
+  ],
+  "AC Milan": [
+    "#FB090B",
+    "#000000"
+  ],
+  "Club Brugge KV": [
+    "#0055A4",
+    "#000000"
+  ],
+  "LOSC Lille": [
+    "#E01E13",
+    "#12284B"
+  ],
+  "Eintracht Frankfurt": [
+    "#E1000F",
+    "#000000"
+  ],
+  "SSC Napoli": [
+    "#12A0D7",
+    "#003C82"
+  ],
+  "Aston Villa": [
+    "#670E36",
+    "#95BFE5"
+  ],
+  "Rangers FC": [
+    "#0033A0",
+    "#FFFFFF"
+  ],
+  "Girona FC": [
+    "#CD2534",
+    "#FFFFFF"
+  ],
+  "Atalanta BC": [
+    "#1E71B8",
+    "#000000"
+  ],
+  "Manchester City": [
+    "#6CABDD",
+    "#FFFFFF"
+  ],
+  "SL Benfica": [
+    "#E83030",
+    "#FFFFFF"
+  ],
+  "Arsenal FC": [
+    "#EF0107",
+    "#FFFFFF"
+  ],
+  "Santos Laguna": [
+    "#009150",
+    "#FFFFFF"
+  ],
+  "AEL Limassol": [
+    "#FFD700",
+    "#00489A"
+  ],
+  "CD Guadalajara": [
+    "#C8102E",
+    "#FFFFFF"
+  ],
+  "Fenerbahçe SK": [
+    "#FFED00",
+    "#163962"
+  ],
+  "AZ Alkmaar": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Deportivo Toluca": [
+    "#E30613",
+    "#FFFFFF"
+  ],
+  "Lokomotiv Moscow": [
+    "#00805E",
+    "#DA291C"
+  ],
+  "Club América": [
+    "#FFF200",
+    "#00295B"
+  ],
+  "Cruz Azul": [
+    "#005CA9",
+    "#FFFFFF"
+  ],
+  "Genoa CFC": [
+    "#AD1919",
+    "#00205B"
+  ],
+  "Dynamo Moscow": [
+    "#005CA9",
+    "#FFFFFF"
+  ],
+  "Chicago Fire FC": [
+    "#FF0000",
+    "#141946"
+  ],
+  "Club Tijuana": [
+    "#D22630",
+    "#000000"
+  ],
+  "AEK Athens": [
+    "#FFD700",
+    "#000000"
+  ],
+  "Seattle Sounders FC": [
+    "#5D9741",
+    "#005595"
+  ],
+  "RSC Anderlecht": [
+    "#5E2D91",
+    "#FFFFFF"
+  ],
+  "Pumas UNAM": [
+    "#00274C",
+    "#B49A57"
+  ],
+  "Al-Qadsiah FC": [
+    "#FFD24F",
+    "#1D2951"
+  ],
+  "Orlando Pirates": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "Siwelele FC": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Mamelodi Sundowns": [
+    "#FFDE00",
+    "#0033A0"
+  ],
+  "Kaizer Chiefs": [
+    "#FFB81C",
+    "#000000"
+  ],
+  "Polokwane City": [
+    "#0057B8",
+    "#FFFFFF"
+  ],
+  "Molde FK": [
+    "#0F4CA0",
+    "#FFFFFF"
+  ],
+  "Philadelphia Union": [
+    "#071B2C",
+    "#B49759"
+  ],
+  "Hannover 96": [
+    "#DA291C",
+    "#000000"
+  ],
+  "CD Tondela": [
+    "#FFD100",
+    "#00843D"
+  ],
+  "Burnley FC": [
+    "#6C1D45",
+    "#99D6EA"
+  ],
+  "Ulsan HD FC": [
+    "#0053A0",
+    "#FFC600"
+  ],
+  "FC Tokyo": [
+    "#0033A0",
+    "#DA291C"
+  ],
+  "Jeonbuk Hyundai Motors": [
+    "#0C6B37",
+    "#FFD100"
+  ],
+  "Bayern Munich": [
+    "#DC052D",
+    "#FFFFFF"
+  ],
+  "Daejeon Hana Citizen": [
+    "#8A1538",
+    "#FFFFFF"
+  ],
+  "Red Star Belgrade": [
+    "#D6001C",
+    "#FFFFFF"
+  ],
+  "Sharjah FC": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Austria Wien": [
+    "#5E2D91",
+    "#FFFFFF"
+  ],
+  "Zhejiang FC": [
+    "#009150",
+    "#FFD100"
+  ],
+  "Kashima Antlers": [
+    "#8A1538",
+    "#00205B"
+  ],
+  "FC Midtjylland": [
+    "#000000",
+    "#DA291C"
+  ],
+  "Wolverhampton Wanderers": [
+    "#FDB913",
+    "#231F20"
+  ],
+  "Feyenoord": [
+    "#E01E13",
+    "#FFFFFF"
+  ],
+  "Paris Saint-Germain": [
+    "#004170",
+    "#DA291C"
+  ],
+  "Birmingham City": [
+    "#0000FF",
+    "#FFFFFF"
+  ],
+  "Stoke City": [
+    "#E03A3E",
+    "#FFFFFF"
+  ],
+  "Swansea City": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "Celtic FC": [
+    "#018749",
+    "#FFFFFF"
+  ],
+  "1. FSV Mainz 05": [
+    "#C3141E",
+    "#FFFFFF"
+  ],
+  "Borussia Mönchengladbach": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "Los Angeles FC": [
+    "#000000",
+    "#C39E6D"
+  ],
+  "Beşiktaş JK": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "PSV Eindhoven": [
+    "#ED1C24",
+    "#FFFFFF"
+  ],
+  "Slavia Prague": [
+    "#CD1719",
+    "#FFFFFF"
+  ],
+  "SC Braga": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "TSG Hoffenheim": [
+    "#1961B5",
+    "#FFFFFF"
+  ],
+  "Sparta Prague": [
+    "#7B0C13",
+    "#FFD100"
+  ],
+  "Viktoria Plzeň": [
+    "#00529C",
+    "#DA291C"
+  ],
+  "FC Hradec Králové": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "West Ham United": [
+    "#7A263A",
+    "#1BB1E7"
+  ],
+  "Olympique Lyonnais": [
+    "#FFFFFF",
+    "#DA291C"
+  ],
+  "Bayer Leverkusen": [
+    "#E32221",
+    "#000000"
+  ],
+  "Orlando City SC": [
+    "#633492",
+    "#FDE192"
+  ],
+  "Inter Miami CF": [
+    "#F7B5CD",
+    "#231F20"
+  ],
+  "Crystal Palace": [
+    "#1B458F",
+    "#C4122E"
+  ],
+  "OGC Nice": [
+    "#CC0000",
+    "#000000"
+  ],
+  "Olympique de Marseille": [
+    "#FFFFFF",
+    "#2FAEE0"
+  ],
+  "Middlesbrough FC": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Toronto FC": [
+    "#B81137",
+    "#455560"
+  ],
+  "HNK Hajduk Split": [
+    "#FFFFFF",
+    "#0044A9"
+  ],
+  "Norwich City": [
+    "#FFF200",
+    "#00A650"
+  ],
+  "Villarreal CF": [
+    "#FFE667",
+    "#005187"
+  ],
+  "FC Porto": [
+    "#00428C",
+    "#FFFFFF"
+  ],
+  "Tigres UANL": [
+    "#FDB913",
+    "#00205B"
+  ],
+  "US Sassuolo": [
+    "#00A752",
+    "#000000"
+  ],
+  "Hull City": [
+    "#F5971D",
+    "#000000"
+  ],
+  "Juventus FC": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "Union Saint-Gilloise": [
+    "#FFD800",
+    "#004F9F"
+  ],
+  "RCD Mallorca": [
+    "#E20613",
+    "#000000"
+  ],
+  "FC St. Pauli": [
+    "#624636",
+    "#FFFFFF"
+  ],
+  "HNK Rijeka": [
+    "#FFFFFF",
+    "#0D5EAF"
+  ],
+  "NK Slaven Belupo": [
+    "#0057B8",
+    "#FFFFFF"
+  ],
+  "FC Schalke 04": [
+    "#004D9D",
+    "#FFFFFF"
+  ],
+  "Gaziantep FK": [
+    "#DA291C",
+    "#000000"
+  ],
+  "UC Sampdoria": [
+    "#0044A9",
+    "#FFFFFF"
+  ],
+  "RC Lens": [
+    "#EC1C24",
+    "#FFD100"
+  ],
+  "FC Astana": [
+    "#00AEEF",
+    "#FFD100"
+  ],
+  "Karlsruher SC": [
+    "#00447A",
+    "#FFFFFF"
+  ],
+  "BSC Young Boys": [
+    "#FFD800",
+    "#000000"
+  ],
+  "Pafos FC": [
+    "#6EC5E9",
+    "#FFFFFF"
+  ],
+  "Brøndby IF": [
+    "#FFDD00",
+    "#0055A5"
+  ],
+  "Slovan Liberec": [
+    "#004B93",
+    "#FFFFFF"
+  ],
+  "RB Salzburg": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Jagiellonia Białystok": [
+    "#FFD100",
+    "#DA291C"
+  ],
+  "VfB Stuttgart": [
+    "#FFFFFF",
+    "#E32219"
+  ],
+  "Universitatea Cluj": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "Al-Rayyan SC": [
+    "#DA291C",
+    "#000000"
+  ],
+  "Al-Sadd SC": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "Al-Duhail SC": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Al-Wakrah SC": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Al-Arabi SC": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Al-Gharafa SC": [
+    "#F9A11B",
+    "#00205B"
+  ],
+  "Cultural Leonesa": [
+    "#FFFFFF",
+    "#DA291C"
+  ],
+  "Borussia Dortmund": [
+    "#FDE100",
+    "#000000"
+  ],
+  "FC Lorient": [
+    "#FF6600",
+    "#000000"
+  ],
+  "Inter Milan": [
+    "#0068A8",
+    "#000000"
+  ],
+  "Valencia CF": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "Hamburger SV": [
+    "#0A3F86",
+    "#FFFFFF"
+  ],
+  "Real Betis": [
+    "#00954C",
+    "#FFFFFF"
+  ],
+  "Pisa SC": [
+    "#00205B",
+    "#000000"
+  ],
+  "Bologna FC": [
+    "#A21C26",
+    "#00205B"
+  ],
+  "SC Freiburg": [
+    "#000000",
+    "#DA291C"
+  ],
+  "FC Augsburg": [
+    "#DA291C",
+    "#00594C"
+  ],
+  "Sevilla FC": [
+    "#FFFFFF",
+    "#D8091C"
+  ],
+  "Sunderland AFC": [
+    "#EB172B",
+    "#FFFFFF"
+  ],
+  "AS Monaco": [
+    "#E51B22",
+    "#FFFFFF"
+  ],
+  "Fortuna Düsseldorf": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Nottingham Forest": [
+    "#DD0000",
+    "#FFFFFF"
+  ],
+  "Leeds United": [
+    "#FFFFFF",
+    "#1D428A"
+  ],
+  "Liverpool FC": [
+    "#C8102E",
+    "#FFFFFF"
+  ],
+  "SE Palmeiras": [
+    "#006437",
+    "#FFFFFF"
+  ],
+  "CR Flamengo": [
+    "#C52613",
+    "#000000"
+  ],
+  "Zenit St. Petersburg": [
+    "#0197D8",
+    "#FFFFFF"
+  ],
+  "Al-Ahli SFC": [
+    "#00524E",
+    "#FFFFFF"
+  ],
+  "Newcastle United": [
+    "#241F20",
+    "#FFFFFF"
+  ],
+  "Botafogo FR": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "Al-Ittihad Club": [
+    "#FFD700",
+    "#000000"
+  ],
+  "FC Barcelona": [
+    "#A50044",
+    "#004D98"
+  ],
+  "Santos FC": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "Brentford FC": [
+    "#E30613",
+    "#FFFFFF"
+  ],
+  "AFC Bournemouth": [
+    "#DA291C",
+    "#000000"
+  ],
+  "Al-Hilal SFC": [
+    "#0060AA",
+    "#FFFFFF"
+  ],
+  "RS Berkane": [
+    "#FF7F00",
+    "#000000"
+  ],
+  "AS FAR": [
+    "#000000",
+    "#CE1126"
+  ],
+  "Al Ahly SC": [
+    "#E30613",
+    "#FFFFFF"
+  ],
+  "KRC Genk": [
+    "#00448E",
+    "#FFFFFF"
+  ],
+  "KV Mechelen": [
+    "#FFD100",
+    "#DA291C"
+  ],
+  "AS Roma": [
+    "#8E1F2F",
+    "#F0BC42"
+  ],
+  "Olympiacos FC": [
+    "#D8091C",
+    "#FFFFFF"
+  ],
+  "Al Ain FC": [
+    "#6B2C91",
+    "#FFFFFF"
+  ],
+  "FC Cosmos Koblenz": [
+    "#0057B8",
+    "#FFFFFF"
+  ],
+  "FC Sochaux": [
+    "#FFD100",
+    "#00205B"
+  ],
+  "SC Bastia": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "LDU Quito": [
+    "#FFFFFF",
+    "#00205B"
+  ],
+  "Angers SCO": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "FC Lugano": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "KAA Gent": [
+    "#00447A",
+    "#FFFFFF"
+  ],
+  "AS Nancy": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Colorado Springs Switchbacks": [
+    "#F58025",
+    "#00205B"
+  ],
+  "SV Zulte Waregem": [
+    "#DA291C",
+    "#00843D"
+  ],
+  "El Paso Locomotive": [
+    "#00205B",
+    "#F58025"
+  ],
+  "Tatran Prešov": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Violette AC": [
+    "#6B2C91",
+    "#FFFFFF"
+  ],
+  "AJ Auxerre": [
+    "#FFFFFF",
+    "#00205B"
+  ],
+  "FC Dallas": [
+    "#DA291C",
+    "#00205B"
+  ],
+  "FC Vizela": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Ferencváros TC": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Esteghlal FC": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Çaykur Rizespor": [
+    "#00843D",
+    "#0055A5"
+  ],
+  "Almere City FC": [
+    "#000000",
+    "#DA291C"
+  ],
+  "Heart of Midlothian": [
+    "#800910",
+    "#FFFFFF"
+  ],
+  "Hibernian FC": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Al-Ettifaq FC": [
+    "#00843D",
+    "#DA291C"
+  ],
+  "Wrexham AFC": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Dinamo Zagreb": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Everton FC": [
+    "#003399",
+    "#FFFFFF"
+  ],
+  "Torino FC": [
+    "#8A1E03",
+    "#FFFFFF"
+  ],
+  "Ipswich Town": [
+    "#0044A9",
+    "#FFFFFF"
+  ],
+  "Southampton FC": [
+    "#D71920",
+    "#FFFFFF"
+  ],
+  "New York City FC": [
+    "#6CACE4",
+    "#041E42"
+  ],
+  "New England Revolution": [
+    "#0A2240",
+    "#CE0E2D"
+  ],
+  "Columbus Crew": [
+    "#FEDD00",
+    "#000000"
+  ],
+  "Toulouse FC": [
+    "#5F259F",
+    "#FFFFFF"
+  ],
+  "Charlotte FC": [
+    "#1A85C8",
+    "#000000"
+  ],
+  "FC Cincinnati": [
+    "#F05323",
+    "#263B80"
+  ],
+  "Vancouver Whitecaps": [
+    "#00245E",
+    "#9DC2EA"
+  ],
+  "Coventry City": [
+    "#78D0F3",
+    "#002240"
+  ],
+  "Cerro Porteño": [
+    "#D50032",
+    "#0033A0"
+  ],
+  "São Paulo FC": [
+    "#FFFFFF",
+    "#DA291C"
+  ],
+  "Club Olimpia": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "Atlético Mineiro": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "Grêmio FBPA": [
+    "#0D80BF",
+    "#000000"
+  ],
+  "CA Lanús": [
+    "#800000",
+    "#FFFFFF"
+  ],
+  "CA Talleres": [
+    "#00205B",
+    "#FFFFFF"
+  ],
+  "Atlanta United": [
+    "#80000B",
+    "#A19060"
+  ],
+  "Real Salt Lake": [
+    "#B30838",
+    "#013A81"
+  ],
+  "Portsmouth FC": [
+    "#001489",
+    "#FFFFFF"
+  ],
+  "RB Bragantino": [
+    "#FFFFFF",
+    "#DA291C"
+  ],
+  "US Cremonese": [
+    "#EE1C25",
+    "#A7A9AC"
+  ],
+  "CA Independiente": [
+    "#E30613",
+    "#FFFFFF"
+  ],
+  "Independiente Rivadavia": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Levante UD": [
+    "#005CA9",
+    "#AD1919"
+  ],
+  "Randers FC": [
+    "#FFFFFF",
+    "#0055A5"
+  ],
+  "Melbourne City FC": [
+    "#6CACE4",
+    "#FFFFFF"
+  ],
+  "APOEL FC": [
+    "#F58025",
+    "#0055A5"
+  ],
+  "Parma Calcio": [
+    "#FFD100",
+    "#0055A5"
+  ],
+  "Grazer AK": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Albirex Niigata": [
+    "#F58025",
+    "#0055A5"
+  ],
+  "Colorado Rapids": [
+    "#862633",
+    "#8BB8E8"
+  ],
+  "Leicester City": [
+    "#003090",
+    "#FDBE11"
+  ],
+  "Heracles Almelo": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "Sydney FC": [
+    "#6CACE4",
+    "#041E42"
+  ],
+  "Watford FC": [
+    "#FBEE23",
+    "#000000"
+  ],
+  "CD Castellón": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "Melbourne Victory": [
+    "#00205B",
+    "#FFFFFF"
+  ],
+  "FC Machida Zelvia": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Galatasaray SK": [
+    "#A32638",
+    "#FDB912"
+  ],
+  "Kasımpaşa SK": [
+    "#00205B",
+    "#FFFFFF"
+  ],
+  "RB Leipzig": [
+    "#DD0741",
+    "#FFFFFF"
+  ],
+  "Telstar": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "VVV-Venlo": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Miami FC": [
+    "#F26522",
+    "#00205B"
+  ],
+  "Konyaspor": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Kayserispor": [
+    "#FFD100",
+    "#DA291C"
+  ],
+  "PEC Zwolle": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "NEC Nijmegen": [
+    "#DA291C",
+    "#000000"
+  ],
+  "Abha Club": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Sparta Rotterdam": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "RKC Waalwijk": [
+    "#FFD100",
+    "#0055A5"
+  ],
+  "FC Volendam": [
+    "#F58025",
+    "#000000"
+  ],
+  "Iğdır FK": [
+    "#00843D",
+    "#DA291C"
+  ],
+  "FC Zürich": [
+    "#FFFFFF",
+    "#0055A5"
+  ],
+  "FC Den Bosch": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Rotherham United": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Kifisia FC": [
+    "#DA291C",
+    "#FFD100"
+  ],
+  "Sheffield United": [
+    "#EE2737",
+    "#FFFFFF"
+  ],
+  "Maccabi Haifa": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "NAC Breda": [
+    "#FFD100",
+    "#000000"
+  ],
+  "SK Beveren": [
+    "#FFD100",
+    "#0055A5"
+  ],
+  "Royal Charleroi SC": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "Panathinaikos FC": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Gil Vicente FC": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "İstanbul Başakşehir": [
+    "#F26522",
+    "#00205B"
+  ],
+  "Stade Rennais": [
+    "#E13327",
+    "#000000"
+  ],
+  "NK Maribor": [
+    "#6B2C91",
+    "#FFD100"
+  ],
+  "Trabzonspor": [
+    "#651C32",
+    "#6CACE4"
+  ],
+  "Cercle Brugge": [
+    "#00843D",
+    "#000000"
+  ],
+  "Venezia FC": [
+    "#F58025",
+    "#00843D"
+  ],
+  "CA Huracán": [
+    "#FFFFFF",
+    "#DA291C"
+  ],
+  "Independiente del Valle": [
+    "#000000",
+    "#FFD100"
+  ],
+  "ESTAC Troyes": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "SC Corinthians": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "Chelsea FC": [
+    "#034694",
+    "#FFFFFF"
+  ],
+  "River Plate": [
+    "#FFFFFF",
+    "#DA291C"
+  ],
+  "Royal Antwerp FC": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "CF Pachuca": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Tottenham Hotspur": [
+    "#FFFFFF",
+    "#132257"
+  ],
+  "AFC Ajax": [
+    "#FFFFFF",
+    "#D2122E"
+  ],
+  "VfL Wolfsburg": [
+    "#65B32E",
+    "#FFFFFF"
+  ],
+  "Udinese Calcio": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "AIK Stockholm": [
+    "#000000",
+    "#FFD100"
+  ],
+  "Derby County": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "Mjällby AIF": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Malmö FF": [
+    "#6CACE4",
+    "#FFFFFF"
+  ],
+  "Holstein Kiel": [
+    "#0055A5",
+    "#DA291C"
+  ],
+  "Celta de Vigo": [
+    "#8AC3EE",
+    "#FFFFFF"
+  ],
+  "Sanfrecce Hiroshima": [
+    "#6B2C91",
+    "#FFFFFF"
+  ],
+  "FC Copenhagen": [
+    "#FFFFFF",
+    "#0F1E46"
+  ],
+  "Sint-Truidense VV": [
+    "#FFD100",
+    "#0055A5"
+  ],
+  "Le Havre AC": [
+    "#6CACE4",
+    "#00205B"
+  ],
+  "Stade de Reims": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "GKS Katowice": [
+    "#FFD100",
+    "#00843D"
+  ],
+  "Étoile du Sahel": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Club Africain": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "CS Sfaxien": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "Espérance de Tunis": [
+    "#FFD100",
+    "#DA291C"
+  ],
+  "Servette FC": [
+    "#8A1538",
+    "#FFFFFF"
+  ],
+  "US Monastir": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "IFK Norrköping": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Union Berlin": [
+    "#EB1923",
+    "#FFD100"
+  ],
+  "Dynamo Makhachkala": [
+    "#0055A5",
+    "#FFD100"
+  ]
 }

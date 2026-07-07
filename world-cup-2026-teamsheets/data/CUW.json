@@ -1,0 +1,32 @@
+{
+  "code": "CUW",
+  "coach": "Dick Advocaat",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Tyrick Bodak", "dob": null, "height_m": null, "weight_kg": null, "club": "Telstar", "club_country": "NED", "fc26": null},
+    {"sticker": 2, "position": "GK", "name": "Trevor Doornbusch", "dob": "2001-08-13", "height_m": null, "weight_kg": null, "club": "VVV-Venlo", "club_country": "NED", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Eloy Room", "dob": "1989-02-06", "height_m": 1.84, "weight_kg": 80, "club": "Miami FC", "club_country": "USA", "fc26": null},
+    {"sticker": 4, "position": "DF", "name": "Riechedly Bazoer", "dob": "1996-10-12", "height_m": 1.87, "weight_kg": 80, "club": "Konyaspor", "club_country": "TUR", "fc26": 72},
+    {"sticker": 5, "position": "DF", "name": "Joshua Brenet", "dob": "1994-03-20", "height_m": 1.80, "weight_kg": 75, "club": "Kayserispor", "club_country": "TUR", "fc26": 71},
+    {"sticker": 6, "position": "DF", "name": "Sherel Floranus", "dob": "1998-08-22", "height_m": null, "weight_kg": null, "club": "PEC Zwolle", "club_country": "NED", "fc26": null},
+    {"sticker": 7, "position": "DF", "name": "Deveron Fonville", "dob": null, "height_m": null, "weight_kg": null, "club": "NEC Nijmegen", "club_country": "NED", "fc26": null},
+    {"sticker": 8, "position": "DF", "name": "Jurien Gaari", "dob": "1995-08-16", "height_m": null, "weight_kg": null, "club": "Abha Club", "club_country": "KSA", "fc26": null},
+    {"sticker": 9, "position": "DF", "name": "Armando Obispo", "dob": "1999-03-05", "height_m": 1.86, "weight_kg": null, "club": "PSV Eindhoven", "club_country": "NED", "fc26": 74},
+    {"sticker": 10, "position": "DF", "name": "Shurandy Sambo", "dob": "2001-06-21", "height_m": null, "weight_kg": null, "club": "Sparta Rotterdam", "club_country": "NED", "fc26": 70},
+    {"sticker": 11, "position": "DF", "name": "Roshon van Eijma", "dob": "1999-03-04", "height_m": null, "weight_kg": null, "club": "RKC Waalwijk", "club_country": "NED", "fc26": null},
+    {"sticker": 12, "position": "MF", "name": "Juninho Bacuna", "dob": "1997-08-07", "height_m": 1.83, "weight_kg": null, "club": "FC Volendam", "club_country": "NED", "fc26": 70},
+    {"sticker": 13, "position": "MF", "name": "Leandro Bacuna", "dob": "1991-08-21", "height_m": 1.85, "weight_kg": 80, "club": "Iğdır FK", "club_country": "TUR", "fc26": null},
+    {"sticker": 14, "position": "MF", "name": "Livano Comenencia", "dob": "2004-02-24", "height_m": null, "weight_kg": null, "club": "FC Zürich", "club_country": "SUI", "fc26": 70},
+    {"sticker": 15, "position": "MF", "name": "Kevin Felida", "dob": "2003-06-09", "height_m": null, "weight_kg": null, "club": "FC Den Bosch", "club_country": "NED", "fc26": null},
+    {"sticker": 16, "position": "MF", "name": "Ar'jany Martha", "dob": "2004-08-26", "height_m": null, "weight_kg": null, "club": "Rotherham United", "club_country": "ENG", "fc26": null},
+    {"sticker": 17, "position": "MF", "name": "Tyrese Noslin", "dob": null, "height_m": null, "weight_kg": null, "club": "Telstar", "club_country": "NED", "fc26": null},
+    {"sticker": 18, "position": "MF", "name": "Godfried Roemeratoe", "dob": "1999-02-25", "height_m": null, "weight_kg": null, "club": "RKC Waalwijk", "club_country": "NED", "fc26": null},
+    {"sticker": 19, "position": "FW", "name": "Jeremy Antonisse", "dob": "2002-06-08", "height_m": null, "weight_kg": null, "club": "Kifisia FC", "club_country": "GRE", "fc26": null},
+    {"sticker": 20, "position": "FW", "name": "Tahith Chong", "dob": "1999-12-04", "height_m": 1.85, "weight_kg": 70, "club": "Sheffield United", "club_country": "ENG", "fc26": 72},
+    {"sticker": 21, "position": "FW", "name": "Kenji Gorré", "dob": "1994-09-29", "height_m": 1.75, "weight_kg": null, "club": "Maccabi Haifa", "club_country": "ISR", "fc26": null},
+    {"sticker": 22, "position": "FW", "name": "Sontje Hansen", "dob": "2002-04-18", "height_m": 1.75, "weight_kg": null, "club": "Middlesbrough FC", "club_country": "ENG", "fc26": 71},
+    {"sticker": 23, "position": "FW", "name": "Gervane Kastaneer", "dob": "1996-06-09", "height_m": 1.85, "weight_kg": null, "club": "NAC Breda", "club_country": "NED", "fc26": null},
+    {"sticker": 24, "position": "FW", "name": "Brandley Kuwas", "dob": "1992-09-19", "height_m": 1.80, "weight_kg": null, "club": "FC Volendam", "club_country": "NED", "fc26": null},
+    {"sticker": 25, "position": "FW", "name": "Jürgen Locadia", "dob": "1993-11-07", "height_m": 1.86, "weight_kg": 87, "club": "Miami FC", "club_country": "USA", "fc26": null},
+    {"sticker": 26, "position": "FW", "name": "Jearl Margaritha", "dob": "2001-04-08", "height_m": null, "weight_kg": null, "club": "SK Beveren", "club_country": "BEL", "fc26": null}
+  ]
+}

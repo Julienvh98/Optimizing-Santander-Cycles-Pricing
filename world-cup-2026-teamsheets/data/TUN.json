@@ -1,0 +1,32 @@
+{
+  "code": "TUN",
+  "coach": "Sabri Lamouchi",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Sabri Ben Hassan", "dob": null, "height_m": null, "weight_kg": null, "club": "Étoile du Sahel", "club_country": "TUN", "fc26": null},
+    {"sticker": 2, "position": "GK", "name": "Abdelmouhib Chamakh", "dob": null, "height_m": null, "weight_kg": null, "club": "Club Africain", "club_country": "TUN", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Aymen Dahmene", "dob": "1997-01-28", "height_m": 1.90, "weight_kg": null, "club": "CS Sfaxien", "club_country": "TUN", "fc26": null},
+    {"sticker": 4, "position": "DF", "name": "Ali Abdi", "dob": "1993-12-20", "height_m": 1.85, "weight_kg": null, "club": "OGC Nice", "club_country": "FRA", "fc26": 74},
+    {"sticker": 5, "position": "DF", "name": "Adem Arous", "dob": null, "height_m": null, "weight_kg": null, "club": "Kasımpaşa SK", "club_country": "TUR", "fc26": null},
+    {"sticker": 6, "position": "DF", "name": "Mohamed Amine Ben Hamida", "dob": null, "height_m": null, "weight_kg": null, "club": "Espérance de Tunis", "club_country": "TUN", "fc26": null},
+    {"sticker": 7, "position": "DF", "name": "Dylan Bronn", "dob": "1995-06-19", "height_m": 1.87, "weight_kg": 82, "club": "Servette FC", "club_country": "SUI", "fc26": 72},
+    {"sticker": 8, "position": "DF", "name": "Raed Chikhaoui", "dob": null, "height_m": null, "weight_kg": null, "club": "US Monastir", "club_country": "TUN", "fc26": null},
+    {"sticker": 9, "position": "DF", "name": "Moutaz Neffati", "dob": null, "height_m": null, "weight_kg": null, "club": "IFK Norrköping", "club_country": "SWE", "fc26": null},
+    {"sticker": 10, "position": "DF", "name": "Omar Rekik", "dob": "2001-12-20", "height_m": 1.85, "weight_kg": null, "club": "NK Maribor", "club_country": "SVN", "fc26": null},
+    {"sticker": 11, "position": "DF", "name": "Montassar Talbi", "dob": "1998-05-26", "height_m": 1.90, "weight_kg": null, "club": "FC Lorient", "club_country": "FRA", "fc26": 76},
+    {"sticker": 12, "position": "DF", "name": "Yan Valery", "dob": "1999-02-22", "height_m": 1.83, "weight_kg": null, "club": "BSC Young Boys", "club_country": "SUI", "fc26": 72},
+    {"sticker": 13, "position": "MF", "name": "Mortadha Ben Ouanes", "dob": "1994-07-02", "height_m": null, "weight_kg": null, "club": "Kasımpaşa SK", "club_country": "TUR", "fc26": 72},
+    {"sticker": 14, "position": "MF", "name": "Anis Ben Slimane", "dob": "2001-03-16", "height_m": 1.87, "weight_kg": null, "club": "Norwich City", "club_country": "ENG", "fc26": 72},
+    {"sticker": 15, "position": "MF", "name": "Ismaël Gharbi", "dob": "2004-04-10", "height_m": 1.75, "weight_kg": null, "club": "FC Augsburg", "club_country": "GER", "fc26": 74},
+    {"sticker": 16, "position": "MF", "name": "Mohamed Ali Hadj Mahmoud", "dob": "2000-03-06", "height_m": null, "weight_kg": null, "club": "FC Lorient", "club_country": "FRA", "fc26": 70},
+    {"sticker": 17, "position": "MF", "name": "Rani Khedira", "dob": "1994-01-27", "height_m": 1.89, "weight_kg": 85, "club": "Union Berlin", "club_country": "GER", "fc26": 75},
+    {"sticker": 18, "position": "MF", "name": "Hannibal Mejbri", "dob": "2003-01-21", "height_m": 1.84, "weight_kg": 74, "club": "Burnley FC", "club_country": "ENG", "fc26": 73},
+    {"sticker": 19, "position": "MF", "name": "Ellyes Skhiri", "dob": "1995-05-10", "height_m": 1.85, "weight_kg": 74, "club": "Eintracht Frankfurt", "club_country": "GER", "fc26": 78},
+    {"sticker": 20, "position": "FW", "name": "Elias Achouri", "dob": "1999-02-10", "height_m": 1.78, "weight_kg": null, "club": "FC Copenhagen", "club_country": "DEN", "fc26": 73},
+    {"sticker": 21, "position": "FW", "name": "Khalil Ayari", "dob": "2007-08-19", "height_m": null, "weight_kg": null, "club": "Paris Saint-Germain", "club_country": "FRA", "fc26": null},
+    {"sticker": 22, "position": "FW", "name": "Firas Chaouat", "dob": "1996-05-08", "height_m": null, "weight_kg": null, "club": "Club Africain", "club_country": "TUN", "fc26": null},
+    {"sticker": 23, "position": "FW", "name": "Rayan Elloumi", "dob": null, "height_m": null, "weight_kg": null, "club": "Vancouver Whitecaps", "club_country": "CAN", "fc26": null},
+    {"sticker": 24, "position": "FW", "name": "Hazem Mastouri", "dob": "2001-01-21", "height_m": null, "weight_kg": null, "club": "Dynamo Makhachkala", "club_country": "RUS", "fc26": null},
+    {"sticker": 25, "position": "FW", "name": "Elias Saad", "dob": "1999-09-27", "height_m": 1.80, "weight_kg": null, "club": "Hannover 96", "club_country": "GER", "fc26": 72},
+    {"sticker": 26, "position": "FW", "name": "Sebastian Tounekti", "dob": "2002-05-14", "height_m": null, "weight_kg": null, "club": "Celtic FC", "club_country": "SCO", "fc26": 72}
+  ]
+}

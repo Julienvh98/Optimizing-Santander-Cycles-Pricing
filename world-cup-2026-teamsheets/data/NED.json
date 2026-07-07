@@ -1,0 +1,32 @@
+{
+  "code": "NED",
+  "coach": "Ronald Koeman",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Mark Flekken", "dob": "1993-06-13", "height_m": 1.94, "weight_kg": 87, "club": "Bayer Leverkusen", "club_country": "GER", "fc26": 79},
+    {"sticker": 2, "position": "GK", "name": "Robin Roefs", "dob": "2003-01-24", "height_m": 1.90, "weight_kg": null, "club": "Sunderland AFC", "club_country": "ENG", "fc26": 74},
+    {"sticker": 3, "position": "GK", "name": "Bart Verbruggen", "dob": "2002-08-18", "height_m": 1.93, "weight_kg": 89, "club": "Brighton & Hove Albion FC", "club_country": "ENG", "fc26": 82},
+    {"sticker": 4, "position": "DF", "name": "Nathan Aké", "dob": "1995-02-18", "height_m": 1.80, "weight_kg": 75, "club": "Manchester City", "club_country": "ENG", "fc26": 82},
+    {"sticker": 5, "position": "DF", "name": "Denzel Dumfries", "dob": "1996-04-18", "height_m": 1.88, "weight_kg": 80, "club": "Inter Milan", "club_country": "ITA", "fc26": 84},
+    {"sticker": 6, "position": "DF", "name": "Lutsharel Geertruida", "dob": "2000-07-18", "height_m": 1.85, "weight_kg": null, "club": "Sunderland AFC", "club_country": "ENG", "fc26": 76},
+    {"sticker": 7, "position": "DF", "name": "Jorrel Hato", "dob": "2006-03-07", "height_m": 1.82, "weight_kg": null, "club": "Chelsea FC", "club_country": "ENG", "fc26": 78},
+    {"sticker": 8, "position": "DF", "name": "Micky van de Ven", "dob": "2001-04-19", "height_m": 1.93, "weight_kg": null, "club": "Tottenham Hotspur", "club_country": "ENG", "fc26": 82},
+    {"sticker": 9, "position": "DF", "name": "Virgil van Dijk", "dob": "1991-07-08", "height_m": 1.95, "weight_kg": 92, "club": "Liverpool FC", "club_country": "ENG", "fc26": 89},
+    {"sticker": 10, "position": "DF", "name": "Jan Paul van Hecke", "dob": "2000-06-08", "height_m": 1.89, "weight_kg": null, "club": "Brighton & Hove Albion FC", "club_country": "ENG", "fc26": 77},
+    {"sticker": 11, "position": "DF", "name": "Mats Wieffer", "dob": "1999-11-16", "height_m": 1.88, "weight_kg": null, "club": "Brighton & Hove Albion FC", "club_country": "ENG", "fc26": 76},
+    {"sticker": 12, "position": "MF", "name": "Frenkie de Jong", "dob": "1997-05-12", "height_m": 1.81, "weight_kg": 74, "club": "FC Barcelona", "club_country": "ESP", "fc26": 85},
+    {"sticker": 13, "position": "MF", "name": "Marten de Roon", "dob": "1991-03-29", "height_m": 1.85, "weight_kg": 78, "club": "Atalanta BC", "club_country": "ITA", "fc26": 79},
+    {"sticker": 14, "position": "MF", "name": "Ryan Gravenberch", "dob": "2002-05-16", "height_m": 1.90, "weight_kg": 78, "club": "Liverpool FC", "club_country": "ENG", "fc26": 84},
+    {"sticker": 15, "position": "MF", "name": "Justin Kluivert", "dob": "1999-05-05", "height_m": 1.71, "weight_kg": 68, "club": "AFC Bournemouth", "club_country": "ENG", "fc26": 78},
+    {"sticker": 16, "position": "MF", "name": "Teun Koopmeiners", "dob": "1998-02-28", "height_m": 1.83, "weight_kg": 76, "club": "Juventus FC", "club_country": "ITA", "fc26": 79},
+    {"sticker": 17, "position": "MF", "name": "Tijjani Reijnders", "dob": "1998-07-29", "height_m": 1.85, "weight_kg": 74, "club": "Manchester City", "club_country": "ENG", "fc26": 84},
+    {"sticker": 18, "position": "MF", "name": "Guus Til", "dob": "1997-12-22", "height_m": 1.85, "weight_kg": null, "club": "PSV Eindhoven", "club_country": "NED", "fc26": 76},
+    {"sticker": 19, "position": "MF", "name": "Quinten Timber", "dob": "2001-06-17", "height_m": 1.79, "weight_kg": null, "club": "Olympique de Marseille", "club_country": "FRA", "fc26": 76},
+    {"sticker": 20, "position": "FW", "name": "Brian Brobbey", "dob": "2002-02-01", "height_m": 1.80, "weight_kg": 88, "club": "Sunderland AFC", "club_country": "ENG", "fc26": 75},
+    {"sticker": 21, "position": "FW", "name": "Memphis Depay", "dob": "1994-02-13", "height_m": 1.76, "weight_kg": 78, "club": "SC Corinthians", "club_country": "BRA", "fc26": null},
+    {"sticker": 22, "position": "FW", "name": "Cody Gakpo", "dob": "1999-05-07", "height_m": 1.93, "weight_kg": 76, "club": "Liverpool FC", "club_country": "ENG", "fc26": 84},
+    {"sticker": 23, "position": "FW", "name": "Noa Lang", "dob": "1999-06-17", "height_m": 1.73, "weight_kg": 70, "club": "Galatasaray SK", "club_country": "TUR", "fc26": 78},
+    {"sticker": 24, "position": "FW", "name": "Donyell Malen", "dob": "1999-01-19", "height_m": 1.79, "weight_kg": 71, "club": "AS Roma", "club_country": "ITA", "fc26": 78},
+    {"sticker": 25, "position": "FW", "name": "Crysencio Summerville", "dob": "2001-10-30", "height_m": 1.74, "weight_kg": null, "club": "West Ham United", "club_country": "ENG", "fc26": 76},
+    {"sticker": 26, "position": "FW", "name": "Wout Weghorst", "dob": "1992-08-07", "height_m": 1.97, "weight_kg": 84, "club": "AFC Ajax", "club_country": "NED", "fc26": 76}
+  ]
+}

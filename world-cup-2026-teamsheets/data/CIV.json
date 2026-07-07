@@ -1,0 +1,32 @@
+{
+  "code": "CIV",
+  "coach": "Emerse Faé",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Yahia Fofana", "dob": "2000-08-21", "height_m": 1.96, "weight_kg": null, "club": "Çaykur Rizespor", "club_country": "TUR", "fc26": 75},
+    {"sticker": 2, "position": "GK", "name": "Mohamed Koné", "dob": "2001-03-19", "height_m": null, "weight_kg": null, "club": "Royal Charleroi SC", "club_country": "BEL", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Alban Lafont", "dob": "1999-01-23", "height_m": 1.93, "weight_kg": 82, "club": "Panathinaikos FC", "club_country": "GRE", "fc26": 76},
+    {"sticker": 4, "position": "DF", "name": "Emmanuel Agbadou", "dob": "1997-06-17", "height_m": 1.92, "weight_kg": null, "club": "Wolverhampton Wanderers", "club_country": "ENG", "fc26": 76},
+    {"sticker": 5, "position": "DF", "name": "Ousmane Diomande", "dob": "2003-12-04", "height_m": 1.90, "weight_kg": null, "club": "Sporting CP", "club_country": "POR", "fc26": 79},
+    {"sticker": 6, "position": "DF", "name": "Guéla Doué", "dob": "2002-10-17", "height_m": 1.81, "weight_kg": null, "club": "RC Strasbourg", "club_country": "FRA", "fc26": 75},
+    {"sticker": 7, "position": "DF", "name": "Ghislain Konan", "dob": "1995-12-27", "height_m": 1.79, "weight_kg": null, "club": "Gil Vicente FC", "club_country": "POR", "fc26": 70},
+    {"sticker": 8, "position": "DF", "name": "Odilon Kossounou", "dob": "2001-01-04", "height_m": 1.90, "weight_kg": null, "club": "Atalanta BC", "club_country": "ITA", "fc26": 78},
+    {"sticker": 9, "position": "DF", "name": "Evan Ndicka", "dob": "1999-08-20", "height_m": 1.92, "weight_kg": null, "club": "AS Roma", "club_country": "ITA", "fc26": 81},
+    {"sticker": 10, "position": "DF", "name": "Christopher Operi", "dob": "1997-03-29", "height_m": 1.78, "weight_kg": null, "club": "İstanbul Başakşehir", "club_country": "TUR", "fc26": 71},
+    {"sticker": 11, "position": "DF", "name": "Wilfried Singo", "dob": "2000-12-25", "height_m": 1.90, "weight_kg": null, "club": "Galatasaray SK", "club_country": "TUR", "fc26": 78},
+    {"sticker": 12, "position": "MF", "name": "Seko Fofana", "dob": "1995-05-07", "height_m": 1.85, "weight_kg": 80, "club": "Stade Rennais", "club_country": "FRA", "fc26": 78},
+    {"sticker": 13, "position": "MF", "name": "Parfait Guiagon", "dob": "2001-04-10", "height_m": null, "weight_kg": null, "club": "Royal Charleroi SC", "club_country": "BEL", "fc26": null},
+    {"sticker": 14, "position": "MF", "name": "Franck Kessié", "dob": "1996-12-19", "height_m": 1.83, "weight_kg": 79, "club": "Al-Ahli SFC", "club_country": "KSA", "fc26": 81},
+    {"sticker": 15, "position": "MF", "name": "Christ Inao Oulaï", "dob": "2006-01-19", "height_m": null, "weight_kg": null, "club": "Trabzonspor", "club_country": "TUR", "fc26": 70},
+    {"sticker": 16, "position": "MF", "name": "Ibrahim Sangaré", "dob": "1997-12-02", "height_m": 1.91, "weight_kg": null, "club": "Nottingham Forest", "club_country": "ENG", "fc26": 76},
+    {"sticker": 17, "position": "MF", "name": "Jean Michaël Seri", "dob": "1991-07-19", "height_m": 1.68, "weight_kg": 68, "club": "NK Maribor", "club_country": "SVN", "fc26": 71},
+    {"sticker": 18, "position": "FW", "name": "Simon Adingra", "dob": "2002-01-01", "height_m": 1.75, "weight_kg": null, "club": "Sunderland AFC", "club_country": "ENG", "fc26": 75},
+    {"sticker": 19, "position": "FW", "name": "Ange-Yoan Bonny", "dob": "2003-10-25", "height_m": 1.89, "weight_kg": null, "club": "Inter Milan", "club_country": "ITA", "fc26": 77},
+    {"sticker": 20, "position": "FW", "name": "Oumar Diakité", "dob": "2004-01-20", "height_m": null, "weight_kg": null, "club": "Cercle Brugge", "club_country": "BEL", "fc26": 71},
+    {"sticker": 21, "position": "FW", "name": "Amad Diallo", "dob": "2002-07-11", "height_m": 1.73, "weight_kg": 68, "club": "Manchester United", "club_country": "ENG", "fc26": 80},
+    {"sticker": 22, "position": "FW", "name": "Yan Diomande", "dob": "2006-12-03", "height_m": null, "weight_kg": null, "club": "RB Leipzig", "club_country": "GER", "fc26": 74},
+    {"sticker": 23, "position": "FW", "name": "Evann Guessand", "dob": "2001-07-01", "height_m": 1.85, "weight_kg": null, "club": "Crystal Palace", "club_country": "ENG", "fc26": 77},
+    {"sticker": 24, "position": "FW", "name": "Nicolas Pépé", "dob": "1995-05-29", "height_m": 1.83, "weight_kg": 73, "club": "Villarreal CF", "club_country": "ESP", "fc26": 78},
+    {"sticker": 25, "position": "FW", "name": "Bazoumana Touré", "dob": "2006-01-05", "height_m": null, "weight_kg": null, "club": "TSG Hoffenheim", "club_country": "GER", "fc26": 71},
+    {"sticker": 26, "position": "FW", "name": "Elye Wahi", "dob": "2003-01-02", "height_m": 1.85, "weight_kg": null, "club": "OGC Nice", "club_country": "FRA", "fc26": 76}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "code": "ECU",
+  "coach": "Sebastián Beccacece",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Hernán Galíndez", "dob": "1987-03-30", "height_m": 1.87, "weight_kg": null, "club": "CA Huracán", "club_country": "ARG", "fc26": 71},
+    {"sticker": 2, "position": "GK", "name": "Moisés Ramírez", "dob": "2000-09-09", "height_m": 1.88, "weight_kg": null, "club": "Independiente del Valle", "club_country": "ECU", "fc26": 70},
+    {"sticker": 3, "position": "GK", "name": "Gonzalo Valle", "dob": "1996-07-26", "height_m": null, "weight_kg": null, "club": "LDU Quito", "club_country": "ECU", "fc26": null},
+    {"sticker": 4, "position": "DF", "name": "Pervis Estupiñán", "dob": "1998-01-21", "height_m": 1.75, "weight_kg": 73, "club": "AC Milan", "club_country": "ITA", "fc26": 79},
+    {"sticker": 5, "position": "DF", "name": "Piero Hincapié", "dob": "2002-01-09", "height_m": 1.84, "weight_kg": 73, "club": "Arsenal FC", "club_country": "ENG", "fc26": 82},
+    {"sticker": 6, "position": "DF", "name": "Joel Ordóñez", "dob": "2004-01-18", "height_m": 1.87, "weight_kg": null, "club": "Club Brugge KV", "club_country": "BEL", "fc26": 76},
+    {"sticker": 7, "position": "DF", "name": "Willian Pacho", "dob": "2001-10-16", "height_m": 1.88, "weight_kg": null, "club": "Paris Saint-Germain", "club_country": "FRA", "fc26": 84},
+    {"sticker": 8, "position": "DF", "name": "Jackson Porozo", "dob": "2000-08-04", "height_m": 1.93, "weight_kg": null, "club": "ESTAC Troyes", "club_country": "FRA", "fc26": 70},
+    {"sticker": 9, "position": "DF", "name": "Ángelo Preciado", "dob": "1998-02-18", "height_m": 1.71, "weight_kg": null, "club": "Atlético Mineiro", "club_country": "BRA", "fc26": null},
+    {"sticker": 10, "position": "DF", "name": "Félix Torres", "dob": "1997-01-11", "height_m": 1.90, "weight_kg": null, "club": "SC Corinthians", "club_country": "BRA", "fc26": null},
+    {"sticker": 11, "position": "MF", "name": "Jordy Alcívar", "dob": "1999-01-10", "height_m": null, "weight_kg": null, "club": "Independiente del Valle", "club_country": "ECU", "fc26": null},
+    {"sticker": 12, "position": "MF", "name": "Moisés Caicedo", "dob": "2001-11-02", "height_m": 1.78, "weight_kg": 73, "club": "Chelsea FC", "club_country": "ENG", "fc26": 88},
+    {"sticker": 13, "position": "MF", "name": "Denil Castillo", "dob": "2004-03-24", "height_m": null, "weight_kg": null, "club": "FC Midtjylland", "club_country": "DEN", "fc26": 72},
+    {"sticker": 14, "position": "MF", "name": "Alan Franco", "dob": "1996-08-21", "height_m": 1.81, "weight_kg": null, "club": "Atlético Mineiro", "club_country": "BRA", "fc26": null},
+    {"sticker": 15, "position": "MF", "name": "Yaimar Medina", "dob": "2004-07-31", "height_m": null, "weight_kg": null, "club": "KRC Genk", "club_country": "BEL", "fc26": 71},
+    {"sticker": 16, "position": "MF", "name": "Kendry Páez", "dob": "2007-05-04", "height_m": 1.73, "weight_kg": null, "club": "River Plate", "club_country": "ARG", "fc26": 75},
+    {"sticker": 17, "position": "MF", "name": "Pedro Vite", "dob": "2002-02-15", "height_m": 1.77, "weight_kg": null, "club": "Pumas UNAM", "club_country": "MEX", "fc26": 73},
+    {"sticker": 18, "position": "FW", "name": "Nilson Angulo", "dob": "2003-06-19", "height_m": 1.75, "weight_kg": null, "club": "Sunderland AFC", "club_country": "ENG", "fc26": 73},
+    {"sticker": 19, "position": "FW", "name": "Jeremy Arévalo", "dob": "2005-04-12", "height_m": null, "weight_kg": null, "club": "VfB Stuttgart", "club_country": "GER", "fc26": 71},
+    {"sticker": 20, "position": "FW", "name": "Jordy Caicedo", "dob": "1997-11-18", "height_m": 1.88, "weight_kg": null, "club": "CA Huracán", "club_country": "ARG", "fc26": null},
+    {"sticker": 21, "position": "FW", "name": "Alan Minda", "dob": "2003-02-24", "height_m": null, "weight_kg": null, "club": "Atlético Mineiro", "club_country": "BRA", "fc26": null},
+    {"sticker": 22, "position": "FW", "name": "Gonzalo Plata", "dob": "2000-11-01", "height_m": 1.78, "weight_kg": null, "club": "CR Flamengo", "club_country": "BRA", "fc26": null},
+    {"sticker": 23, "position": "FW", "name": "Kevin Rodríguez", "dob": "2000-03-04", "height_m": 1.87, "weight_kg": null, "club": "Union Saint-Gilloise", "club_country": "BEL", "fc26": 72},
+    {"sticker": 24, "position": "FW", "name": "Anthony Valencia", "dob": "2004-05-10", "height_m": null, "weight_kg": null, "club": "Royal Antwerp FC", "club_country": "BEL", "fc26": 70},
+    {"sticker": 25, "position": "FW", "name": "Enner Valencia", "dob": "1989-11-04", "height_m": 1.77, "weight_kg": 77, "club": "CF Pachuca", "club_country": "MEX", "fc26": 76},
+    {"sticker": 26, "position": "FW", "name": "John Yeboah", "dob": "2000-06-23", "height_m": 1.75, "weight_kg": null, "club": "Venezia FC", "club_country": "ITA", "fc26": 72}
+  ]
+}

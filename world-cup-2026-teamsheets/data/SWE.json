@@ -1,0 +1,32 @@
+{
+  "code": "SWE",
+  "coach": "Graham Potter",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Viktor Johansson", "dob": "1998-09-14", "height_m": 1.88, "weight_kg": null, "club": "Stoke City", "club_country": "ENG", "fc26": 74},
+    {"sticker": 2, "position": "GK", "name": "Kristoffer Nordfeldt", "dob": "1989-06-23", "height_m": 1.89, "weight_kg": 85, "club": "AIK Stockholm", "club_country": "SWE", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Jacob Zetterström", "dob": "1998-07-25", "height_m": null, "weight_kg": null, "club": "Derby County", "club_country": "ENG", "fc26": 70},
+    {"sticker": 4, "position": "DF", "name": "Hjalmar Ekdal", "dob": "1998-10-21", "height_m": 1.93, "weight_kg": null, "club": "Burnley FC", "club_country": "ENG", "fc26": 71},
+    {"sticker": 5, "position": "DF", "name": "Gabriel Gudmundsson", "dob": "1999-04-29", "height_m": 1.80, "weight_kg": null, "club": "Leeds United", "club_country": "ENG", "fc26": 74},
+    {"sticker": 6, "position": "DF", "name": "Isak Hien", "dob": "1999-01-13", "height_m": 1.90, "weight_kg": null, "club": "Atalanta BC", "club_country": "ITA", "fc26": 79},
+    {"sticker": 7, "position": "DF", "name": "Emil Holm", "dob": "2000-05-13", "height_m": 1.91, "weight_kg": null, "club": "Juventus FC", "club_country": "ITA", "fc26": 75},
+    {"sticker": 8, "position": "DF", "name": "Gustaf Lagerbielke", "dob": "2000-04-10", "height_m": 1.89, "weight_kg": null, "club": "SC Braga", "club_country": "POR", "fc26": 71},
+    {"sticker": 9, "position": "DF", "name": "Victor Lindelöf", "dob": "1994-07-17", "height_m": 1.87, "weight_kg": 80, "club": "Aston Villa", "club_country": "ENG", "fc26": 75},
+    {"sticker": 10, "position": "DF", "name": "Eric Smith", "dob": "1997-01-08", "height_m": 1.84, "weight_kg": null, "club": "FC St. Pauli", "club_country": "GER", "fc26": 72},
+    {"sticker": 11, "position": "DF", "name": "Carl Starfelt", "dob": "1995-06-01", "height_m": 1.88, "weight_kg": null, "club": "Celta de Vigo", "club_country": "ESP", "fc26": 74},
+    {"sticker": 12, "position": "DF", "name": "Elliot Stroud", "dob": null, "height_m": null, "weight_kg": null, "club": "Mjällby AIF", "club_country": "SWE", "fc26": null},
+    {"sticker": 13, "position": "DF", "name": "Daniel Svensson", "dob": "2002-02-13", "height_m": 1.79, "weight_kg": null, "club": "Borussia Dortmund", "club_country": "GER", "fc26": 75},
+    {"sticker": 14, "position": "MF", "name": "Yasin Ayari", "dob": "2003-10-06", "height_m": 1.75, "weight_kg": null, "club": "Brighton & Hove Albion FC", "club_country": "ENG", "fc26": 76},
+    {"sticker": 15, "position": "MF", "name": "Lucas Bergvall", "dob": "2006-02-02", "height_m": 1.87, "weight_kg": null, "club": "Tottenham Hotspur", "club_country": "ENG", "fc26": 78},
+    {"sticker": 16, "position": "MF", "name": "Jesper Karlström", "dob": "1995-06-21", "height_m": 1.83, "weight_kg": null, "club": "Udinese Calcio", "club_country": "ITA", "fc26": 73},
+    {"sticker": 17, "position": "MF", "name": "Ken Sema", "dob": "1993-09-30", "height_m": 1.78, "weight_kg": null, "club": "Pafos FC", "club_country": "CYP", "fc26": 71},
+    {"sticker": 18, "position": "MF", "name": "Mattias Svanberg", "dob": "1999-01-05", "height_m": 1.85, "weight_kg": 75, "club": "VfL Wolfsburg", "club_country": "GER", "fc26": 75},
+    {"sticker": 19, "position": "MF", "name": "Besfort Zeneli", "dob": "2003-08-24", "height_m": null, "weight_kg": null, "club": "Union Saint-Gilloise", "club_country": "BEL", "fc26": null},
+    {"sticker": 20, "position": "FW", "name": "Taha Ali", "dob": "1998-01-24", "height_m": null, "weight_kg": null, "club": "Malmö FF", "club_country": "SWE", "fc26": null},
+    {"sticker": 21, "position": "FW", "name": "Alexander Bernhardsson", "dob": "1998-08-04", "height_m": null, "weight_kg": null, "club": "Holstein Kiel", "club_country": "GER", "fc26": null},
+    {"sticker": 22, "position": "FW", "name": "Anthony Elanga", "dob": "2002-04-27", "height_m": 1.78, "weight_kg": 70, "club": "Newcastle United", "club_country": "ENG", "fc26": 79},
+    {"sticker": 23, "position": "FW", "name": "Viktor Gyökeres", "dob": "1998-06-04", "height_m": 1.87, "weight_kg": 82, "club": "Arsenal FC", "club_country": "ENG", "fc26": 86},
+    {"sticker": 24, "position": "FW", "name": "Alexander Isak", "dob": "1999-09-21", "height_m": 1.92, "weight_kg": 77, "club": "Liverpool FC", "club_country": "ENG", "fc26": 88},
+    {"sticker": 25, "position": "FW", "name": "Gustaf Nilsson", "dob": "1997-07-01", "height_m": 1.94, "weight_kg": null, "club": "Club Brugge KV", "club_country": "BEL", "fc26": 72},
+    {"sticker": 26, "position": "FW", "name": "Benjamin Nygren", "dob": "2001-07-08", "height_m": 1.80, "weight_kg": null, "club": "Celtic FC", "club_country": "SCO", "fc26": 72}
+  ]
+}

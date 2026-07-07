@@ -1,0 +1,32 @@
+{
+  "code": "JPN",
+  "coach": "Hajime Moriyasu",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Tomoki Hayakawa", "dob": "2002-08-27", "height_m": null, "weight_kg": null, "club": "Kashima Antlers", "club_country": "JPN", "fc26": null},
+    {"sticker": 2, "position": "GK", "name": "Keisuke Osako", "dob": "1999-07-28", "height_m": 1.87, "weight_kg": null, "club": "Sanfrecce Hiroshima", "club_country": "JPN", "fc26": 70},
+    {"sticker": 3, "position": "GK", "name": "Zion Suzuki", "dob": "2002-08-21", "height_m": 1.90, "weight_kg": 88, "club": "Parma Calcio", "club_country": "ITA", "fc26": 78},
+    {"sticker": 4, "position": "DF", "name": "Hiroki Ito", "dob": "1999-05-12", "height_m": 1.86, "weight_kg": null, "club": "Bayern Munich", "club_country": "GER", "fc26": 80},
+    {"sticker": 5, "position": "DF", "name": "Ko Itakura", "dob": "1997-01-27", "height_m": 1.88, "weight_kg": null, "club": "AFC Ajax", "club_country": "NED", "fc26": 77},
+    {"sticker": 6, "position": "DF", "name": "Yuto Nagatomo", "dob": "1986-09-12", "height_m": 1.70, "weight_kg": 68, "club": "FC Tokyo", "club_country": "JPN", "fc26": 70},
+    {"sticker": 7, "position": "DF", "name": "Ayumu Seko", "dob": "2000-06-07", "height_m": 1.85, "weight_kg": null, "club": "Le Havre AC", "club_country": "FRA", "fc26": 72},
+    {"sticker": 8, "position": "DF", "name": "Yukinari Sugawara", "dob": "2000-06-28", "height_m": 1.78, "weight_kg": null, "club": "Southampton FC", "club_country": "ENG", "fc26": 74},
+    {"sticker": 9, "position": "DF", "name": "Junnosuke Suzuki", "dob": "2004-02-12", "height_m": null, "weight_kg": null, "club": "FC Copenhagen", "club_country": "DEN", "fc26": null},
+    {"sticker": 10, "position": "DF", "name": "Shogo Taniguchi", "dob": "1991-07-15", "height_m": 1.83, "weight_kg": null, "club": "Sint-Truidense VV", "club_country": "BEL", "fc26": 72},
+    {"sticker": 11, "position": "DF", "name": "Takehiro Tomiyasu", "dob": "1998-11-05", "height_m": 1.88, "weight_kg": 84, "club": "AFC Ajax", "club_country": "NED", "fc26": null},
+    {"sticker": 12, "position": "DF", "name": "Tsuyoshi Watanabe", "dob": "1997-02-05", "height_m": 1.86, "weight_kg": null, "club": "Feyenoord", "club_country": "NED", "fc26": 75},
+    {"sticker": 13, "position": "MF", "name": "Ritsu Doan", "dob": "1998-06-16", "height_m": 1.72, "weight_kg": 70, "club": "Eintracht Frankfurt", "club_country": "GER", "fc26": 80},
+    {"sticker": 14, "position": "MF", "name": "Wataru Endo", "dob": "1993-02-09", "height_m": 1.78, "weight_kg": 76, "club": "Liverpool FC", "club_country": "ENG", "fc26": 78},
+    {"sticker": 15, "position": "MF", "name": "Junya Ito", "dob": "1993-03-09", "height_m": 1.76, "weight_kg": 66, "club": "KRC Genk", "club_country": "BEL", "fc26": 78},
+    {"sticker": 16, "position": "MF", "name": "Daichi Kamada", "dob": "1996-08-05", "height_m": 1.84, "weight_kg": 72, "club": "Crystal Palace", "club_country": "ENG", "fc26": 78},
+    {"sticker": 17, "position": "MF", "name": "Takefusa Kubo", "dob": "2001-06-04", "height_m": 1.73, "weight_kg": 67, "club": "Real Sociedad", "club_country": "ESP", "fc26": 84},
+    {"sticker": 18, "position": "MF", "name": "Keito Nakamura", "dob": "2000-07-28", "height_m": 1.77, "weight_kg": null, "club": "Stade de Reims", "club_country": "FRA", "fc26": 74},
+    {"sticker": 19, "position": "MF", "name": "Kaishu Sano", "dob": "2000-03-30", "height_m": 1.76, "weight_kg": null, "club": "1. FSV Mainz 05", "club_country": "GER", "fc26": 75},
+    {"sticker": 20, "position": "MF", "name": "Ao Tanaka", "dob": "1998-09-10", "height_m": 1.80, "weight_kg": null, "club": "Leeds United", "club_country": "ENG", "fc26": 76},
+    {"sticker": 21, "position": "FW", "name": "Keisuke Goto", "dob": "2005-05-30", "height_m": null, "weight_kg": null, "club": "Sint-Truidense VV", "club_country": "BEL", "fc26": null},
+    {"sticker": 22, "position": "FW", "name": "Daizen Maeda", "dob": "1997-10-20", "height_m": 1.73, "weight_kg": 67, "club": "Celtic FC", "club_country": "SCO", "fc26": 76},
+    {"sticker": 23, "position": "FW", "name": "Koki Ogawa", "dob": "1997-08-08", "height_m": 1.86, "weight_kg": null, "club": "NEC Nijmegen", "club_country": "NED", "fc26": 72},
+    {"sticker": 24, "position": "FW", "name": "Kento Shiogai", "dob": "2002-10-28", "height_m": null, "weight_kg": null, "club": "GKS Katowice", "club_country": "POL", "fc26": null},
+    {"sticker": 25, "position": "FW", "name": "Yuito Suzuki", "dob": "2002-01-25", "height_m": null, "weight_kg": null, "club": "SC Freiburg", "club_country": "GER", "fc26": 74},
+    {"sticker": 26, "position": "FW", "name": "Ayase Ueda", "dob": "1998-08-28", "height_m": 1.82, "weight_kg": null, "club": "Feyenoord", "club_country": "NED", "fc26": 77}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "code": "GER",
+  "coach": "Julian Nagelsmann",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Oliver Baumann", "dob": "1990-06-02", "height_m": 1.87, "weight_kg": 84, "club": "TSG Hoffenheim", "club_country": "GER", "fc26": 81},
+    {"sticker": 2, "position": "GK", "name": "Manuel Neuer", "dob": "1986-03-27", "height_m": 1.93, "weight_kg": 93, "club": "Bayern Munich", "club_country": "GER", "fc26": 84},
+    {"sticker": 3, "position": "GK", "name": "Alexander Nübel", "dob": "1996-09-30", "height_m": 1.93, "weight_kg": null, "club": "VfB Stuttgart", "club_country": "GER", "fc26": 79},
+    {"sticker": 4, "position": "DF", "name": "Waldemar Anton", "dob": "1996-07-20", "height_m": 1.89, "weight_kg": null, "club": "Borussia Dortmund", "club_country": "GER", "fc26": 80},
+    {"sticker": 5, "position": "DF", "name": "Nathaniel Brown", "dob": "2003-07-16", "height_m": 1.79, "weight_kg": null, "club": "Eintracht Frankfurt", "club_country": "GER", "fc26": 76},
+    {"sticker": 6, "position": "DF", "name": "Joshua Kimmich", "dob": "1995-02-08", "height_m": 1.77, "weight_kg": 75, "club": "Bayern Munich", "club_country": "GER", "fc26": 87},
+    {"sticker": 7, "position": "DF", "name": "David Raum", "dob": "1998-04-22", "height_m": 1.80, "weight_kg": 75, "club": "RB Leipzig", "club_country": "GER", "fc26": 80},
+    {"sticker": 8, "position": "DF", "name": "Antonio Rüdiger", "dob": "1993-03-03", "height_m": 1.90, "weight_kg": 85, "club": "Real Madrid", "club_country": "ESP", "fc26": 87},
+    {"sticker": 9, "position": "DF", "name": "Nico Schlotterbeck", "dob": "1999-12-01", "height_m": 1.91, "weight_kg": 86, "club": "Borussia Dortmund", "club_country": "GER", "fc26": 85},
+    {"sticker": 10, "position": "DF", "name": "Jonathan Tah", "dob": "1996-02-11", "height_m": 1.95, "weight_kg": 97, "club": "Bayern Munich", "club_country": "GER", "fc26": 85},
+    {"sticker": 11, "position": "DF", "name": "Malick Thiaw", "dob": "2001-08-08", "height_m": 1.91, "weight_kg": null, "club": "Newcastle United", "club_country": "ENG", "fc26": 78},
+    {"sticker": 12, "position": "MF", "name": "Nadiem Amiri", "dob": "1996-10-27", "height_m": 1.80, "weight_kg": null, "club": "1. FSV Mainz 05", "club_country": "GER", "fc26": 78},
+    {"sticker": 13, "position": "MF", "name": "Leon Goretzka", "dob": "1995-02-06", "height_m": 1.89, "weight_kg": 82, "club": "Bayern Munich", "club_country": "GER", "fc26": 82},
+    {"sticker": 14, "position": "MF", "name": "Pascal Groß", "dob": "1991-06-15", "height_m": 1.81, "weight_kg": 78, "club": "Borussia Dortmund", "club_country": "GER", "fc26": 80},
+    {"sticker": 15, "position": "MF", "name": "Jamie Leweling", "dob": "2001-02-26", "height_m": 1.87, "weight_kg": null, "club": "VfB Stuttgart", "club_country": "GER", "fc26": 77},
+    {"sticker": 16, "position": "MF", "name": "Jamal Musiala", "dob": "2003-02-26", "height_m": 1.84, "weight_kg": 72, "club": "Bayern Munich", "club_country": "GER", "fc26": 88},
+    {"sticker": 17, "position": "MF", "name": "Felix Nmecha", "dob": "2000-12-10", "height_m": 1.90, "weight_kg": null, "club": "Borussia Dortmund", "club_country": "GER", "fc26": 78},
+    {"sticker": 18, "position": "MF", "name": "Assan Ouédraogo", "dob": "2006-05-09", "height_m": 1.87, "weight_kg": null, "club": "RB Leipzig", "club_country": "GER", "fc26": 74},
+    {"sticker": 19, "position": "MF", "name": "Aleksandar Pavlović", "dob": "2004-05-03", "height_m": 1.88, "weight_kg": null, "club": "Bayern Munich", "club_country": "GER", "fc26": 81},
+    {"sticker": 20, "position": "MF", "name": "Leroy Sané", "dob": "1996-01-11", "height_m": 1.83, "weight_kg": 75, "club": "Galatasaray SK", "club_country": "TUR", "fc26": 83},
+    {"sticker": 21, "position": "MF", "name": "Angelo Stiller", "dob": "2001-04-04", "height_m": 1.75, "weight_kg": null, "club": "VfB Stuttgart", "club_country": "GER", "fc26": 81},
+    {"sticker": 22, "position": "MF", "name": "Florian Wirtz", "dob": "2003-05-03", "height_m": 1.77, "weight_kg": 71, "club": "Liverpool FC", "club_country": "ENG", "fc26": 89},
+    {"sticker": 23, "position": "FW", "name": "Maximilian Beier", "dob": "2002-10-17", "height_m": 1.83, "weight_kg": null, "club": "Borussia Dortmund", "club_country": "GER", "fc26": 78},
+    {"sticker": 24, "position": "FW", "name": "Kai Havertz", "dob": "1999-06-11", "height_m": 1.93, "weight_kg": 82, "club": "Arsenal FC", "club_country": "ENG", "fc26": 82},
+    {"sticker": 25, "position": "FW", "name": "Deniz Undav", "dob": "1996-07-19", "height_m": 1.79, "weight_kg": null, "club": "VfB Stuttgart", "club_country": "GER", "fc26": 79},
+    {"sticker": 26, "position": "FW", "name": "Nick Woltemade", "dob": "2002-02-14", "height_m": 1.98, "weight_kg": null, "club": "Newcastle United", "club_country": "ENG", "fc26": 79}
+  ]
+}
