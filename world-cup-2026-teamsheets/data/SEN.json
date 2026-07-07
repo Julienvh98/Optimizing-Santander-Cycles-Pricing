@@ -1,0 +1,32 @@
+{
+  "code": "SEN",
+  "coach": "Pape Thiaw",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Mory Diaw", "dob": "1993-01-23", "height_m": 1.91, "weight_kg": null, "club": "Le Havre AC", "club_country": "FRA", "fc26": 73},
+    {"sticker": 2, "position": "GK", "name": "Yehvann Diouf", "dob": "1999-12-28", "height_m": 1.94, "weight_kg": null, "club": "OGC Nice", "club_country": "FRA", "fc26": 74},
+    {"sticker": 3, "position": "GK", "name": "Édouard Mendy", "dob": "1992-03-01", "height_m": 1.97, "weight_kg": 89, "club": "Al Ahly SC", "club_country": "EGY", "fc26": 79},
+    {"sticker": 4, "position": "DF", "name": "Krépin Diatta", "dob": "1999-02-25", "height_m": 1.77, "weight_kg": null, "club": "AS Monaco", "club_country": "FRA", "fc26": 78},
+    {"sticker": 5, "position": "DF", "name": "El Hadji Malick Diouf", "dob": "2004-08-27", "height_m": null, "weight_kg": null, "club": "West Ham United", "club_country": "ENG", "fc26": 74},
+    {"sticker": 6, "position": "DF", "name": "Ismail Jakobs", "dob": "1999-08-17", "height_m": 1.85, "weight_kg": null, "club": "Galatasaray SK", "club_country": "TUR", "fc26": 77},
+    {"sticker": 7, "position": "DF", "name": "Kalidou Koulibaly", "dob": "1991-06-20", "height_m": 1.86, "weight_kg": 89, "club": "Al-Hilal SFC", "club_country": "KSA", "fc26": 84},
+    {"sticker": 8, "position": "DF", "name": "Antoine Mendy", "dob": "2003-01-30", "height_m": null, "weight_kg": null, "club": "OGC Nice", "club_country": "FRA", "fc26": 73},
+    {"sticker": 9, "position": "DF", "name": "Moussa Niakhaté", "dob": "1996-03-08", "height_m": 1.90, "weight_kg": 85, "club": "Olympique Lyonnais", "club_country": "FRA", "fc26": 79},
+    {"sticker": 10, "position": "DF", "name": "Mamadou Sarr", "dob": "2005-01-08", "height_m": null, "weight_kg": null, "club": "RC Strasbourg", "club_country": "FRA", "fc26": 74},
+    {"sticker": 11, "position": "DF", "name": "Abdoulaye Seck", "dob": "1993-12-19", "height_m": null, "weight_kg": null, "club": "Maccabi Haifa", "club_country": "ISR", "fc26": 72},
+    {"sticker": 12, "position": "MF", "name": "Lamine Camara", "dob": "2004-05-01", "height_m": 1.86, "weight_kg": null, "club": "AS Monaco", "club_country": "FRA", "fc26": 79},
+    {"sticker": 13, "position": "MF", "name": "Pathé Ciss", "dob": "1996-01-16", "height_m": null, "weight_kg": null, "club": "Rayo Vallecano", "club_country": "ESP", "fc26": 75},
+    {"sticker": 14, "position": "MF", "name": "Habib Diarra", "dob": "2003-01-03", "height_m": 1.87, "weight_kg": null, "club": "Sunderland AFC", "club_country": "ENG", "fc26": 78},
+    {"sticker": 15, "position": "MF", "name": "Idrissa Gana Gueye", "dob": "1989-09-26", "height_m": 1.74, "weight_kg": 71, "club": "Everton FC", "club_country": "ENG", "fc26": 78},
+    {"sticker": 16, "position": "MF", "name": "Pape Gueye", "dob": "1999-03-31", "height_m": 1.85, "weight_kg": null, "club": "Villarreal CF", "club_country": "ESP", "fc26": 78},
+    {"sticker": 17, "position": "MF", "name": "Bara Sapoko Ndiaye", "dob": null, "height_m": null, "weight_kg": null, "club": "Bayern Munich", "club_country": "GER", "fc26": null},
+    {"sticker": 18, "position": "MF", "name": "Pape Matar Sarr", "dob": "2002-09-14", "height_m": 1.85, "weight_kg": null, "club": "Tottenham Hotspur", "club_country": "ENG", "fc26": 81},
+    {"sticker": 19, "position": "FW", "name": "Assane Diao", "dob": "2007-03-31", "height_m": null, "weight_kg": null, "club": "Como 1907", "club_country": "ITA", "fc26": 75},
+    {"sticker": 20, "position": "FW", "name": "Bamba Dieng", "dob": "2000-01-23", "height_m": 1.75, "weight_kg": null, "club": "FC Lorient", "club_country": "FRA", "fc26": 74},
+    {"sticker": 21, "position": "FW", "name": "Nicolas Jackson", "dob": "2001-06-20", "height_m": 1.86, "weight_kg": null, "club": "Bayern Munich", "club_country": "GER", "fc26": 82},
+    {"sticker": 22, "position": "FW", "name": "Ibrahim Mbaye", "dob": "2007-03-27", "height_m": null, "weight_kg": null, "club": "Paris Saint-Germain", "club_country": "FRA", "fc26": 74},
+    {"sticker": 23, "position": "FW", "name": "Sadio Mané", "dob": "1992-04-10", "height_m": 1.75, "weight_kg": 69, "club": "Al-Nassr FC", "club_country": "KSA", "fc26": 83},
+    {"sticker": 24, "position": "FW", "name": "Cherif Ndiaye", "dob": "1998-05-31", "height_m": null, "weight_kg": null, "club": "Samsunspor", "club_country": "TUR", "fc26": 72},
+    {"sticker": 25, "position": "FW", "name": "Iliman Ndiaye", "dob": "2000-06-06", "height_m": 1.74, "weight_kg": null, "club": "Everton FC", "club_country": "ENG", "fc26": 78},
+    {"sticker": 26, "position": "FW", "name": "Ismaila Sarr", "dob": "1998-02-25", "height_m": 1.84, "weight_kg": null, "club": "Crystal Palace", "club_country": "ENG", "fc26": 79}
+  ]
+}

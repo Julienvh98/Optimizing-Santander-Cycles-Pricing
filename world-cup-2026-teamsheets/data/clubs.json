@@ -568,8 +568,8 @@
     "#FFFFFF"
   ],
   "Al-Ittihad Club": [
-    "#FFD700",
-    "#000000"
+    "#000000",
+    "#FFD100"
   ],
   "FC Barcelona": [
     "#A50044",
@@ -1402,5 +1402,89 @@
   "Fluminense FC": [
     "#8A1538",
     "#00843D"
+  ],
+  "Como 1907": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Rayo Vallecano": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Al-Nassr FC": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Samsunspor": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Pogoń Szczecin": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Al-Zawraa SC": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "Al-Talaba SC": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Al-Shorta SC": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Persib Bandung": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "FC Port": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Pakhtakor Tashkent": [
+    "#FFD100",
+    "#0055A5"
+  ],
+  "AEK Larnaca": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Cracovia": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Al-Dhafra FC": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "FC Utrecht": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Nashville SC": [
+    "#EFDD00",
+    "#000000"
+  ],
+  "Sarpsborg 08": [
+    "#FFD100",
+    "#0055A5"
+  ],
+  "AGF Aarhus": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "Al-Karma SC": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Dibba Al-Fujairah": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Bodø/Glimt": [
+    "#FFD100",
+    "#000000"
   ]
 }

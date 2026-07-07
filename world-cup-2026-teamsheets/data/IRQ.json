@@ -1,0 +1,32 @@
+{
+  "code": "IRQ",
+  "coach": "Graham Arnold",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Jalal Hassan", "dob": "1991-01-01", "height_m": 1.88, "weight_kg": null, "club": "Al-Zawraa SC", "club_country": "IRQ", "fc26": 72},
+    {"sticker": 2, "position": "GK", "name": "Fahad Talib", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Talaba SC", "club_country": "IRQ", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Ahmed Basil", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Shorta SC", "club_country": "IRQ", "fc26": null},
+    {"sticker": 4, "position": "DF", "name": "Hussein Ali", "dob": "1997-07-28", "height_m": null, "weight_kg": null, "club": "Pogoń Szczecin", "club_country": "POL", "fc26": 71},
+    {"sticker": 5, "position": "DF", "name": "Merchas Doski", "dob": "1998-04-15", "height_m": null, "weight_kg": null, "club": "Viktoria Plzeň", "club_country": "CZE", "fc26": 71},
+    {"sticker": 6, "position": "DF", "name": "Akam Hashem", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Zawraa SC", "club_country": "IRQ", "fc26": null},
+    {"sticker": 7, "position": "DF", "name": "Zaid Ismail", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Talaba SC", "club_country": "IRQ", "fc26": null},
+    {"sticker": 8, "position": "DF", "name": "Frans Putros", "dob": null, "height_m": null, "weight_kg": null, "club": "Persib Bandung", "club_country": "IDN", "fc26": null},
+    {"sticker": 9, "position": "DF", "name": "Mustafa Saadoon", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Shorta SC", "club_country": "IRQ", "fc26": null},
+    {"sticker": 10, "position": "DF", "name": "Rebin Sulaka", "dob": null, "height_m": null, "weight_kg": null, "club": "FC Port", "club_country": "GRE", "fc26": null},
+    {"sticker": 11, "position": "DF", "name": "Zaid Tahseen", "dob": null, "height_m": null, "weight_kg": null, "club": "Pakhtakor Tashkent", "club_country": "UZB", "fc26": null},
+    {"sticker": 12, "position": "DF", "name": "Ahmed Yahya", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Shorta SC", "club_country": "IRQ", "fc26": null},
+    {"sticker": 13, "position": "DF", "name": "Manaf Younis", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Shorta SC", "club_country": "IRQ", "fc26": null},
+    {"sticker": 14, "position": "MF", "name": "Youssef Amyn", "dob": "2000-05-05", "height_m": null, "weight_kg": null, "club": "AEK Larnaca", "club_country": "CYP", "fc26": 71},
+    {"sticker": 15, "position": "MF", "name": "Amir Al-Ammari", "dob": "1998-02-08", "height_m": null, "weight_kg": null, "club": "Cracovia", "club_country": "POL", "fc26": 70},
+    {"sticker": 16, "position": "MF", "name": "Ibrahim Bayesh", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Dhafra FC", "club_country": "UAE", "fc26": null},
+    {"sticker": 17, "position": "MF", "name": "Marko Farji", "dob": null, "height_m": null, "weight_kg": null, "club": "Venezia FC", "club_country": "ITA", "fc26": null},
+    {"sticker": 18, "position": "MF", "name": "Zidane Iqbal", "dob": "2003-07-27", "height_m": 1.76, "weight_kg": null, "club": "FC Utrecht", "club_country": "NED", "fc26": 72},
+    {"sticker": 19, "position": "MF", "name": "Ahmed Qasem", "dob": null, "height_m": null, "weight_kg": null, "club": "Nashville SC", "club_country": "USA", "fc26": null},
+    {"sticker": 20, "position": "MF", "name": "Aimar Sher", "dob": "2002-01-27", "height_m": null, "weight_kg": null, "club": "Sarpsborg 08", "club_country": "NOR", "fc26": 70},
+    {"sticker": 21, "position": "MF", "name": "Kevin Yakob", "dob": "2001-08-15", "height_m": null, "weight_kg": null, "club": "AGF Aarhus", "club_country": "DEN", "fc26": 70},
+    {"sticker": 22, "position": "FW", "name": "Ali Al-Hamadi", "dob": "2001-10-19", "height_m": 1.85, "weight_kg": null, "club": "Ipswich Town", "club_country": "ENG", "fc26": 73},
+    {"sticker": 23, "position": "FW", "name": "Aymen Hussein", "dob": "1996-01-01", "height_m": null, "weight_kg": null, "club": "Al-Karma SC", "club_country": "IRQ", "fc26": 70},
+    {"sticker": 24, "position": "FW", "name": "Ali Jassim", "dob": "2002-06-15", "height_m": null, "weight_kg": null, "club": "Como 1907", "club_country": "ITA", "fc26": 71},
+    {"sticker": 25, "position": "FW", "name": "Mohanad Ali", "dob": null, "height_m": null, "weight_kg": null, "club": "Dibba Al-Fujairah", "club_country": "UAE", "fc26": null},
+    {"sticker": 26, "position": "FW", "name": "Ali Youssef", "dob": null, "height_m": null, "weight_kg": null, "club": "Apollon Limassol", "club_country": "CYP", "fc26": null}
+  ]
+}

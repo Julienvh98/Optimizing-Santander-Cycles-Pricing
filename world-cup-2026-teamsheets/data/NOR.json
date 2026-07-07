@@ -1,0 +1,32 @@
+{
+  "code": "NOR",
+  "coach": "Ståle Solbakken",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Ørjan Håskjold Nyland", "dob": "1990-08-10", "height_m": 1.90, "weight_kg": null, "club": "Sevilla FC", "club_country": "ESP", "fc26": 76},
+    {"sticker": 2, "position": "GK", "name": "Egil Selvik", "dob": "1997-01-27", "height_m": null, "weight_kg": null, "club": "Watford FC", "club_country": "ENG", "fc26": 71},
+    {"sticker": 3, "position": "GK", "name": "Sander Tangvik", "dob": null, "height_m": null, "weight_kg": null, "club": "Hamburger SV", "club_country": "GER", "fc26": null},
+    {"sticker": 4, "position": "DF", "name": "Kristoffer Ajer", "dob": "1998-04-17", "height_m": 1.95, "weight_kg": 85, "club": "Brentford FC", "club_country": "ENG", "fc26": 79},
+    {"sticker": 5, "position": "DF", "name": "Fredrik Bjørkan", "dob": "1999-10-15", "height_m": null, "weight_kg": null, "club": "Bodø/Glimt", "club_country": "NOR", "fc26": 74},
+    {"sticker": 6, "position": "DF", "name": "Henrik Falchener", "dob": null, "height_m": null, "weight_kg": null, "club": "Viking FK", "club_country": "NOR", "fc26": null},
+    {"sticker": 7, "position": "DF", "name": "Torbjørn Heggem", "dob": "1999-06-15", "height_m": null, "weight_kg": null, "club": "Bologna FC", "club_country": "ITA", "fc26": 74},
+    {"sticker": 8, "position": "DF", "name": "Sondre Langås", "dob": null, "height_m": null, "weight_kg": null, "club": "Derby County", "club_country": "ENG", "fc26": null},
+    {"sticker": 9, "position": "DF", "name": "David Møller Wolfe", "dob": "2000-04-14", "height_m": null, "weight_kg": null, "club": "Wolverhampton Wanderers", "club_country": "ENG", "fc26": 75},
+    {"sticker": 10, "position": "DF", "name": "Leo Skiri Østigård", "dob": "1999-01-05", "height_m": 1.87, "weight_kg": null, "club": "Genoa CFC", "club_country": "ITA", "fc26": 76},
+    {"sticker": 11, "position": "DF", "name": "Marcus Holmgren Pedersen", "dob": "1997-09-13", "height_m": null, "weight_kg": null, "club": "Torino FC", "club_country": "ITA", "fc26": 75},
+    {"sticker": 12, "position": "DF", "name": "Julian Ryerson", "dob": "1997-06-17", "height_m": 1.88, "weight_kg": null, "club": "Borussia Dortmund", "club_country": "GER", "fc26": 80},
+    {"sticker": 13, "position": "MF", "name": "Thelo Aasgaard", "dob": "2002-06-13", "height_m": null, "weight_kg": null, "club": "Rangers FC", "club_country": "SCO", "fc26": 73},
+    {"sticker": 14, "position": "MF", "name": "Fredrik Aursnes", "dob": "1995-08-10", "height_m": 1.82, "weight_kg": null, "club": "SL Benfica", "club_country": "POR", "fc26": 78},
+    {"sticker": 15, "position": "MF", "name": "Sander Berge", "dob": "1998-02-14", "height_m": 1.95, "weight_kg": 82, "club": "Fulham FC", "club_country": "ENG", "fc26": 78},
+    {"sticker": 16, "position": "MF", "name": "Patrick Berg", "dob": "1997-08-16", "height_m": null, "weight_kg": null, "club": "Bodø/Glimt", "club_country": "NOR", "fc26": 74},
+    {"sticker": 17, "position": "MF", "name": "Martin Ødegaard", "dob": "1998-12-17", "height_m": 1.78, "weight_kg": 68, "club": "Arsenal FC", "club_country": "ENG", "fc26": 87},
+    {"sticker": 18, "position": "MF", "name": "Kristian Thorstvedt", "dob": "2001-02-24", "height_m": 1.91, "weight_kg": null, "club": "US Sassuolo", "club_country": "ITA", "fc26": 76},
+    {"sticker": 19, "position": "MF", "name": "Morten Thorsby", "dob": "1996-05-05", "height_m": 1.89, "weight_kg": null, "club": "US Cremonese", "club_country": "ITA", "fc26": 74},
+    {"sticker": 20, "position": "FW", "name": "Oscar Bobb", "dob": "2003-07-12", "height_m": 1.66, "weight_kg": null, "club": "Fulham FC", "club_country": "ENG", "fc26": 78},
+    {"sticker": 21, "position": "FW", "name": "Erling Haaland", "dob": "2000-07-21", "height_m": 1.94, "weight_kg": 88, "club": "Manchester City", "club_country": "ENG", "fc26": 91},
+    {"sticker": 22, "position": "FW", "name": "Jens Petter Hauge", "dob": "1999-10-12", "height_m": 1.83, "weight_kg": null, "club": "Bodø/Glimt", "club_country": "NOR", "fc26": 75},
+    {"sticker": 23, "position": "FW", "name": "Antonio Nusa", "dob": "2005-05-05", "height_m": 1.85, "weight_kg": null, "club": "RB Leipzig", "club_country": "GER", "fc26": 79},
+    {"sticker": 24, "position": "FW", "name": "Andreas Schjelderup", "dob": "2004-11-08", "height_m": null, "weight_kg": null, "club": "SL Benfica", "club_country": "POR", "fc26": 77},
+    {"sticker": 25, "position": "FW", "name": "Alexander Sørloth", "dob": "1995-12-05", "height_m": 1.95, "weight_kg": 93, "club": "Atlético Madrid", "club_country": "ESP", "fc26": 81},
+    {"sticker": 26, "position": "FW", "name": "Jørgen Strand Larsen", "dob": "2000-02-04", "height_m": 1.90, "weight_kg": null, "club": "Crystal Palace", "club_country": "ENG", "fc26": 79}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "code": "FRA",
+  "coach": "Didier Deschamps",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Mike Maignan", "dob": "1995-07-03", "height_m": 1.91, "weight_kg": 90, "club": "AC Milan", "club_country": "ITA", "fc26": 86},
+    {"sticker": 2, "position": "GK", "name": "Robin Risser", "dob": "2001-01-24", "height_m": null, "weight_kg": null, "club": "RC Lens", "club_country": "FRA", "fc26": 71},
+    {"sticker": 3, "position": "GK", "name": "Brice Samba", "dob": "1994-04-25", "height_m": 1.90, "weight_kg": null, "club": "Stade Rennais", "club_country": "FRA", "fc26": 78},
+    {"sticker": 4, "position": "DF", "name": "Lucas Digne", "dob": "1993-07-20", "height_m": 1.78, "weight_kg": 71, "club": "Aston Villa", "club_country": "ENG", "fc26": 78},
+    {"sticker": 5, "position": "DF", "name": "Malo Gusto", "dob": "2003-05-19", "height_m": 1.78, "weight_kg": null, "club": "Chelsea FC", "club_country": "ENG", "fc26": 78},
+    {"sticker": 6, "position": "DF", "name": "Lucas Hernández", "dob": "1996-02-14", "height_m": 1.82, "weight_kg": 81, "club": "Paris Saint-Germain", "club_country": "FRA", "fc26": 82},
+    {"sticker": 7, "position": "DF", "name": "Théo Hernández", "dob": "1997-10-06", "height_m": 1.84, "weight_kg": 81, "club": "Al-Hilal SFC", "club_country": "KSA", "fc26": 83},
+    {"sticker": 8, "position": "DF", "name": "Ibrahima Konaté", "dob": "1999-05-25", "height_m": 1.92, "weight_kg": 86, "club": "Liverpool FC", "club_country": "ENG", "fc26": 84},
+    {"sticker": 9, "position": "DF", "name": "Jules Koundé", "dob": "1998-11-12", "height_m": 1.78, "weight_kg": 72, "club": "FC Barcelona", "club_country": "ESP", "fc26": 85},
+    {"sticker": 10, "position": "DF", "name": "Maxence Lacroix", "dob": "2000-12-06", "height_m": 1.87, "weight_kg": null, "club": "VfL Wolfsburg", "club_country": "GER", "fc26": 78},
+    {"sticker": 11, "position": "DF", "name": "William Saliba", "dob": "2001-03-24", "height_m": 1.92, "weight_kg": 83, "club": "Arsenal FC", "club_country": "ENG", "fc26": 86},
+    {"sticker": 12, "position": "DF", "name": "Dayot Upamecano", "dob": "1998-10-27", "height_m": 1.86, "weight_kg": 90, "club": "Bayern Munich", "club_country": "GER", "fc26": 85},
+    {"sticker": 13, "position": "MF", "name": "N'Golo Kanté", "dob": "1991-03-29", "height_m": 1.68, "weight_kg": 68, "club": "Al-Ittihad Club", "club_country": "KSA", "fc26": 80},
+    {"sticker": 14, "position": "MF", "name": "Manu Koné", "dob": "2001-07-13", "height_m": 1.90, "weight_kg": null, "club": "AS Roma", "club_country": "ITA", "fc26": 80},
+    {"sticker": 15, "position": "MF", "name": "Adrien Rabiot", "dob": "1995-04-03", "height_m": 1.88, "weight_kg": 71, "club": "Olympique de Marseille", "club_country": "FRA", "fc26": 82},
+    {"sticker": 16, "position": "MF", "name": "Aurélien Tchouaméni", "dob": "2000-01-27", "height_m": 1.87, "weight_kg": 79, "club": "Real Madrid", "club_country": "ESP", "fc26": 86},
+    {"sticker": 17, "position": "MF", "name": "Warren Zaïre-Emery", "dob": "2006-03-08", "height_m": 1.75, "weight_kg": null, "club": "Paris Saint-Germain", "club_country": "FRA", "fc26": 82},
+    {"sticker": 18, "position": "FW", "name": "Maghnes Akliouche", "dob": "2002-03-25", "height_m": 1.72, "weight_kg": null, "club": "AS Monaco", "club_country": "FRA", "fc26": 78},
+    {"sticker": 19, "position": "FW", "name": "Bradley Barcola", "dob": "2002-11-02", "height_m": 1.83, "weight_kg": null, "club": "Paris Saint-Germain", "club_country": "FRA", "fc26": 83},
+    {"sticker": 20, "position": "FW", "name": "Rayan Cherki", "dob": "2003-08-17", "height_m": 1.75, "weight_kg": null, "club": "Manchester City", "club_country": "ENG", "fc26": 80},
+    {"sticker": 21, "position": "FW", "name": "Ousmane Dembélé", "dob": "1997-05-15", "height_m": 1.78, "weight_kg": 67, "club": "Paris Saint-Germain", "club_country": "FRA", "fc26": 89},
+    {"sticker": 22, "position": "FW", "name": "Désiré Doué", "dob": "2005-06-03", "height_m": 1.80, "weight_kg": null, "club": "Paris Saint-Germain", "club_country": "FRA", "fc26": 84},
+    {"sticker": 23, "position": "FW", "name": "Jean-Philippe Mateta", "dob": "1997-06-28", "height_m": 1.90, "weight_kg": 90, "club": "Crystal Palace", "club_country": "ENG", "fc26": 78},
+    {"sticker": 24, "position": "FW", "name": "Kylian Mbappé", "dob": "1998-12-20", "height_m": 1.78, "weight_kg": 73, "club": "Real Madrid", "club_country": "ESP", "fc26": 92},
+    {"sticker": 25, "position": "FW", "name": "Michael Olise", "dob": "2001-12-12", "height_m": 1.83, "weight_kg": null, "club": "Bayern Munich", "club_country": "GER", "fc26": 84},
+    {"sticker": 26, "position": "FW", "name": "Marcus Thuram", "dob": "1997-08-06", "height_m": 1.90, "weight_kg": 82, "club": "Inter Milan", "club_country": "ITA", "fc26": 84}
+  ]
+}
