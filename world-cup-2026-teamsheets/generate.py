@@ -182,6 +182,28 @@ def flag_svg(code, w=60, h=40, rx=5):
             f'<g clip-path="url(#fc{code})">{body}</g></svg>')
 
 
+# ------------------------------------------------------------- clubs ------
+# Primary/secondary colors per club (exact-name match with data files).
+# Used to draw a small generic crest chip — NOT official club logos.
+CLUB_COLORS = {}
+
+
+def load_club_colors():
+    path = os.path.join(DATA, "clubs.json")
+    if os.path.exists(path):
+        with open(path) as f:
+            CLUB_COLORS.update(json.load(f))
+
+
+def crest_svg(club):
+    c1, c2 = CLUB_COLORS.get(club, ("#9aa4a8", "#5c666a"))
+    return (f'<svg viewBox="0 0 20 24" xmlns="http://www.w3.org/2000/svg" '
+            f'style="display:block;width:100%;height:100%">'
+            f'<path d="M10 1 L19 4 L19 13 C19 19 15 22 10 23.5 C5 22 1 19 1 13 L1 4 Z" fill="{c1}" stroke="#ffffff" stroke-width="1.2"/>'
+            f'<path d="M10 1 L19 4 L19 13 C19 19 15 22 10 23.5 Z" fill="{c2}"/>'
+            f'</svg>')
+
+
 # ----------------------------------------------------------- silhouette ----
 def silhouette_svg(kit1, kit2, number=None):
     """Stylized player bust: dark head, kit-colored jersey with contrast collar/stripes.
@@ -263,7 +285,7 @@ def team_html(meta, squad, group_mates):
       <div class="pos">{POS_LABEL[p["position"]]}</div>
       <div class="pname"><span class="pfirst">{first}</span> <span class="plast">{last}</span></div>
       <div class="pill stats">{fmt_dob(p.get("dob"))} &nbsp;|&nbsp; {age_txt} &nbsp;|&nbsp; {fmt_h(p.get("height_m"))} &nbsp;|&nbsp; {fmt_w(p.get("weight_kg"))}</div>
-      <div class="pill club">{p["club"].upper()} ({p["club_country"]})</div>
+      <div class="pill club"><span class="crest">{crest_svg(p["club"])}</span><span class="clubname">{p["club"].upper()} ({p["club_country"]})</span></div>
     </div>''')
 
     coach_card = f'''
@@ -352,7 +374,9 @@ def team_html(meta, squad, group_mates):
   .plast {{ font-size:19px; font-weight:bold; color:#123f3c; text-transform:uppercase; }}
   .pill {{ border-radius:20px; font-size:11.5px; padding:4px 9px; text-align:center; white-space:nowrap; }}
   .stats {{ background:#0f6f6a; color:#dff4f2; margin-bottom:5px; font-weight:bold; }}
-  .club {{ background:#D93A26; color:#fff; font-weight:bold; overflow:hidden; text-overflow:ellipsis; }}
+  .club {{ background:#D93A26; color:#fff; font-weight:bold; display:flex; align-items:center; justify-content:center; gap:5px; font-size:10.5px; padding:4px 7px; }}
+  .club .crest {{ flex:0 0 auto; width:15px; height:18px; }}
+  .club .clubname {{ min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }}
 
   .special {{ align-items:center; justify-content:center; text-align:center; }}
   .gold {{ background:linear-gradient(160deg,#F5D06F,#E3A93C 55%,#C98A1E); }}
@@ -422,6 +446,7 @@ def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     html_only = "--html" in sys.argv
 
+    load_club_colors()
     with open(os.path.join(DATA, "teams.json")) as f:
         registry = json.load(f)
     teams = {t["code"]: t for t in registry["teams"]}

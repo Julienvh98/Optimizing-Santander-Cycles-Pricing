@@ -1,0 +1,32 @@
+{
+  "code": "CAN",
+  "coach": "Jesse Marsch",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Maxime Crépeau", "dob": "1994-05-11", "height_m": 1.85, "weight_kg": 78, "club": "Orlando City SC", "club_country": "USA", "fc26": 73},
+    {"sticker": 2, "position": "GK", "name": "Owen Goodman", "dob": null, "height_m": null, "weight_kg": null, "club": "Crystal Palace", "club_country": "ENG", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Dayne St. Clair", "dob": "1997-05-09", "height_m": 1.91, "weight_kg": null, "club": "Inter Miami CF", "club_country": "USA", "fc26": 74},
+    {"sticker": 4, "position": "DF", "name": "Moïse Bombito", "dob": "2000-06-21", "height_m": 1.88, "weight_kg": null, "club": "OGC Nice", "club_country": "FRA", "fc26": 75},
+    {"sticker": 5, "position": "DF", "name": "Derek Cornelius", "dob": "1997-11-25", "height_m": 1.86, "weight_kg": null, "club": "Olympique de Marseille", "club_country": "FRA", "fc26": 74},
+    {"sticker": 6, "position": "DF", "name": "Alphonso Davies", "dob": "2000-11-02", "height_m": 1.81, "weight_kg": 75, "club": "Bayern Munich", "club_country": "GER", "fc26": 83},
+    {"sticker": 7, "position": "DF", "name": "Luc de Fougerolles", "dob": null, "height_m": null, "weight_kg": null, "club": "Fulham FC", "club_country": "ENG", "fc26": null},
+    {"sticker": 8, "position": "DF", "name": "Alistair Johnston", "dob": "1998-10-08", "height_m": 1.80, "weight_kg": 77, "club": "Celtic FC", "club_country": "SCO", "fc26": 76},
+    {"sticker": 9, "position": "DF", "name": "Alfie Jones", "dob": "1997-10-07", "height_m": 1.82, "weight_kg": null, "club": "Middlesbrough FC", "club_country": "ENG", "fc26": 71},
+    {"sticker": 10, "position": "DF", "name": "Richie Laryea", "dob": "1995-01-07", "height_m": 1.75, "weight_kg": null, "club": "Toronto FC", "club_country": "CAN", "fc26": 71},
+    {"sticker": 11, "position": "DF", "name": "Niko Sigur", "dob": null, "height_m": null, "weight_kg": null, "club": "HNK Hajduk Split", "club_country": "CRO", "fc26": null},
+    {"sticker": 12, "position": "DF", "name": "Joel Waterman", "dob": "1996-01-24", "height_m": 1.88, "weight_kg": null, "club": "Chicago Fire FC", "club_country": "USA", "fc26": 70},
+    {"sticker": 13, "position": "MF", "name": "Ali Ahmed", "dob": "2000-10-20", "height_m": null, "weight_kg": null, "club": "Norwich City", "club_country": "ENG", "fc26": 70},
+    {"sticker": 14, "position": "MF", "name": "Tajon Buchanan", "dob": "1999-02-08", "height_m": 1.83, "weight_kg": 72, "club": "Villarreal CF", "club_country": "ESP", "fc26": 77},
+    {"sticker": 15, "position": "MF", "name": "Mathieu Choinière", "dob": "1999-02-06", "height_m": null, "weight_kg": null, "club": "Los Angeles FC", "club_country": "USA", "fc26": 71},
+    {"sticker": 16, "position": "MF", "name": "Stephen Eustáquio", "dob": "1996-12-21", "height_m": 1.78, "weight_kg": null, "club": "FC Porto", "club_country": "POR", "fc26": 77},
+    {"sticker": 17, "position": "MF", "name": "Marcelo Flores", "dob": "2003-10-01", "height_m": 1.70, "weight_kg": null, "club": "Tigres UANL", "club_country": "MEX", "fc26": 70},
+    {"sticker": 18, "position": "MF", "name": "Ismaël Koné", "dob": "2002-06-16", "height_m": 1.85, "weight_kg": null, "club": "US Sassuolo", "club_country": "ITA", "fc26": 74},
+    {"sticker": 19, "position": "MF", "name": "Liam Millar", "dob": "1999-09-27", "height_m": 1.78, "weight_kg": null, "club": "Hull City", "club_country": "ENG", "fc26": 71},
+    {"sticker": 20, "position": "MF", "name": "Jonathan Osorio", "dob": "1992-06-12", "height_m": 1.75, "weight_kg": 70, "club": "Toronto FC", "club_country": "CAN", "fc26": 73},
+    {"sticker": 21, "position": "MF", "name": "Nathan Saliba", "dob": null, "height_m": null, "weight_kg": null, "club": "RSC Anderlecht", "club_country": "BEL", "fc26": null},
+    {"sticker": 22, "position": "MF", "name": "Jacob Shaffelburg", "dob": "1999-11-26", "height_m": 1.75, "weight_kg": null, "club": "Los Angeles FC", "club_country": "USA", "fc26": 72},
+    {"sticker": 23, "position": "FW", "name": "Jonathan David", "dob": "2000-01-14", "height_m": 1.76, "weight_kg": 71, "club": "Juventus FC", "club_country": "ITA", "fc26": 84},
+    {"sticker": 24, "position": "FW", "name": "Promise David", "dob": "2001-01-13", "height_m": 1.90, "weight_kg": null, "club": "Union Saint-Gilloise", "club_country": "BEL", "fc26": 74},
+    {"sticker": 25, "position": "FW", "name": "Cyle Larin", "dob": "1995-04-17", "height_m": 1.88, "weight_kg": 84, "club": "RCD Mallorca", "club_country": "ESP", "fc26": 74},
+    {"sticker": 26, "position": "FW", "name": "Tani Oluwaseyi", "dob": "2000-06-01", "height_m": 1.88, "weight_kg": null, "club": "Villarreal CF", "club_country": "ESP", "fc26": 73}
+  ]
+}

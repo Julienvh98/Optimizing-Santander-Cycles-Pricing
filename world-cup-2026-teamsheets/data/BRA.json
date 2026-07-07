@@ -1,0 +1,32 @@
+{
+  "code": "BRA",
+  "coach": "Carlo Ancelotti",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Alisson Becker", "dob": "1992-10-02", "height_m": 1.91, "weight_kg": 91, "club": "Liverpool FC", "club_country": "ENG", "fc26": 89},
+    {"sticker": 2, "position": "GK", "name": "Ederson Moraes", "dob": "1993-08-17", "height_m": 1.88, "weight_kg": 86, "club": "Fenerbahçe SK", "club_country": "TUR", "fc26": 86},
+    {"sticker": 3, "position": "GK", "name": "Weverton", "dob": "1987-12-13", "height_m": 1.89, "weight_kg": null, "club": "SE Palmeiras", "club_country": "BRA", "fc26": null},
+    {"sticker": 4, "position": "DF", "name": "Alex Sandro", "dob": "1991-01-26", "height_m": 1.81, "weight_kg": 80, "club": "CR Flamengo", "club_country": "BRA", "fc26": null},
+    {"sticker": 5, "position": "DF", "name": "Bremer", "dob": "1997-03-18", "height_m": 1.88, "weight_kg": 81, "club": "Juventus FC", "club_country": "ITA", "fc26": 85},
+    {"sticker": 6, "position": "DF", "name": "Danilo", "dob": "1991-07-15", "height_m": 1.84, "weight_kg": 78, "club": "CR Flamengo", "club_country": "BRA", "fc26": null},
+    {"sticker": 7, "position": "DF", "name": "Douglas Santos", "dob": "1994-03-22", "height_m": 1.72, "weight_kg": 71, "club": "Zenit St. Petersburg", "club_country": "RUS", "fc26": null},
+    {"sticker": 8, "position": "DF", "name": "Gabriel Magalhães", "dob": "1997-12-19", "height_m": 1.90, "weight_kg": 78, "club": "Arsenal FC", "club_country": "ENG", "fc26": 86},
+    {"sticker": 9, "position": "DF", "name": "Ibañez", "dob": "1998-11-21", "height_m": 1.85, "weight_kg": 80, "club": "Al-Ahli SFC", "club_country": "KSA", "fc26": 78},
+    {"sticker": 10, "position": "DF", "name": "Léo Pereira", "dob": "1996-01-31", "height_m": 1.90, "weight_kg": null, "club": "CR Flamengo", "club_country": "BRA", "fc26": null},
+    {"sticker": 11, "position": "DF", "name": "Marquinhos", "dob": "1994-05-14", "height_m": 1.83, "weight_kg": 75, "club": "Paris Saint-Germain", "club_country": "FRA", "fc26": 87},
+    {"sticker": 12, "position": "MF", "name": "Bruno Guimarães", "dob": "1997-11-16", "height_m": 1.82, "weight_kg": 74, "club": "Newcastle United", "club_country": "ENG", "fc26": 85},
+    {"sticker": 13, "position": "MF", "name": "Casemiro", "dob": "1992-02-23", "height_m": 1.85, "weight_kg": 84, "club": "Manchester United", "club_country": "ENG", "fc26": 83},
+    {"sticker": 14, "position": "MF", "name": "Danilo Santos", "dob": "2001-04-29", "height_m": 1.78, "weight_kg": null, "club": "Botafogo FR", "club_country": "BRA", "fc26": null},
+    {"sticker": 15, "position": "MF", "name": "Éderson", "dob": "1999-07-07", "height_m": 1.83, "weight_kg": null, "club": "Atalanta BC", "club_country": "ITA", "fc26": 82},
+    {"sticker": 16, "position": "MF", "name": "Fabinho", "dob": "1993-10-23", "height_m": 1.88, "weight_kg": 78, "club": "Al-Ittihad Club", "club_country": "KSA", "fc26": 79},
+    {"sticker": 17, "position": "MF", "name": "Lucas Paquetá", "dob": "1997-08-27", "height_m": 1.80, "weight_kg": 72, "club": "CR Flamengo", "club_country": "BRA", "fc26": 84},
+    {"sticker": 18, "position": "FW", "name": "Endrick", "dob": "2006-07-21", "height_m": 1.73, "weight_kg": null, "club": "Olympique Lyonnais", "club_country": "FRA", "fc26": 77},
+    {"sticker": 19, "position": "FW", "name": "Gabriel Martinelli", "dob": "2001-06-18", "height_m": 1.78, "weight_kg": 75, "club": "Arsenal FC", "club_country": "ENG", "fc26": 81},
+    {"sticker": 20, "position": "FW", "name": "Igor Thiago", "dob": "2001-06-26", "height_m": 1.90, "weight_kg": null, "club": "Brentford FC", "club_country": "ENG", "fc26": 75},
+    {"sticker": 21, "position": "FW", "name": "Luiz Henrique", "dob": "2001-01-02", "height_m": 1.82, "weight_kg": null, "club": "Zenit St. Petersburg", "club_country": "RUS", "fc26": null},
+    {"sticker": 22, "position": "FW", "name": "Matheus Cunha", "dob": "1999-05-27", "height_m": 1.84, "weight_kg": 76, "club": "Manchester United", "club_country": "ENG", "fc26": 82},
+    {"sticker": 23, "position": "FW", "name": "Neymar Jr", "dob": "1992-02-05", "height_m": 1.75, "weight_kg": 68, "club": "Santos FC", "club_country": "BRA", "fc26": null},
+    {"sticker": 24, "position": "FW", "name": "Raphinha", "dob": "1996-12-14", "height_m": 1.76, "weight_kg": 68, "club": "FC Barcelona", "club_country": "ESP", "fc26": 90},
+    {"sticker": 25, "position": "FW", "name": "Rayan", "dob": null, "height_m": null, "weight_kg": null, "club": "AFC Bournemouth", "club_country": "ENG", "fc26": null},
+    {"sticker": 26, "position": "FW", "name": "Vinícius Júnior", "dob": "2000-07-12", "height_m": 1.76, "weight_kg": 73, "club": "Real Madrid", "club_country": "ESP", "fc26": 90}
+  ]
+}

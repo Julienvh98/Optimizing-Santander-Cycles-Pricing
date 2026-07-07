@@ -1,0 +1,32 @@
+{
+  "code": "SUI",
+  "coach": "Murat Yakin",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Marvin Keller", "dob": null, "height_m": null, "weight_kg": null, "club": "BSC Young Boys", "club_country": "SUI", "fc26": 72},
+    {"sticker": 2, "position": "GK", "name": "Gregor Kobel", "dob": "1997-12-06", "height_m": 1.94, "weight_kg": 87, "club": "Borussia Dortmund", "club_country": "GER", "fc26": 87},
+    {"sticker": 3, "position": "GK", "name": "Yvon Mvogo", "dob": "1994-06-06", "height_m": 1.89, "weight_kg": 84, "club": "FC Lorient", "club_country": "FRA", "fc26": 74},
+    {"sticker": 4, "position": "DF", "name": "Manuel Akanji", "dob": "1995-07-19", "height_m": 1.88, "weight_kg": 86, "club": "Inter Milan", "club_country": "ITA", "fc26": 84},
+    {"sticker": 5, "position": "DF", "name": "Aurèle Amenda", "dob": "2003-08-31", "height_m": 1.93, "weight_kg": null, "club": "Eintracht Frankfurt", "club_country": "GER", "fc26": 73},
+    {"sticker": 6, "position": "DF", "name": "Eray Cömert", "dob": "1998-02-04", "height_m": 1.83, "weight_kg": null, "club": "Valencia CF", "club_country": "ESP", "fc26": 73},
+    {"sticker": 7, "position": "DF", "name": "Nico Elvedi", "dob": "1996-09-30", "height_m": 1.89, "weight_kg": 79, "club": "Borussia Mönchengladbach", "club_country": "GER", "fc26": 77},
+    {"sticker": 8, "position": "DF", "name": "Luca Jaquez", "dob": "2003-06-02", "height_m": 1.89, "weight_kg": null, "club": "VfB Stuttgart", "club_country": "GER", "fc26": 72},
+    {"sticker": 9, "position": "DF", "name": "Miro Muheim", "dob": "1998-03-24", "height_m": 1.80, "weight_kg": null, "club": "Hamburger SV", "club_country": "GER", "fc26": 73},
+    {"sticker": 10, "position": "DF", "name": "Ricardo Rodríguez", "dob": "1992-08-25", "height_m": 1.80, "weight_kg": 77, "club": "Real Betis", "club_country": "ESP", "fc26": 76},
+    {"sticker": 11, "position": "DF", "name": "Silvan Widmer", "dob": "1993-03-05", "height_m": 1.83, "weight_kg": null, "club": "1. FSV Mainz 05", "club_country": "GER", "fc26": 74},
+    {"sticker": 12, "position": "MF", "name": "Michel Aebischer", "dob": "1997-01-06", "height_m": 1.83, "weight_kg": null, "club": "Pisa SC", "club_country": "ITA", "fc26": 74},
+    {"sticker": 13, "position": "MF", "name": "Christian Fassnacht", "dob": "1993-11-11", "height_m": 1.85, "weight_kg": null, "club": "BSC Young Boys", "club_country": "SUI", "fc26": 73},
+    {"sticker": 14, "position": "MF", "name": "Remo Freuler", "dob": "1992-04-15", "height_m": 1.80, "weight_kg": 75, "club": "Bologna FC", "club_country": "ITA", "fc26": 78},
+    {"sticker": 15, "position": "MF", "name": "Ardon Jashari", "dob": "2002-07-30", "height_m": 1.75, "weight_kg": null, "club": "AC Milan", "club_country": "ITA", "fc26": 78},
+    {"sticker": 16, "position": "MF", "name": "Johan Manzambi", "dob": null, "height_m": null, "weight_kg": null, "club": "SC Freiburg", "club_country": "GER", "fc26": 70},
+    {"sticker": 17, "position": "MF", "name": "Fabian Rieder", "dob": "2002-02-16", "height_m": 1.78, "weight_kg": null, "club": "FC Augsburg", "club_country": "GER", "fc26": 75},
+    {"sticker": 18, "position": "MF", "name": "Djibril Sow", "dob": "1997-02-06", "height_m": 1.84, "weight_kg": null, "club": "Sevilla FC", "club_country": "ESP", "fc26": 76},
+    {"sticker": 19, "position": "MF", "name": "Ruben Vargas", "dob": "1998-08-05", "height_m": 1.79, "weight_kg": null, "club": "Sevilla FC", "club_country": "ESP", "fc26": 76},
+    {"sticker": 20, "position": "MF", "name": "Granit Xhaka", "dob": "1992-09-27", "height_m": 1.86, "weight_kg": 82, "club": "Sunderland AFC", "club_country": "ENG", "fc26": 82},
+    {"sticker": 21, "position": "MF", "name": "Denis Zakaria", "dob": "1996-11-20", "height_m": 1.90, "weight_kg": 80, "club": "AS Monaco", "club_country": "FRA", "fc26": 80},
+    {"sticker": 22, "position": "FW", "name": "Zeki Amdouni", "dob": "2000-12-04", "height_m": 1.85, "weight_kg": null, "club": "Burnley FC", "club_country": "ENG", "fc26": 74},
+    {"sticker": 23, "position": "FW", "name": "Breel Embolo", "dob": "1997-02-14", "height_m": 1.87, "weight_kg": 91, "club": "Stade Rennais", "club_country": "FRA", "fc26": 77},
+    {"sticker": 24, "position": "FW", "name": "Cédric Itten", "dob": "1996-12-27", "height_m": 1.89, "weight_kg": null, "club": "Fortuna Düsseldorf", "club_country": "GER", "fc26": 72},
+    {"sticker": 25, "position": "FW", "name": "Dan Ndoye", "dob": "2000-10-25", "height_m": 1.80, "weight_kg": null, "club": "Nottingham Forest", "club_country": "ENG", "fc26": 78},
+    {"sticker": 26, "position": "FW", "name": "Noah Okafor", "dob": "2000-05-24", "height_m": 1.85, "weight_kg": null, "club": "Leeds United", "club_country": "ENG", "fc26": 76}
+  ]
+}

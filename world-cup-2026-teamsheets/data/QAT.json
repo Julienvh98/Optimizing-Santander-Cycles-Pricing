@@ -1,0 +1,32 @@
+{
+  "code": "QAT",
+  "coach": "Julen Lopetegui",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Mahmoud Abunada", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Rayyan SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 2, "position": "GK", "name": "Meshaal Barsham", "dob": "1998-02-14", "height_m": 1.85, "weight_kg": null, "club": "Al-Sadd SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Salah Zakaria", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Duhail SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 4, "position": "DF", "name": "Sultan Al-Brake", "dob": "1996-11-22", "height_m": null, "weight_kg": null, "club": "Al-Duhail SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 5, "position": "DF", "name": "Al-Hashmi Al-Hussain", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Arabi SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 6, "position": "DF", "name": "Ayoub Al-Oui", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Gharafa SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 7, "position": "DF", "name": "Homam Ahmed", "dob": "1999-08-25", "height_m": 1.83, "weight_kg": null, "club": "Cultural Leonesa", "club_country": "ESP", "fc26": 70},
+    {"sticker": 8, "position": "DF", "name": "Issa Laye", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Arabi SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 9, "position": "DF", "name": "Boualem Khoukhi", "dob": "1990-07-09", "height_m": 1.80, "weight_kg": null, "club": "Al-Sadd SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 10, "position": "DF", "name": "Lucas Mendes", "dob": "1990-07-03", "height_m": 1.78, "weight_kg": null, "club": "Al-Wakrah SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 11, "position": "DF", "name": "Pedro Miguel", "dob": "1990-08-06", "height_m": 1.82, "weight_kg": null, "club": "Al-Sadd SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 12, "position": "MF", "name": "Karim Boudiaf", "dob": "1990-09-16", "height_m": 1.85, "weight_kg": null, "club": "Al-Duhail SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 13, "position": "MF", "name": "Ahmed Fathi", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Arabi SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 14, "position": "MF", "name": "Jassem Gaber", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Rayyan SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 15, "position": "MF", "name": "Abdulaziz Hatem", "dob": "1990-03-28", "height_m": 1.79, "weight_kg": null, "club": "Al-Rayyan SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 16, "position": "MF", "name": "Assim Madibo", "dob": "1996-10-22", "height_m": 1.72, "weight_kg": null, "club": "Al-Duhail SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 17, "position": "MF", "name": "Mohamed Al-Mannai", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Shamal SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 18, "position": "FW", "name": "Yusuf Abdurisag", "dob": "1999-09-05", "height_m": null, "weight_kg": null, "club": "Al-Wakrah SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 19, "position": "FW", "name": "Akram Afif", "dob": "1996-11-18", "height_m": 1.77, "weight_kg": 68, "club": "Al-Sadd SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 20, "position": "FW", "name": "Ahmed Al-Ganehi", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Gharafa SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 21, "position": "FW", "name": "Hassan Al-Haydos", "dob": "1990-12-11", "height_m": 1.75, "weight_kg": 65, "club": "Al-Sadd SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 22, "position": "FW", "name": "Ahmed Alaa", "dob": "1993-01-31", "height_m": 1.86, "weight_kg": null, "club": "Al-Rayyan SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 23, "position": "FW", "name": "Almoez Ali", "dob": "1996-08-19", "height_m": 1.80, "weight_kg": 72, "club": "Al-Duhail SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 24, "position": "FW", "name": "Edmílson Junior", "dob": "1994-08-19", "height_m": 1.78, "weight_kg": null, "club": "Al-Duhail SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 25, "position": "FW", "name": "Mohammed Muntari", "dob": "1993-12-20", "height_m": 1.93, "weight_kg": null, "club": "Al-Gharafa SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 26, "position": "FW", "name": "Tahsin Mohammed", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Duhail SC", "club_country": "QAT", "fc26": null}
+  ]
+}

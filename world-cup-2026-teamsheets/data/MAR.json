@@ -1,0 +1,32 @@
+{
+  "code": "MAR",
+  "coach": "Mohamed Ouahbi",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Yassine Bounou", "dob": "1991-04-05", "height_m": 1.92, "weight_kg": 78, "club": "Al-Hilal SFC", "club_country": "KSA", "fc26": 85},
+    {"sticker": 2, "position": "GK", "name": "Munir El Kajoui", "dob": "1989-05-10", "height_m": 1.90, "weight_kg": null, "club": "RS Berkane", "club_country": "MAR", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Ahmed Reda Tagnaouti", "dob": "1996-04-05", "height_m": 1.85, "weight_kg": null, "club": "AS FAR", "club_country": "MAR", "fc26": null},
+    {"sticker": 4, "position": "DF", "name": "Nayef Aguerd", "dob": "1996-03-30", "height_m": 1.90, "weight_kg": 79, "club": "Olympique de Marseille", "club_country": "FRA", "fc26": 80},
+    {"sticker": 5, "position": "DF", "name": "Youssef Belammari", "dob": null, "height_m": null, "weight_kg": null, "club": "Al Ahly SC", "club_country": "EGY", "fc26": null},
+    {"sticker": 6, "position": "DF", "name": "Issa Diop", "dob": "1997-01-09", "height_m": 1.94, "weight_kg": 92, "club": "Fulham FC", "club_country": "ENG", "fc26": 78},
+    {"sticker": 7, "position": "DF", "name": "Zakaria El Ouahdi", "dob": "2001-01-21", "height_m": null, "weight_kg": null, "club": "KRC Genk", "club_country": "BEL", "fc26": 75},
+    {"sticker": 8, "position": "DF", "name": "Achraf Hakimi", "dob": "1998-11-04", "height_m": 1.81, "weight_kg": 73, "club": "Paris Saint-Germain", "club_country": "FRA", "fc26": 87},
+    {"sticker": 9, "position": "DF", "name": "Redouane Halhal", "dob": null, "height_m": null, "weight_kg": null, "club": "KV Mechelen", "club_country": "BEL", "fc26": null},
+    {"sticker": 10, "position": "DF", "name": "Noussair Mazraoui", "dob": "1997-11-14", "height_m": 1.83, "weight_kg": 71, "club": "Manchester United", "club_country": "ENG", "fc26": 80},
+    {"sticker": 11, "position": "DF", "name": "Chadi Riad", "dob": "2003-06-17", "height_m": 1.86, "weight_kg": null, "club": "Crystal Palace", "club_country": "ENG", "fc26": 74},
+    {"sticker": 12, "position": "DF", "name": "Anass Salah-Eddine", "dob": "2004-01-08", "height_m": null, "weight_kg": null, "club": "PSV Eindhoven", "club_country": "NED", "fc26": 72},
+    {"sticker": 13, "position": "MF", "name": "Sofyan Amrabat", "dob": "1996-08-21", "height_m": 1.85, "weight_kg": 78, "club": "Real Betis", "club_country": "ESP", "fc26": 78},
+    {"sticker": 14, "position": "MF", "name": "Ayyoub Bouaddi", "dob": "2007-10-02", "height_m": 1.80, "weight_kg": null, "club": "LOSC Lille", "club_country": "FRA", "fc26": 74},
+    {"sticker": 15, "position": "MF", "name": "Neil El Aynaoui", "dob": "2001-07-02", "height_m": 1.85, "weight_kg": null, "club": "AS Roma", "club_country": "ITA", "fc26": 76},
+    {"sticker": 16, "position": "MF", "name": "Bilal El Khannouss", "dob": "2004-05-10", "height_m": 1.78, "weight_kg": null, "club": "VfB Stuttgart", "club_country": "GER", "fc26": 78},
+    {"sticker": 17, "position": "MF", "name": "Samir El Mourabet", "dob": null, "height_m": null, "weight_kg": null, "club": "RC Strasbourg", "club_country": "FRA", "fc26": null},
+    {"sticker": 18, "position": "MF", "name": "Azzedine Ounahi", "dob": "2000-04-19", "height_m": 1.82, "weight_kg": 64, "club": "Girona FC", "club_country": "ESP", "fc26": 76},
+    {"sticker": 19, "position": "MF", "name": "Ismael Saibari", "dob": "2001-01-28", "height_m": 1.83, "weight_kg": null, "club": "PSV Eindhoven", "club_country": "NED", "fc26": 79},
+    {"sticker": 20, "position": "FW", "name": "Ayoube Amaimouni", "dob": null, "height_m": null, "weight_kg": null, "club": "Eintracht Frankfurt", "club_country": "GER", "fc26": null},
+    {"sticker": 21, "position": "FW", "name": "Brahim Díaz", "dob": "1999-08-03", "height_m": 1.71, "weight_kg": 68, "club": "Real Madrid", "club_country": "ESP", "fc26": 84},
+    {"sticker": 22, "position": "FW", "name": "Ayoub El Kaabi", "dob": "1993-06-25", "height_m": 1.83, "weight_kg": null, "club": "Olympiacos FC", "club_country": "GRE", "fc26": 79},
+    {"sticker": 23, "position": "FW", "name": "Abdessamad Ezzalzouli", "dob": "2001-12-17", "height_m": 1.77, "weight_kg": null, "club": "Real Betis", "club_country": "ESP", "fc26": 77},
+    {"sticker": 24, "position": "FW", "name": "Yassine Gessime", "dob": null, "height_m": null, "weight_kg": null, "club": "RC Strasbourg", "club_country": "FRA", "fc26": null},
+    {"sticker": 25, "position": "FW", "name": "Soufiane Rahimi", "dob": "1996-06-02", "height_m": 1.80, "weight_kg": null, "club": "Al Ain FC", "club_country": "UAE", "fc26": 75},
+    {"sticker": 26, "position": "FW", "name": "Chemsdine Talbi", "dob": "2005-05-25", "height_m": 1.80, "weight_kg": null, "club": "Sunderland AFC", "club_country": "ENG", "fc26": 73}
+  ]
+}

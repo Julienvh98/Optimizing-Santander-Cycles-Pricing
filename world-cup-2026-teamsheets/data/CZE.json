@@ -1,0 +1,32 @@
+{
+  "code": "CZE",
+  "coach": "Miroslav Koubek",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Lukáš Horníček", "dob": null, "height_m": 1.96, "weight_kg": null, "club": "SC Braga", "club_country": "POR", "fc26": null},
+    {"sticker": 2, "position": "GK", "name": "Matěj Kovář", "dob": "2000-05-17", "height_m": 1.96, "weight_kg": null, "club": "PSV Eindhoven", "club_country": "NED", "fc26": 78},
+    {"sticker": 3, "position": "GK", "name": "Jindřich Staněk", "dob": "1996-04-27", "height_m": 1.92, "weight_kg": null, "club": "Slavia Prague", "club_country": "CZE", "fc26": 74},
+    {"sticker": 4, "position": "DF", "name": "Štěpán Chaloupek", "dob": null, "height_m": null, "weight_kg": null, "club": "Slavia Prague", "club_country": "CZE", "fc26": null},
+    {"sticker": 5, "position": "DF", "name": "Vladimír Coufal", "dob": "1992-08-22", "height_m": 1.79, "weight_kg": 76, "club": "TSG Hoffenheim", "club_country": "GER", "fc26": 76},
+    {"sticker": 6, "position": "DF", "name": "David Douděra", "dob": "1998-05-31", "height_m": 1.79, "weight_kg": null, "club": "Slavia Prague", "club_country": "CZE", "fc26": 72},
+    {"sticker": 7, "position": "DF", "name": "Tomáš Holeš", "dob": "1993-03-31", "height_m": 1.81, "weight_kg": null, "club": "Slavia Prague", "club_country": "CZE", "fc26": 74},
+    {"sticker": 8, "position": "DF", "name": "Robin Hranáč", "dob": null, "height_m": 1.86, "weight_kg": null, "club": "TSG Hoffenheim", "club_country": "GER", "fc26": 74},
+    {"sticker": 9, "position": "DF", "name": "David Jurásek", "dob": "2000-08-30", "height_m": 1.80, "weight_kg": null, "club": "Slavia Prague", "club_country": "CZE", "fc26": 72},
+    {"sticker": 10, "position": "DF", "name": "Ladislav Krejčí", "dob": "1999-04-20", "height_m": 1.90, "weight_kg": null, "club": "Wolverhampton Wanderers", "club_country": "ENG", "fc26": 79},
+    {"sticker": 11, "position": "DF", "name": "Jaroslav Zelený", "dob": "1992-08-20", "height_m": null, "weight_kg": null, "club": "Sparta Prague", "club_country": "CZE", "fc26": null},
+    {"sticker": 12, "position": "DF", "name": "David Zima", "dob": "2000-11-08", "height_m": 1.86, "weight_kg": null, "club": "Slavia Prague", "club_country": "CZE", "fc26": 73},
+    {"sticker": 13, "position": "MF", "name": "Lukáš Červ", "dob": "2001-04-10", "height_m": null, "weight_kg": null, "club": "Viktoria Plzeň", "club_country": "CZE", "fc26": 71},
+    {"sticker": 14, "position": "MF", "name": "Vladimír Darida", "dob": "1990-08-08", "height_m": 1.71, "weight_kg": 66, "club": "FC Hradec Králové", "club_country": "CZE", "fc26": 72},
+    {"sticker": 15, "position": "MF", "name": "Lukáš Provod", "dob": "1996-10-23", "height_m": 1.81, "weight_kg": null, "club": "Slavia Prague", "club_country": "CZE", "fc26": 76},
+    {"sticker": 16, "position": "MF", "name": "Michal Sadílek", "dob": "1999-05-31", "height_m": 1.75, "weight_kg": null, "club": "Slavia Prague", "club_country": "CZE", "fc26": 73},
+    {"sticker": 17, "position": "MF", "name": "Hugo Sochůrek", "dob": null, "height_m": null, "weight_kg": null, "club": "Sparta Prague", "club_country": "CZE", "fc26": null},
+    {"sticker": 18, "position": "MF", "name": "Alexandr Sojka", "dob": null, "height_m": null, "weight_kg": null, "club": "Viktoria Plzeň", "club_country": "CZE", "fc26": null},
+    {"sticker": 19, "position": "MF", "name": "Tomáš Souček", "dob": "1995-02-27", "height_m": 1.92, "weight_kg": 86, "club": "West Ham United", "club_country": "ENG", "fc26": 79},
+    {"sticker": 20, "position": "MF", "name": "Pavel Šulc", "dob": "2000-12-19", "height_m": 1.75, "weight_kg": null, "club": "Olympique Lyonnais", "club_country": "FRA", "fc26": 77},
+    {"sticker": 21, "position": "MF", "name": "Denis Višinský", "dob": null, "height_m": null, "weight_kg": null, "club": "Viktoria Plzeň", "club_country": "CZE", "fc26": null},
+    {"sticker": 22, "position": "FW", "name": "Adam Hložek", "dob": "2002-07-25", "height_m": 1.88, "weight_kg": 80, "club": "TSG Hoffenheim", "club_country": "GER", "fc26": 77},
+    {"sticker": 23, "position": "FW", "name": "Tomáš Chorý", "dob": "1995-01-26", "height_m": 1.99, "weight_kg": null, "club": "Slavia Prague", "club_country": "CZE", "fc26": 73},
+    {"sticker": 24, "position": "FW", "name": "Mojmír Chytil", "dob": "1999-09-29", "height_m": 1.87, "weight_kg": null, "club": "Slavia Prague", "club_country": "CZE", "fc26": 72},
+    {"sticker": 25, "position": "FW", "name": "Jan Kuchta", "dob": "1997-01-08", "height_m": 1.86, "weight_kg": 80, "club": "Sparta Prague", "club_country": "CZE", "fc26": 73},
+    {"sticker": 26, "position": "FW", "name": "Patrik Schick", "dob": "1996-01-24", "height_m": 1.91, "weight_kg": 73, "club": "Bayer Leverkusen", "club_country": "GER", "fc26": 84}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "code": "SCO",
+  "coach": "Steve Clarke",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Craig Gordon", "dob": "1982-12-31", "height_m": 1.93, "weight_kg": 80, "club": "Heart of Midlothian", "club_country": "SCO", "fc26": 71},
+    {"sticker": 2, "position": "GK", "name": "Angus Gunn", "dob": "1996-01-22", "height_m": 1.96, "weight_kg": 82, "club": "Nottingham Forest", "club_country": "ENG", "fc26": 74},
+    {"sticker": 3, "position": "GK", "name": "Liam Kelly", "dob": "1996-01-23", "height_m": 1.88, "weight_kg": null, "club": "Rangers FC", "club_country": "SCO", "fc26": 70},
+    {"sticker": 4, "position": "DF", "name": "Grant Hanley", "dob": "1991-11-20", "height_m": 1.88, "weight_kg": 87, "club": "Hibernian FC", "club_country": "SCO", "fc26": 70},
+    {"sticker": 5, "position": "DF", "name": "Jack Hendry", "dob": "1995-05-07", "height_m": 1.93, "weight_kg": null, "club": "Al-Ettifaq FC", "club_country": "KSA", "fc26": 72},
+    {"sticker": 6, "position": "DF", "name": "Aaron Hickey", "dob": "2002-06-10", "height_m": 1.85, "weight_kg": 70, "club": "Brentford FC", "club_country": "ENG", "fc26": 74},
+    {"sticker": 7, "position": "DF", "name": "Dom Hyam", "dob": "1995-12-20", "height_m": 1.90, "weight_kg": null, "club": "Wrexham AFC", "club_country": "WAL", "fc26": 71},
+    {"sticker": 8, "position": "DF", "name": "Scott McKenna", "dob": "1996-11-12", "height_m": null, "weight_kg": null, "club": "Dinamo Zagreb", "club_country": "CRO", "fc26": 73},
+    {"sticker": 9, "position": "DF", "name": "Nathan Patterson", "dob": "2001-10-16", "height_m": 1.83, "weight_kg": null, "club": "Everton FC", "club_country": "ENG", "fc26": 72},
+    {"sticker": 10, "position": "DF", "name": "Anthony Ralston", "dob": "1998-11-16", "height_m": 1.80, "weight_kg": null, "club": "Celtic FC", "club_country": "SCO", "fc26": 70},
+    {"sticker": 11, "position": "DF", "name": "Andy Robertson", "dob": "1994-03-11", "height_m": 1.78, "weight_kg": 64, "club": "Liverpool FC", "club_country": "ENG", "fc26": 84},
+    {"sticker": 12, "position": "DF", "name": "John Souttar", "dob": "1996-09-25", "height_m": 1.88, "weight_kg": null, "club": "Rangers FC", "club_country": "SCO", "fc26": 72},
+    {"sticker": 13, "position": "DF", "name": "Kieran Tierney", "dob": "1997-06-05", "height_m": 1.78, "weight_kg": 70, "club": "Celtic FC", "club_country": "SCO", "fc26": 77},
+    {"sticker": 14, "position": "MF", "name": "Ryan Christie", "dob": "1995-02-22", "height_m": 1.78, "weight_kg": 70, "club": "AFC Bournemouth", "club_country": "ENG", "fc26": 76},
+    {"sticker": 15, "position": "MF", "name": "Findlay Curtis", "dob": null, "height_m": null, "weight_kg": null, "club": "Rangers FC", "club_country": "SCO", "fc26": null},
+    {"sticker": 16, "position": "MF", "name": "Lewis Ferguson", "dob": "1999-08-24", "height_m": 1.80, "weight_kg": null, "club": "Bologna FC", "club_country": "ITA", "fc26": 79},
+    {"sticker": 17, "position": "MF", "name": "Tyler Fletcher", "dob": null, "height_m": null, "weight_kg": null, "club": "Manchester United", "club_country": "ENG", "fc26": null},
+    {"sticker": 18, "position": "MF", "name": "Ben Gannon-Doak", "dob": "2005-11-11", "height_m": 1.71, "weight_kg": null, "club": "AFC Bournemouth", "club_country": "ENG", "fc26": 74},
+    {"sticker": 19, "position": "MF", "name": "John McGinn", "dob": "1994-10-18", "height_m": 1.78, "weight_kg": 68, "club": "Aston Villa", "club_country": "ENG", "fc26": 80},
+    {"sticker": 20, "position": "MF", "name": "Kenny McLean", "dob": "1992-01-26", "height_m": 1.82, "weight_kg": null, "club": "Norwich City", "club_country": "ENG", "fc26": 72},
+    {"sticker": 21, "position": "MF", "name": "Scott McTominay", "dob": "1996-12-08", "height_m": 1.93, "weight_kg": 88, "club": "SSC Napoli", "club_country": "ITA", "fc26": 85},
+    {"sticker": 22, "position": "FW", "name": "Che Adams", "dob": "1996-07-13", "height_m": 1.79, "weight_kg": 70, "club": "Torino FC", "club_country": "ITA", "fc26": 75},
+    {"sticker": 23, "position": "FW", "name": "Lyndon Dykes", "dob": "1995-10-07", "height_m": 1.92, "weight_kg": 80, "club": "Birmingham City", "club_country": "ENG", "fc26": 71},
+    {"sticker": 24, "position": "FW", "name": "George Hirst", "dob": "1999-02-15", "height_m": 1.87, "weight_kg": null, "club": "Ipswich Town", "club_country": "ENG", "fc26": 72},
+    {"sticker": 25, "position": "FW", "name": "Lawrence Shankland", "dob": "1995-08-10", "height_m": 1.80, "weight_kg": null, "club": "Heart of Midlothian", "club_country": "SCO", "fc26": 71},
+    {"sticker": 26, "position": "FW", "name": "Ross Stewart", "dob": "1996-07-11", "height_m": 1.93, "weight_kg": null, "club": "Southampton FC", "club_country": "ENG", "fc26": 71}
+  ]
+}

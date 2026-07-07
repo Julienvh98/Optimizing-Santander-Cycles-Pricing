@@ -1,0 +1,32 @@
+{
+  "code": "HAI",
+  "coach": "Sébastien Migné",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Josué Duverger", "dob": null, "height_m": null, "weight_kg": null, "club": "FC Cosmos Koblenz", "club_country": "GER", "fc26": null},
+    {"sticker": 2, "position": "GK", "name": "Alexandre Pierre", "dob": null, "height_m": null, "weight_kg": null, "club": "FC Sochaux", "club_country": "FRA", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Johny Placide", "dob": "1988-01-29", "height_m": 1.83, "weight_kg": null, "club": "SC Bastia", "club_country": "FRA", "fc26": null},
+    {"sticker": 4, "position": "DF", "name": "Ricardo Adé", "dob": null, "height_m": null, "weight_kg": null, "club": "LDU Quito", "club_country": "ECU", "fc26": null},
+    {"sticker": 5, "position": "DF", "name": "Carlens Arcus", "dob": "1996-06-20", "height_m": null, "weight_kg": null, "club": "Angers SCO", "club_country": "FRA", "fc26": 70},
+    {"sticker": 6, "position": "DF", "name": "Hannes Delcroix", "dob": "1999-02-28", "height_m": 1.83, "weight_kg": null, "club": "FC Lugano", "club_country": "SUI", "fc26": 70},
+    {"sticker": 7, "position": "DF", "name": "Jean-Kévin Duverne", "dob": "1997-07-12", "height_m": 1.83, "weight_kg": null, "club": "KAA Gent", "club_country": "BEL", "fc26": 70},
+    {"sticker": 8, "position": "DF", "name": "Martin Expérience", "dob": null, "height_m": null, "weight_kg": null, "club": "AS Nancy", "club_country": "FRA", "fc26": null},
+    {"sticker": 9, "position": "DF", "name": "Duke Lacroix", "dob": null, "height_m": null, "weight_kg": null, "club": "Colorado Springs Switchbacks", "club_country": "USA", "fc26": null},
+    {"sticker": 10, "position": "DF", "name": "Garven Metusala", "dob": null, "height_m": null, "weight_kg": null, "club": "Colorado Springs Switchbacks", "club_country": "USA", "fc26": null},
+    {"sticker": 11, "position": "DF", "name": "Wilguens Pauguain", "dob": null, "height_m": null, "weight_kg": null, "club": "SV Zulte Waregem", "club_country": "BEL", "fc26": null},
+    {"sticker": 12, "position": "DF", "name": "Keeto Thermoncy", "dob": null, "height_m": null, "weight_kg": null, "club": "BSC Young Boys", "club_country": "SUI", "fc26": null},
+    {"sticker": 13, "position": "MF", "name": "Jean-Ricner Bellegarde", "dob": "1998-03-27", "height_m": 1.75, "weight_kg": null, "club": "Wolverhampton Wanderers", "club_country": "ENG", "fc26": 76},
+    {"sticker": 14, "position": "MF", "name": "Danley Jean-Jacques", "dob": null, "height_m": null, "weight_kg": null, "club": "Philadelphia Union", "club_country": "USA", "fc26": null},
+    {"sticker": 15, "position": "MF", "name": "Carl-Fred Sainthé", "dob": null, "height_m": null, "weight_kg": null, "club": "El Paso Locomotive", "club_country": "USA", "fc26": null},
+    {"sticker": 16, "position": "MF", "name": "Dominique Simon", "dob": null, "height_m": null, "weight_kg": null, "club": "Tatran Prešov", "club_country": "SVK", "fc26": null},
+    {"sticker": 17, "position": "MF", "name": "Woodenski Pierre", "dob": null, "height_m": null, "weight_kg": null, "club": "Violette AC", "club_country": "HAI", "fc26": null},
+    {"sticker": 18, "position": "FW", "name": "Josué Casimir", "dob": "2001-12-11", "height_m": null, "weight_kg": null, "club": "AJ Auxerre", "club_country": "FRA", "fc26": 70},
+    {"sticker": 19, "position": "FW", "name": "Louicius Deedson", "dob": null, "height_m": null, "weight_kg": null, "club": "FC Dallas", "club_country": "USA", "fc26": null},
+    {"sticker": 20, "position": "FW", "name": "Derrick Étienne", "dob": "1996-11-11", "height_m": null, "weight_kg": null, "club": "Toronto FC", "club_country": "CAN", "fc26": 68},
+    {"sticker": 21, "position": "FW", "name": "Yassin Fortune", "dob": "1999-01-30", "height_m": null, "weight_kg": null, "club": "FC Vizela", "club_country": "POR", "fc26": null},
+    {"sticker": 22, "position": "FW", "name": "Wilson Isidor", "dob": "2000-08-27", "height_m": 1.88, "weight_kg": null, "club": "Sunderland AFC", "club_country": "ENG", "fc26": 74},
+    {"sticker": 23, "position": "FW", "name": "Lenny Joseph", "dob": null, "height_m": null, "weight_kg": null, "club": "Ferencváros TC", "club_country": "HUN", "fc26": null},
+    {"sticker": 24, "position": "FW", "name": "Duckens Nazon", "dob": "1994-04-07", "height_m": 1.85, "weight_kg": null, "club": "Esteghlal FC", "club_country": "IRN", "fc26": null},
+    {"sticker": 25, "position": "FW", "name": "Frantzdy Pierrot", "dob": "1995-06-17", "height_m": 1.90, "weight_kg": null, "club": "Çaykur Rizespor", "club_country": "TUR", "fc26": 72},
+    {"sticker": 26, "position": "FW", "name": "Ruben Providence", "dob": "2001-04-07", "height_m": null, "weight_kg": null, "club": "Almere City FC", "club_country": "NED", "fc26": null}
+  ]
+}
