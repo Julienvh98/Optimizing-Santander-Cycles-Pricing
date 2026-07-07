@@ -1,0 +1,32 @@
+{
+  "code": "AUS",
+  "coach": "Tony Popovic",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Patrick Beach", "dob": null, "height_m": null, "weight_kg": null, "club": "Melbourne City FC", "club_country": "AUS", "fc26": null},
+    {"sticker": 2, "position": "GK", "name": "Paul Izzo", "dob": "1995-01-06", "height_m": 1.87, "weight_kg": null, "club": "Randers FC", "club_country": "DEN", "fc26": 70},
+    {"sticker": 3, "position": "GK", "name": "Mathew Ryan", "dob": "1992-04-08", "height_m": 1.84, "weight_kg": 82, "club": "Levante UD", "club_country": "ESP", "fc26": 76},
+    {"sticker": 4, "position": "DF", "name": "Aziz Behich", "dob": "1990-12-16", "height_m": 1.70, "weight_kg": 70, "club": "Melbourne City FC", "club_country": "AUS", "fc26": 71},
+    {"sticker": 5, "position": "DF", "name": "Jordan Bos", "dob": "2002-10-29", "height_m": 1.74, "weight_kg": null, "club": "Feyenoord", "club_country": "NED", "fc26": 75},
+    {"sticker": 6, "position": "DF", "name": "Cameron Burgess", "dob": "1995-10-21", "height_m": 1.94, "weight_kg": null, "club": "Swansea City", "club_country": "WAL", "fc26": 71},
+    {"sticker": 7, "position": "DF", "name": "Alessandro Circati", "dob": "2003-10-10", "height_m": 1.87, "weight_kg": null, "club": "Parma Calcio", "club_country": "ITA", "fc26": 75},
+    {"sticker": 8, "position": "DF", "name": "Milos Degenek", "dob": "1994-04-28", "height_m": 1.87, "weight_kg": 85, "club": "APOEL FC", "club_country": "CYP", "fc26": 70},
+    {"sticker": 9, "position": "DF", "name": "Jason Geria", "dob": "1993-05-10", "height_m": 1.81, "weight_kg": null, "club": "Albirex Niigata", "club_country": "JPN", "fc26": null},
+    {"sticker": 10, "position": "DF", "name": "Lucas Herrington", "dob": null, "height_m": null, "weight_kg": null, "club": "Colorado Rapids", "club_country": "USA", "fc26": null},
+    {"sticker": 11, "position": "DF", "name": "Jacob Italiano", "dob": "2001-07-30", "height_m": null, "weight_kg": null, "club": "Grazer AK", "club_country": "AUT", "fc26": null},
+    {"sticker": 12, "position": "DF", "name": "Harry Souttar", "dob": "1998-10-22", "height_m": 1.98, "weight_kg": 87, "club": "Leicester City", "club_country": "ENG", "fc26": 74},
+    {"sticker": 13, "position": "DF", "name": "Kai Trewin", "dob": "2001-06-01", "height_m": null, "weight_kg": null, "club": "New York City FC", "club_country": "USA", "fc26": null},
+    {"sticker": 14, "position": "MF", "name": "Cameron Devlin", "dob": "1998-06-07", "height_m": 1.73, "weight_kg": null, "club": "Heart of Midlothian", "club_country": "SCO", "fc26": 70},
+    {"sticker": 15, "position": "MF", "name": "Ajdin Hrustic", "dob": "1996-07-05", "height_m": 1.83, "weight_kg": null, "club": "Heracles Almelo", "club_country": "NED", "fc26": 72},
+    {"sticker": 16, "position": "MF", "name": "Jackson Irvine", "dob": "1993-03-07", "height_m": 1.89, "weight_kg": 79, "club": "FC St. Pauli", "club_country": "GER", "fc26": 74},
+    {"sticker": 17, "position": "MF", "name": "Connor Metcalfe", "dob": "1999-11-05", "height_m": 1.80, "weight_kg": null, "club": "FC St. Pauli", "club_country": "GER", "fc26": 72},
+    {"sticker": 18, "position": "MF", "name": "Aiden O'Neill", "dob": "1998-07-04", "height_m": null, "weight_kg": null, "club": "New York City FC", "club_country": "USA", "fc26": 70},
+    {"sticker": 19, "position": "MF", "name": "Paul Okon-Engstler", "dob": null, "height_m": null, "weight_kg": null, "club": "Sydney FC", "club_country": "AUS", "fc26": null},
+    {"sticker": 20, "position": "FW", "name": "Nestory Irankunda", "dob": "2006-02-06", "height_m": 1.75, "weight_kg": null, "club": "Watford FC", "club_country": "ENG", "fc26": 72},
+    {"sticker": 21, "position": "FW", "name": "Mathew Leckie", "dob": "1991-02-04", "height_m": 1.81, "weight_kg": 79, "club": "Melbourne City FC", "club_country": "AUS", "fc26": 70},
+    {"sticker": 22, "position": "FW", "name": "Awer Mabil", "dob": "1995-09-15", "height_m": 1.79, "weight_kg": null, "club": "CD Castellón", "club_country": "ESP", "fc26": 70},
+    {"sticker": 23, "position": "FW", "name": "Mohamed Touré", "dob": "2004-04-30", "height_m": null, "weight_kg": null, "club": "Norwich City", "club_country": "ENG", "fc26": null},
+    {"sticker": 24, "position": "FW", "name": "Nishan Velupillay", "dob": "2001-05-01", "height_m": null, "weight_kg": null, "club": "Melbourne Victory", "club_country": "AUS", "fc26": null},
+    {"sticker": 25, "position": "FW", "name": "Cristian Volpato", "dob": "2003-11-15", "height_m": 1.80, "weight_kg": null, "club": "US Sassuolo", "club_country": "ITA", "fc26": 73},
+    {"sticker": 26, "position": "FW", "name": "Tete Yengi", "dob": "2003-01-24", "height_m": null, "weight_kg": null, "club": "FC Machida Zelvia", "club_country": "JPN", "fc26": null}
+  ]
+}

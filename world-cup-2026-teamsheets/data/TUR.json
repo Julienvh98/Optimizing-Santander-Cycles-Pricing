@@ -1,0 +1,32 @@
+{
+  "code": "TUR",
+  "coach": "Vincenzo Montella",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Altay Bayındır", "dob": "1998-04-14", "height_m": 1.98, "weight_kg": 85, "club": "Manchester United", "club_country": "ENG", "fc26": 77},
+    {"sticker": 2, "position": "GK", "name": "Uğurcan Çakır", "dob": "1996-04-05", "height_m": 1.91, "weight_kg": 84, "club": "Galatasaray SK", "club_country": "TUR", "fc26": 79},
+    {"sticker": 3, "position": "GK", "name": "Mert Günok", "dob": "1989-03-01", "height_m": 1.96, "weight_kg": 82, "club": "Beşiktaş JK", "club_country": "TUR", "fc26": 75},
+    {"sticker": 4, "position": "DF", "name": "Samet Akaydin", "dob": "1994-03-13", "height_m": 1.90, "weight_kg": null, "club": "Çaykur Rizespor", "club_country": "TUR", "fc26": 72},
+    {"sticker": 5, "position": "DF", "name": "Abdülkerim Bardakcı", "dob": "1994-09-07", "height_m": 1.86, "weight_kg": null, "club": "Galatasaray SK", "club_country": "TUR", "fc26": 78},
+    {"sticker": 6, "position": "DF", "name": "Zeki Çelik", "dob": "1997-02-17", "height_m": 1.80, "weight_kg": 76, "club": "AS Roma", "club_country": "ITA", "fc26": 77},
+    {"sticker": 7, "position": "DF", "name": "Merih Demiral", "dob": "1998-03-05", "height_m": 1.92, "weight_kg": 87, "club": "Al-Ahli SFC", "club_country": "KSA", "fc26": 79},
+    {"sticker": 8, "position": "DF", "name": "Eren Elmalı", "dob": "2000-07-19", "height_m": null, "weight_kg": null, "club": "Galatasaray SK", "club_country": "TUR", "fc26": 73},
+    {"sticker": 9, "position": "DF", "name": "Ozan Kabak", "dob": "2000-03-25", "height_m": 1.86, "weight_kg": 86, "club": "TSG Hoffenheim", "club_country": "GER", "fc26": 75},
+    {"sticker": 10, "position": "DF", "name": "Ferdi Kadıoğlu", "dob": "1999-10-07", "height_m": 1.74, "weight_kg": 70, "club": "Brighton & Hove Albion FC", "club_country": "ENG", "fc26": 79},
+    {"sticker": 11, "position": "DF", "name": "Mert Müldür", "dob": "1999-04-03", "height_m": 1.83, "weight_kg": null, "club": "Fenerbahçe SK", "club_country": "TUR", "fc26": 75},
+    {"sticker": 12, "position": "DF", "name": "Çağlar Söyüncü", "dob": "1996-05-23", "height_m": 1.88, "weight_kg": 82, "club": "Fenerbahçe SK", "club_country": "TUR", "fc26": 77},
+    {"sticker": 13, "position": "MF", "name": "Kaan Ayhan", "dob": "1994-11-10", "height_m": 1.85, "weight_kg": 82, "club": "Galatasaray SK", "club_country": "TUR", "fc26": 74},
+    {"sticker": 14, "position": "MF", "name": "Hakan Çalhanoğlu", "dob": "1994-02-08", "height_m": 1.78, "weight_kg": 76, "club": "Inter Milan", "club_country": "ITA", "fc26": 86},
+    {"sticker": 15, "position": "MF", "name": "Orkun Kökçü", "dob": "2000-12-29", "height_m": 1.75, "weight_kg": 70, "club": "Beşiktaş JK", "club_country": "TUR", "fc26": 80},
+    {"sticker": 16, "position": "MF", "name": "Salih Özcan", "dob": "1998-01-11", "height_m": 1.79, "weight_kg": null, "club": "Borussia Dortmund", "club_country": "GER", "fc26": 75},
+    {"sticker": 17, "position": "MF", "name": "İsmail Yüksek", "dob": "1999-01-26", "height_m": 1.84, "weight_kg": null, "club": "Fenerbahçe SK", "club_country": "TUR", "fc26": 75},
+    {"sticker": 18, "position": "FW", "name": "Yunus Akgün", "dob": "2000-06-07", "height_m": 1.75, "weight_kg": null, "club": "Galatasaray SK", "club_country": "TUR", "fc26": 75},
+    {"sticker": 19, "position": "FW", "name": "Kerem Aktürkoğlu", "dob": "1998-10-21", "height_m": 1.75, "weight_kg": null, "club": "Fenerbahçe SK", "club_country": "TUR", "fc26": 78},
+    {"sticker": 20, "position": "FW", "name": "Oğuz Aydın", "dob": "2000-10-27", "height_m": 1.77, "weight_kg": null, "club": "Fenerbahçe SK", "club_country": "TUR", "fc26": 73},
+    {"sticker": 21, "position": "FW", "name": "Deniz Gül", "dob": "2004-09-28", "height_m": null, "weight_kg": null, "club": "FC Porto", "club_country": "POR", "fc26": 71},
+    {"sticker": 22, "position": "FW", "name": "Arda Güler", "dob": "2005-02-25", "height_m": 1.76, "weight_kg": 68, "club": "Real Madrid", "club_country": "ESP", "fc26": 82},
+    {"sticker": 23, "position": "FW", "name": "İrfan Can Kahveci", "dob": "1995-07-15", "height_m": 1.75, "weight_kg": null, "club": "Kasımpaşa SK", "club_country": "TUR", "fc26": 74},
+    {"sticker": 24, "position": "FW", "name": "Can Uzun", "dob": "2005-11-11", "height_m": 1.86, "weight_kg": null, "club": "Eintracht Frankfurt", "club_country": "GER", "fc26": 76},
+    {"sticker": 25, "position": "FW", "name": "Kenan Yıldız", "dob": "2005-05-04", "height_m": 1.85, "weight_kg": 75, "club": "Juventus FC", "club_country": "ITA", "fc26": 83},
+    {"sticker": 26, "position": "FW", "name": "Barış Alper Yılmaz", "dob": "2000-05-23", "height_m": 1.84, "weight_kg": null, "club": "Galatasaray SK", "club_country": "TUR", "fc26": 77}
+  ]
+}

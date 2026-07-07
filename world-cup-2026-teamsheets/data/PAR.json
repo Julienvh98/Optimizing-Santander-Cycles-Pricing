@@ -1,0 +1,32 @@
+{
+  "code": "PAR",
+  "coach": "Gustavo Alfaro",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Roberto Fernández", "dob": "1988-03-03", "height_m": 1.89, "weight_kg": null, "club": "Cerro Porteño", "club_country": "PAR", "fc26": null},
+    {"sticker": 2, "position": "GK", "name": "Orlando Gill", "dob": null, "height_m": null, "weight_kg": null, "club": "São Paulo FC", "club_country": "BRA", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Gastón Olveira", "dob": null, "height_m": null, "weight_kg": null, "club": "Club Olimpia", "club_country": "PAR", "fc26": null},
+    {"sticker": 4, "position": "DF", "name": "Omar Alderete", "dob": "1996-12-26", "height_m": 1.86, "weight_kg": 80, "club": "Sunderland AFC", "club_country": "ENG", "fc26": 76},
+    {"sticker": 5, "position": "DF", "name": "Junior Alonso", "dob": "1993-02-09", "height_m": 1.83, "weight_kg": 79, "club": "Atlético Mineiro", "club_country": "BRA", "fc26": null},
+    {"sticker": 6, "position": "DF", "name": "Fabián Balbuena", "dob": "1991-08-23", "height_m": 1.88, "weight_kg": 82, "club": "Grêmio FBPA", "club_country": "BRA", "fc26": null},
+    {"sticker": 7, "position": "DF", "name": "Juan Cáceres", "dob": null, "height_m": null, "weight_kg": null, "club": "Dynamo Moscow", "club_country": "RUS", "fc26": null},
+    {"sticker": 8, "position": "DF", "name": "José Canale", "dob": null, "height_m": null, "weight_kg": null, "club": "CA Lanús", "club_country": "ARG", "fc26": null},
+    {"sticker": 9, "position": "DF", "name": "Gustavo Gómez", "dob": "1993-05-06", "height_m": 1.85, "weight_kg": 80, "club": "SE Palmeiras", "club_country": "BRA", "fc26": null},
+    {"sticker": 10, "position": "DF", "name": "Alexandro Maidana", "dob": null, "height_m": null, "weight_kg": null, "club": "CA Talleres", "club_country": "ARG", "fc26": null},
+    {"sticker": 11, "position": "DF", "name": "Gustavo Velázquez", "dob": null, "height_m": null, "weight_kg": null, "club": "Cerro Porteño", "club_country": "PAR", "fc26": null},
+    {"sticker": 12, "position": "MF", "name": "Damián Bobadilla", "dob": "2001-06-30", "height_m": null, "weight_kg": null, "club": "São Paulo FC", "club_country": "BRA", "fc26": null},
+    {"sticker": 13, "position": "MF", "name": "Andrés Cubas", "dob": "1996-05-30", "height_m": 1.68, "weight_kg": 65, "club": "Vancouver Whitecaps", "club_country": "CAN", "fc26": 73},
+    {"sticker": 14, "position": "MF", "name": "Julio Enciso", "dob": "2004-01-23", "height_m": 1.75, "weight_kg": null, "club": "RC Strasbourg", "club_country": "FRA", "fc26": 78},
+    {"sticker": 15, "position": "MF", "name": "Matías Galarza", "dob": null, "height_m": null, "weight_kg": null, "club": "Atlanta United", "club_country": "USA", "fc26": null},
+    {"sticker": 16, "position": "MF", "name": "Diego Gómez", "dob": "2003-02-27", "height_m": 1.80, "weight_kg": null, "club": "Brighton & Hove Albion FC", "club_country": "ENG", "fc26": 74},
+    {"sticker": 17, "position": "MF", "name": "Maurício", "dob": null, "height_m": null, "weight_kg": null, "club": "SE Palmeiras", "club_country": "BRA", "fc26": null},
+    {"sticker": 18, "position": "MF", "name": "Braian Ojeda", "dob": "2000-06-27", "height_m": null, "weight_kg": null, "club": "Real Salt Lake", "club_country": "USA", "fc26": null},
+    {"sticker": 19, "position": "MF", "name": "Alejandro Romero Gamarra", "dob": "1995-02-27", "height_m": 1.73, "weight_kg": null, "club": "Al Ain FC", "club_country": "UAE", "fc26": 74},
+    {"sticker": 20, "position": "FW", "name": "Miguel Almirón", "dob": "1994-02-10", "height_m": 1.74, "weight_kg": 63, "club": "Atlanta United", "club_country": "USA", "fc26": 76},
+    {"sticker": 21, "position": "FW", "name": "Alex Arce", "dob": null, "height_m": null, "weight_kg": null, "club": "Independiente Rivadavia", "club_country": "ARG", "fc26": 71},
+    {"sticker": 22, "position": "FW", "name": "Gabriel Ávalos", "dob": "1990-10-08", "height_m": 1.88, "weight_kg": null, "club": "CA Independiente", "club_country": "ARG", "fc26": 73},
+    {"sticker": 23, "position": "FW", "name": "Gustavo Caballero", "dob": null, "height_m": null, "weight_kg": null, "club": "Portsmouth FC", "club_country": "ENG", "fc26": null},
+    {"sticker": 24, "position": "FW", "name": "Isidro Pitta", "dob": "1999-06-25", "height_m": null, "weight_kg": null, "club": "RB Bragantino", "club_country": "BRA", "fc26": null},
+    {"sticker": 25, "position": "FW", "name": "Antonio Sanabria", "dob": "1996-03-04", "height_m": 1.84, "weight_kg": 78, "club": "US Cremonese", "club_country": "ITA", "fc26": 74},
+    {"sticker": 26, "position": "FW", "name": "Ramón Sosa", "dob": "1999-08-31", "height_m": 1.76, "weight_kg": null, "club": "SE Palmeiras", "club_country": "BRA", "fc26": null}
+  ]
+}

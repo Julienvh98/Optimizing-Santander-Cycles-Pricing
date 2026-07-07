@@ -1,0 +1,32 @@
+{
+  "code": "USA",
+  "coach": "Mauricio Pochettino",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Chris Brady", "dob": "2004-01-14", "height_m": 1.85, "weight_kg": null, "club": "Chicago Fire FC", "club_country": "USA", "fc26": 72},
+    {"sticker": 2, "position": "GK", "name": "Matt Freese", "dob": "1998-09-02", "height_m": 1.88, "weight_kg": null, "club": "New York City FC", "club_country": "USA", "fc26": 72},
+    {"sticker": 3, "position": "GK", "name": "Matt Turner", "dob": "1994-06-24", "height_m": 1.91, "weight_kg": 87, "club": "New England Revolution", "club_country": "USA", "fc26": 76},
+    {"sticker": 4, "position": "DF", "name": "Max Arfsten", "dob": "2001-03-05", "height_m": null, "weight_kg": null, "club": "Columbus Crew", "club_country": "USA", "fc26": 70},
+    {"sticker": 5, "position": "DF", "name": "Sergiño Dest", "dob": "2000-11-26", "height_m": 1.75, "weight_kg": 68, "club": "PSV Eindhoven", "club_country": "NED", "fc26": 78},
+    {"sticker": 6, "position": "DF", "name": "Alex Freeman", "dob": null, "height_m": null, "weight_kg": null, "club": "Orlando City SC", "club_country": "USA", "fc26": null},
+    {"sticker": 7, "position": "DF", "name": "Mark McKenzie", "dob": "1999-02-25", "height_m": 1.85, "weight_kg": null, "club": "Toulouse FC", "club_country": "FRA", "fc26": 73},
+    {"sticker": 8, "position": "DF", "name": "Tim Ream", "dob": "1987-10-05", "height_m": 1.86, "weight_kg": 79, "club": "Charlotte FC", "club_country": "USA", "fc26": 73},
+    {"sticker": 9, "position": "DF", "name": "Chris Richards", "dob": "2000-03-28", "height_m": 1.88, "weight_kg": 80, "club": "Crystal Palace", "club_country": "ENG", "fc26": 77},
+    {"sticker": 10, "position": "DF", "name": "Antonee Robinson", "dob": "1997-08-08", "height_m": 1.83, "weight_kg": 70, "club": "Fulham FC", "club_country": "ENG", "fc26": 80},
+    {"sticker": 11, "position": "DF", "name": "Miles Robinson", "dob": "1997-03-14", "height_m": 1.87, "weight_kg": null, "club": "FC Cincinnati", "club_country": "USA", "fc26": 74},
+    {"sticker": 12, "position": "DF", "name": "Joe Scally", "dob": "2002-12-31", "height_m": 1.83, "weight_kg": null, "club": "Borussia Mönchengladbach", "club_country": "GER", "fc26": 74},
+    {"sticker": 13, "position": "DF", "name": "Auston Trusty", "dob": "1998-08-12", "height_m": 1.88, "weight_kg": null, "club": "Celtic FC", "club_country": "SCO", "fc26": 72},
+    {"sticker": 14, "position": "MF", "name": "Tyler Adams", "dob": "1999-02-14", "height_m": 1.75, "weight_kg": 72, "club": "AFC Bournemouth", "club_country": "ENG", "fc26": 77},
+    {"sticker": 15, "position": "MF", "name": "Sebastian Berhalter", "dob": "2001-10-18", "height_m": null, "weight_kg": null, "club": "Vancouver Whitecaps", "club_country": "CAN", "fc26": 71},
+    {"sticker": 16, "position": "MF", "name": "Weston McKennie", "dob": "1998-08-28", "height_m": 1.85, "weight_kg": 84, "club": "Juventus FC", "club_country": "ITA", "fc26": 79},
+    {"sticker": 17, "position": "MF", "name": "Gio Reyna", "dob": "2002-11-13", "height_m": 1.85, "weight_kg": null, "club": "Borussia Mönchengladbach", "club_country": "GER", "fc26": 74},
+    {"sticker": 18, "position": "MF", "name": "Cristian Roldan", "dob": "1995-06-03", "height_m": 1.73, "weight_kg": null, "club": "Seattle Sounders FC", "club_country": "USA", "fc26": 72},
+    {"sticker": 19, "position": "MF", "name": "Malik Tillman", "dob": "2002-05-28", "height_m": 1.87, "weight_kg": null, "club": "Bayer Leverkusen", "club_country": "GER", "fc26": 78},
+    {"sticker": 20, "position": "FW", "name": "Brenden Aaronson", "dob": "2000-10-22", "height_m": 1.78, "weight_kg": 70, "club": "Leeds United", "club_country": "ENG", "fc26": 74},
+    {"sticker": 21, "position": "FW", "name": "Folarin Balogun", "dob": "2001-07-03", "height_m": 1.78, "weight_kg": null, "club": "AS Monaco", "club_country": "FRA", "fc26": 77},
+    {"sticker": 22, "position": "FW", "name": "Ricardo Pepi", "dob": "2003-01-09", "height_m": 1.85, "weight_kg": null, "club": "PSV Eindhoven", "club_country": "NED", "fc26": 76},
+    {"sticker": 23, "position": "FW", "name": "Christian Pulisic", "dob": "1998-09-18", "height_m": 1.78, "weight_kg": 69, "club": "AC Milan", "club_country": "ITA", "fc26": 84},
+    {"sticker": 24, "position": "FW", "name": "Tim Weah", "dob": "2000-02-22", "height_m": 1.85, "weight_kg": 74, "club": "Olympique de Marseille", "club_country": "FRA", "fc26": 77},
+    {"sticker": 25, "position": "FW", "name": "Haji Wright", "dob": "1998-03-27", "height_m": 1.93, "weight_kg": null, "club": "Coventry City", "club_country": "ENG", "fc26": 73},
+    {"sticker": 26, "position": "FW", "name": "Alejandro Zendejas", "dob": "1998-02-07", "height_m": 1.73, "weight_kg": null, "club": "Club América", "club_country": "MEX", "fc26": 74}
+  ]
+}
