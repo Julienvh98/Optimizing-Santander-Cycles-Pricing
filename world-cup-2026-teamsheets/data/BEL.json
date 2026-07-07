@@ -1,0 +1,32 @@
+{
+  "code": "BEL",
+  "coach": "Rudi Garcia",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Thibaut Courtois", "dob": "1992-05-11", "height_m": 2.00, "weight_kg": 96, "club": "Real Madrid", "club_country": "ESP", "fc26": 89},
+    {"sticker": 2, "position": "GK", "name": "Senne Lammens", "dob": "2002-07-03", "height_m": 1.93, "weight_kg": null, "club": "Manchester United", "club_country": "ENG", "fc26": 74},
+    {"sticker": 3, "position": "GK", "name": "Mike Penders", "dob": "2005-05-31", "height_m": 1.94, "weight_kg": null, "club": "RC Strasbourg", "club_country": "FRA", "fc26": 72},
+    {"sticker": 4, "position": "DF", "name": "Timothy Castagne", "dob": "1995-12-05", "height_m": 1.85, "weight_kg": 82, "club": "Fulham FC", "club_country": "ENG", "fc26": 79},
+    {"sticker": 5, "position": "DF", "name": "Zeno Debast", "dob": "2003-10-24", "height_m": 1.86, "weight_kg": 74, "club": "Sporting CP", "club_country": "POR", "fc26": 78},
+    {"sticker": 6, "position": "DF", "name": "Maxim De Cuyper", "dob": "2000-12-22", "height_m": 1.82, "weight_kg": 72, "club": "Brighton & Hove Albion FC", "club_country": "ENG", "fc26": 76},
+    {"sticker": 7, "position": "DF", "name": "Koni De Winter", "dob": "2002-06-12", "height_m": 1.90, "weight_kg": 83, "club": "AC Milan", "club_country": "ITA", "fc26": 78},
+    {"sticker": 8, "position": "DF", "name": "Brandon Mechele", "dob": "1993-01-28", "height_m": 1.90, "weight_kg": 81, "club": "Club Brugge KV", "club_country": "BEL", "fc26": 75},
+    {"sticker": 9, "position": "DF", "name": "Thomas Meunier", "dob": "1991-09-12", "height_m": 1.91, "weight_kg": 90, "club": "LOSC Lille", "club_country": "FRA", "fc26": 77},
+    {"sticker": 10, "position": "DF", "name": "Nathan Ngoy", "dob": null, "height_m": null, "weight_kg": null, "club": "LOSC Lille", "club_country": "FRA", "fc26": null},
+    {"sticker": 11, "position": "DF", "name": "Joaquin Seys", "dob": "2005-01-06", "height_m": null, "weight_kg": null, "club": "Club Brugge KV", "club_country": "BEL", "fc26": 74},
+    {"sticker": 12, "position": "DF", "name": "Arthur Theate", "dob": "2000-05-25", "height_m": 1.85, "weight_kg": 80, "club": "Eintracht Frankfurt", "club_country": "GER", "fc26": 79},
+    {"sticker": 13, "position": "MF", "name": "Kevin De Bruyne", "dob": "1991-06-28", "height_m": 1.81, "weight_kg": 70, "club": "SSC Napoli", "club_country": "ITA", "fc26": 87},
+    {"sticker": 14, "position": "MF", "name": "Amadou Onana", "dob": "2001-08-16", "height_m": 1.95, "weight_kg": 84, "club": "Aston Villa", "club_country": "ENG", "fc26": 82},
+    {"sticker": 15, "position": "MF", "name": "Nicolas Raskin", "dob": "2001-02-23", "height_m": 1.76, "weight_kg": 70, "club": "Rangers FC", "club_country": "SCO", "fc26": 77},
+    {"sticker": 16, "position": "MF", "name": "Youri Tielemans", "dob": "1997-05-07", "height_m": 1.76, "weight_kg": 72, "club": "Aston Villa", "club_country": "ENG", "fc26": 84},
+    {"sticker": 17, "position": "MF", "name": "Hans Vanaken", "dob": "1992-08-24", "height_m": 1.95, "weight_kg": 84, "club": "Club Brugge KV", "club_country": "BEL", "fc26": 78},
+    {"sticker": 18, "position": "MF", "name": "Axel Witsel", "dob": "1989-01-12", "height_m": 1.86, "weight_kg": 81, "club": "Girona FC", "club_country": "ESP", "fc26": 78},
+    {"sticker": 19, "position": "FW", "name": "Charles De Ketelaere", "dob": "2001-03-10", "height_m": 1.92, "weight_kg": 74, "club": "Atalanta BC", "club_country": "ITA", "fc26": 83},
+    {"sticker": 20, "position": "FW", "name": "Jérémy Doku", "dob": "2002-05-27", "height_m": 1.71, "weight_kg": 66, "club": "Manchester City", "club_country": "ENG", "fc26": 85},
+    {"sticker": 21, "position": "FW", "name": "Matias Fernandez-Pardo", "dob": null, "height_m": 1.86, "weight_kg": null, "club": "LOSC Lille", "club_country": "FRA", "fc26": 72},
+    {"sticker": 22, "position": "FW", "name": "Romelu Lukaku", "dob": "1993-05-13", "height_m": 1.90, "weight_kg": 103, "club": "SSC Napoli", "club_country": "ITA", "fc26": 84},
+    {"sticker": 23, "position": "FW", "name": "Dodi Lukebakio", "dob": "1997-09-24", "height_m": 1.87, "weight_kg": 79, "club": "SL Benfica", "club_country": "POR", "fc26": 80},
+    {"sticker": 24, "position": "FW", "name": "Diego Moreira", "dob": "2004-08-06", "height_m": null, "weight_kg": null, "club": "RC Strasbourg", "club_country": "FRA", "fc26": 75},
+    {"sticker": 25, "position": "FW", "name": "Alexis Saelemaekers", "dob": "1999-06-27", "height_m": 1.80, "weight_kg": 72, "club": "AC Milan", "club_country": "ITA", "fc26": 80},
+    {"sticker": 26, "position": "FW", "name": "Leandro Trossard", "dob": "1994-12-04", "height_m": 1.72, "weight_kg": 65, "club": "Arsenal FC", "club_country": "ENG", "fc26": 81}
+  ]
+}

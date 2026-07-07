@@ -1,0 +1,32 @@
+{
+  "code": "MEX",
+  "coach": "Javier Aguirre",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Carlos Acevedo", "dob": "1996-04-19", "height_m": 1.87, "weight_kg": null, "club": "Santos Laguna", "club_country": "MEX", "fc26": 72},
+    {"sticker": 2, "position": "GK", "name": "Guillermo Ochoa", "dob": "1985-07-13", "height_m": 1.85, "weight_kg": 78, "club": "AEL Limassol", "club_country": "CYP", "fc26": 72},
+    {"sticker": 3, "position": "GK", "name": "Raúl Rangel", "dob": "1999-11-25", "height_m": 1.86, "weight_kg": null, "club": "CD Guadalajara", "club_country": "MEX", "fc26": 73},
+    {"sticker": 4, "position": "DF", "name": "Edson Álvarez", "dob": "1997-10-24", "height_m": 1.87, "weight_kg": 73, "club": "Fenerbahçe SK", "club_country": "TUR", "fc26": 78},
+    {"sticker": 5, "position": "DF", "name": "Mateo Chávez", "dob": null, "height_m": null, "weight_kg": null, "club": "AZ Alkmaar", "club_country": "NED", "fc26": 71},
+    {"sticker": 6, "position": "DF", "name": "Jesús Gallardo", "dob": "1994-08-15", "height_m": 1.75, "weight_kg": 70, "club": "Deportivo Toluca", "club_country": "MEX", "fc26": 74},
+    {"sticker": 7, "position": "DF", "name": "César Montes", "dob": "1997-02-24", "height_m": 1.91, "weight_kg": 85, "club": "Lokomotiv Moscow", "club_country": "RUS", "fc26": 75},
+    {"sticker": 8, "position": "DF", "name": "Israel Reyes", "dob": "2000-05-23", "height_m": 1.80, "weight_kg": null, "club": "Club América", "club_country": "MEX", "fc26": 72},
+    {"sticker": 9, "position": "DF", "name": "Jorge Sánchez", "dob": "1997-12-10", "height_m": 1.75, "weight_kg": 72, "club": "Cruz Azul", "club_country": "MEX", "fc26": 72},
+    {"sticker": 10, "position": "DF", "name": "Johan Vásquez", "dob": "1998-10-22", "height_m": 1.85, "weight_kg": 78, "club": "Genoa CFC", "club_country": "ITA", "fc26": 76},
+    {"sticker": 11, "position": "MF", "name": "Luis Chávez", "dob": "1996-01-15", "height_m": 1.75, "weight_kg": 73, "club": "Dynamo Moscow", "club_country": "RUS", "fc26": 75},
+    {"sticker": 12, "position": "MF", "name": "Álvaro Fidalgo", "dob": "1997-04-27", "height_m": 1.76, "weight_kg": 70, "club": "Club América", "club_country": "MEX", "fc26": 77},
+    {"sticker": 13, "position": "MF", "name": "Brian Gutiérrez", "dob": "2003-06-09", "height_m": null, "weight_kg": null, "club": "Chicago Fire FC", "club_country": "USA", "fc26": 71},
+    {"sticker": 14, "position": "MF", "name": "Erik Lira", "dob": "2000-05-08", "height_m": 1.72, "weight_kg": null, "club": "Cruz Azul", "club_country": "MEX", "fc26": 73},
+    {"sticker": 15, "position": "MF", "name": "Gilberto Mora", "dob": "2008-10-14", "height_m": 1.74, "weight_kg": null, "club": "Club Tijuana", "club_country": "MEX", "fc26": 71},
+    {"sticker": 16, "position": "MF", "name": "Orbelín Pineda", "dob": "1996-03-24", "height_m": 1.69, "weight_kg": 63, "club": "AEK Athens", "club_country": "GRE", "fc26": 75},
+    {"sticker": 17, "position": "MF", "name": "Luis Romo", "dob": "1995-06-05", "height_m": 1.84, "weight_kg": 78, "club": "Cruz Azul", "club_country": "MEX", "fc26": 74},
+    {"sticker": 18, "position": "MF", "name": "Obed Vargas", "dob": "2005-08-05", "height_m": 1.83, "weight_kg": null, "club": "Seattle Sounders FC", "club_country": "USA", "fc26": 71},
+    {"sticker": 19, "position": "FW", "name": "Roberto Alvarado", "dob": "1998-09-07", "height_m": 1.74, "weight_kg": 66, "club": "CD Guadalajara", "club_country": "MEX", "fc26": 76},
+    {"sticker": 20, "position": "FW", "name": "Santiago Giménez", "dob": "2001-04-18", "height_m": 1.83, "weight_kg": 76, "club": "AC Milan", "club_country": "ITA", "fc26": 79},
+    {"sticker": 21, "position": "FW", "name": "Armando González", "dob": null, "height_m": null, "weight_kg": null, "club": "CD Guadalajara", "club_country": "MEX", "fc26": null},
+    {"sticker": 22, "position": "FW", "name": "César Huerta", "dob": "2000-12-03", "height_m": 1.66, "weight_kg": 62, "club": "RSC Anderlecht", "club_country": "BEL", "fc26": 74},
+    {"sticker": 23, "position": "FW", "name": "Raúl Jiménez", "dob": "1991-05-05", "height_m": 1.90, "weight_kg": 76, "club": "Fulham FC", "club_country": "ENG", "fc26": 77},
+    {"sticker": 24, "position": "FW", "name": "Guillermo Martínez", "dob": null, "height_m": null, "weight_kg": null, "club": "Pumas UNAM", "club_country": "MEX", "fc26": 72},
+    {"sticker": 25, "position": "FW", "name": "Julián Quiñones", "dob": "1997-03-24", "height_m": 1.75, "weight_kg": 72, "club": "Al-Qadsiah FC", "club_country": "KSA", "fc26": 77},
+    {"sticker": 26, "position": "FW", "name": "Alexis Vega", "dob": "1997-11-25", "height_m": 1.74, "weight_kg": 70, "club": "Deportivo Toluca", "club_country": "MEX", "fc26": 75}
+  ]
+}

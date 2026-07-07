@@ -1,0 +1,32 @@
+{
+  "code": "KOR",
+  "coach": "Hong Myung-bo",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Jo Hyeon-woo", "dob": "1991-09-25", "height_m": 1.89, "weight_kg": 75, "club": "Ulsan HD FC", "club_country": "KOR", "fc26": 76},
+    {"sticker": 2, "position": "GK", "name": "Kim Seung-gyu", "dob": "1990-09-30", "height_m": 1.87, "weight_kg": 82, "club": "FC Tokyo", "club_country": "JPN", "fc26": 74},
+    {"sticker": 3, "position": "GK", "name": "Song Bum-keun", "dob": "1997-10-15", "height_m": 1.94, "weight_kg": null, "club": "Jeonbuk Hyundai Motors", "club_country": "KOR", "fc26": 71},
+    {"sticker": 4, "position": "DF", "name": "Jens Castrop", "dob": "2003-07-03", "height_m": 1.79, "weight_kg": null, "club": "Borussia Mönchengladbach", "club_country": "GER", "fc26": 72},
+    {"sticker": 5, "position": "DF", "name": "Cho Yu-min", "dob": "1996-11-17", "height_m": 1.84, "weight_kg": null, "club": "Sharjah FC", "club_country": "UAE", "fc26": 73},
+    {"sticker": 6, "position": "DF", "name": "Kim Min-jae", "dob": "1996-11-15", "height_m": 1.90, "weight_kg": 88, "club": "Bayern Munich", "club_country": "GER", "fc26": 84},
+    {"sticker": 7, "position": "DF", "name": "Kim Moon-hwan", "dob": "1995-08-01", "height_m": 1.73, "weight_kg": 64, "club": "Daejeon Hana Citizen", "club_country": "KOR", "fc26": 72},
+    {"sticker": 8, "position": "DF", "name": "Kim Tae-hyeon", "dob": null, "height_m": null, "weight_kg": null, "club": "Kashima Antlers", "club_country": "JPN", "fc26": null},
+    {"sticker": 9, "position": "DF", "name": "Lee Han-beom", "dob": "2002-06-17", "height_m": 1.86, "weight_kg": null, "club": "FC Midtjylland", "club_country": "DEN", "fc26": 72},
+    {"sticker": 10, "position": "DF", "name": "Lee Ki-hyuk", "dob": null, "height_m": null, "weight_kg": null, "club": "Gangwon FC", "club_country": "KOR", "fc26": null},
+    {"sticker": 11, "position": "DF", "name": "Lee Tae-seok", "dob": "2002-01-28", "height_m": null, "weight_kg": null, "club": "Austria Wien", "club_country": "AUT", "fc26": null},
+    {"sticker": 12, "position": "DF", "name": "Park Jin-seob", "dob": null, "height_m": null, "weight_kg": null, "club": "Zhejiang FC", "club_country": "CHN", "fc26": null},
+    {"sticker": 13, "position": "DF", "name": "Seol Young-woo", "dob": "1998-12-05", "height_m": 1.80, "weight_kg": null, "club": "Red Star Belgrade", "club_country": "SRB", "fc26": 74},
+    {"sticker": 14, "position": "MF", "name": "Bae Jun-ho", "dob": "2003-08-21", "height_m": 1.80, "weight_kg": null, "club": "Stoke City", "club_country": "ENG", "fc26": 72},
+    {"sticker": 15, "position": "MF", "name": "Eom Ji-sung", "dob": "2002-05-09", "height_m": null, "weight_kg": null, "club": "Swansea City", "club_country": "WAL", "fc26": 70},
+    {"sticker": 16, "position": "MF", "name": "Hwang Hee-chan", "dob": "1996-01-26", "height_m": 1.77, "weight_kg": 73, "club": "Wolverhampton Wanderers", "club_country": "ENG", "fc26": 77},
+    {"sticker": 17, "position": "MF", "name": "Hwang In-beom", "dob": "1996-09-20", "height_m": 1.77, "weight_kg": 70, "club": "Feyenoord", "club_country": "NED", "fc26": 78},
+    {"sticker": 18, "position": "MF", "name": "Kim Jin-gyu", "dob": null, "height_m": null, "weight_kg": null, "club": "Jeonbuk Hyundai Motors", "club_country": "KOR", "fc26": null},
+    {"sticker": 19, "position": "MF", "name": "Lee Dong-gyeong", "dob": "1997-09-20", "height_m": null, "weight_kg": null, "club": "Ulsan HD FC", "club_country": "KOR", "fc26": 71},
+    {"sticker": 20, "position": "MF", "name": "Lee Jae-sung", "dob": "1992-08-10", "height_m": 1.80, "weight_kg": 70, "club": "1. FSV Mainz 05", "club_country": "GER", "fc26": 77},
+    {"sticker": 21, "position": "MF", "name": "Lee Kang-in", "dob": "2001-02-19", "height_m": 1.74, "weight_kg": 68, "club": "Paris Saint-Germain", "club_country": "FRA", "fc26": 82},
+    {"sticker": 22, "position": "MF", "name": "Paik Seung-ho", "dob": "1997-03-17", "height_m": 1.82, "weight_kg": null, "club": "Birmingham City", "club_country": "ENG", "fc26": 73},
+    {"sticker": 23, "position": "MF", "name": "Yang Hyun-jun", "dob": "2002-05-25", "height_m": null, "weight_kg": null, "club": "Celtic FC", "club_country": "SCO", "fc26": 72},
+    {"sticker": 24, "position": "FW", "name": "Cho Gue-sung", "dob": "1998-01-24", "height_m": 1.89, "weight_kg": 82, "club": "FC Midtjylland", "club_country": "DEN", "fc26": 74},
+    {"sticker": 25, "position": "FW", "name": "Oh Hyeon-gyu", "dob": "2001-04-12", "height_m": 1.85, "weight_kg": null, "club": "Beşiktaş JK", "club_country": "TUR", "fc26": 73},
+    {"sticker": 26, "position": "FW", "name": "Son Heung-min", "dob": "1992-07-08", "height_m": 1.83, "weight_kg": 78, "club": "Los Angeles FC", "club_country": "USA", "fc26": 84}
+  ]
+}

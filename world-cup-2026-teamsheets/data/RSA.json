@@ -1,0 +1,32 @@
+{
+  "code": "RSA",
+  "coach": "Hugo Broos",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Sipho Chaine", "dob": null, "height_m": null, "weight_kg": null, "club": "Orlando Pirates", "club_country": "RSA", "fc26": 69},
+    {"sticker": 2, "position": "GK", "name": "Ricardo Goss", "dob": null, "height_m": null, "weight_kg": null, "club": "Siwelele FC", "club_country": "RSA", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Ronwen Williams", "dob": "1992-01-21", "height_m": 1.84, "weight_kg": 82, "club": "Mamelodi Sundowns", "club_country": "RSA", "fc26": 75},
+    {"sticker": 4, "position": "DF", "name": "Bradley Cross", "dob": null, "height_m": null, "weight_kg": null, "club": "Kaizer Chiefs", "club_country": "RSA", "fc26": null},
+    {"sticker": 5, "position": "DF", "name": "Samukele Kabini", "dob": null, "height_m": null, "weight_kg": null, "club": "Molde FK", "club_country": "NOR", "fc26": null},
+    {"sticker": 6, "position": "DF", "name": "Olwethu Makhanya", "dob": null, "height_m": null, "weight_kg": null, "club": "Philadelphia Union", "club_country": "USA", "fc26": null},
+    {"sticker": 7, "position": "DF", "name": "Thabang Matuludi", "dob": null, "height_m": null, "weight_kg": null, "club": "Polokwane City", "club_country": "RSA", "fc26": null},
+    {"sticker": 8, "position": "DF", "name": "Mbekezeli Mbokazi", "dob": null, "height_m": null, "weight_kg": null, "club": "Chicago Fire FC", "club_country": "USA", "fc26": null},
+    {"sticker": 9, "position": "DF", "name": "Aubrey Modiba", "dob": "1995-07-22", "height_m": 1.75, "weight_kg": null, "club": "Mamelodi Sundowns", "club_country": "RSA", "fc26": 72},
+    {"sticker": 10, "position": "DF", "name": "Khuliso Mudau", "dob": null, "height_m": null, "weight_kg": null, "club": "Mamelodi Sundowns", "club_country": "RSA", "fc26": 72},
+    {"sticker": 11, "position": "DF", "name": "Khulumani Ndamane", "dob": null, "height_m": null, "weight_kg": null, "club": "Mamelodi Sundowns", "club_country": "RSA", "fc26": null},
+    {"sticker": 12, "position": "DF", "name": "Ime Okon", "dob": null, "height_m": null, "weight_kg": null, "club": "Hannover 96", "club_country": "GER", "fc26": null},
+    {"sticker": 13, "position": "DF", "name": "Nkosinathi Sibisi", "dob": null, "height_m": null, "weight_kg": null, "club": "Orlando Pirates", "club_country": "RSA", "fc26": 70},
+    {"sticker": 14, "position": "MF", "name": "Jayden Adams", "dob": null, "height_m": null, "weight_kg": null, "club": "Mamelodi Sundowns", "club_country": "RSA", "fc26": null},
+    {"sticker": 15, "position": "MF", "name": "Thalente Mbatha", "dob": null, "height_m": null, "weight_kg": null, "club": "Orlando Pirates", "club_country": "RSA", "fc26": null},
+    {"sticker": 16, "position": "MF", "name": "Teboho Mokoena", "dob": "1997-01-24", "height_m": 1.76, "weight_kg": null, "club": "Mamelodi Sundowns", "club_country": "RSA", "fc26": 74},
+    {"sticker": 17, "position": "MF", "name": "Kamogelo Sebelebele", "dob": null, "height_m": null, "weight_kg": null, "club": "Orlando Pirates", "club_country": "RSA", "fc26": null},
+    {"sticker": 18, "position": "MF", "name": "Sphephelo Sithole", "dob": null, "height_m": null, "weight_kg": null, "club": "CD Tondela", "club_country": "POR", "fc26": null},
+    {"sticker": 19, "position": "FW", "name": "Oswin Appollis", "dob": "2001-11-27", "height_m": 1.73, "weight_kg": null, "club": "Orlando Pirates", "club_country": "RSA", "fc26": 71},
+    {"sticker": 20, "position": "FW", "name": "Lyle Foster", "dob": "2000-09-03", "height_m": 1.83, "weight_kg": 73, "club": "Burnley FC", "club_country": "ENG", "fc26": 74},
+    {"sticker": 21, "position": "FW", "name": "Evidence Makgopa", "dob": "2000-04-16", "height_m": 1.88, "weight_kg": null, "club": "Orlando Pirates", "club_country": "RSA", "fc26": 70},
+    {"sticker": 22, "position": "FW", "name": "Thapelo Maseko", "dob": null, "height_m": null, "weight_kg": null, "club": "AEL Limassol", "club_country": "CYP", "fc26": null},
+    {"sticker": 23, "position": "FW", "name": "Relebohile Mofokeng", "dob": "2004-09-04", "height_m": null, "weight_kg": null, "club": "Orlando Pirates", "club_country": "RSA", "fc26": 72},
+    {"sticker": 24, "position": "FW", "name": "Tshepang Moremi", "dob": null, "height_m": null, "weight_kg": null, "club": "Orlando Pirates", "club_country": "RSA", "fc26": null},
+    {"sticker": 25, "position": "FW", "name": "Iqraam Rayners", "dob": "1996-01-05", "height_m": null, "weight_kg": null, "club": "Mamelodi Sundowns", "club_country": "RSA", "fc26": 72},
+    {"sticker": 26, "position": "FW", "name": "Themba Zwane", "dob": "1989-08-03", "height_m": 1.73, "weight_kg": null, "club": "Mamelodi Sundowns", "club_country": "RSA", "fc26": 73}
+  ]
+}
