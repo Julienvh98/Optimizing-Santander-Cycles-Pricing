@@ -1,0 +1,32 @@
+{
+  "code": "EGY",
+  "coach": "Hossam Hassan",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Mohamed El Shenawy", "dob": "1988-10-25", "height_m": 1.87, "weight_kg": null, "club": "Al Ahly SC", "club_country": "EGY", "fc26": 78},
+    {"sticker": 2, "position": "GK", "name": "Mostafa Shobeir", "dob": "2000-03-06", "height_m": null, "weight_kg": null, "club": "Al Ahly SC", "club_country": "EGY", "fc26": 71},
+    {"sticker": 3, "position": "GK", "name": "El Mahdy Soliman", "dob": null, "height_m": null, "weight_kg": null, "club": "Zamalek SC", "club_country": "EGY", "fc26": null},
+    {"sticker": 4, "position": "GK", "name": "Mohamed Alaa", "dob": null, "height_m": null, "weight_kg": null, "club": "El Gouna FC", "club_country": "EGY", "fc26": null},
+    {"sticker": 5, "position": "DF", "name": "Tarek Alaa", "dob": null, "height_m": null, "weight_kg": null, "club": "ZED FC", "club_country": "EGY", "fc26": null},
+    {"sticker": 6, "position": "DF", "name": "Hossam Abdelmaguid", "dob": null, "height_m": null, "weight_kg": null, "club": "Zamalek SC", "club_country": "EGY", "fc26": null},
+    {"sticker": 7, "position": "DF", "name": "Mohamed Abdelmonem", "dob": "1997-09-14", "height_m": 1.90, "weight_kg": null, "club": "OGC Nice", "club_country": "FRA", "fc26": 74},
+    {"sticker": 8, "position": "DF", "name": "Ahmed Fatouh", "dob": "1997-01-01", "height_m": null, "weight_kg": null, "club": "Zamalek SC", "club_country": "EGY", "fc26": 71},
+    {"sticker": 9, "position": "DF", "name": "Karim Hafez", "dob": "1997-01-26", "height_m": 1.78, "weight_kg": null, "club": "Pyramids FC", "club_country": "EGY", "fc26": 71},
+    {"sticker": 10, "position": "DF", "name": "Mohamed Hany", "dob": "1997-10-01", "height_m": null, "weight_kg": null, "club": "Al Ahly SC", "club_country": "EGY", "fc26": 72},
+    {"sticker": 11, "position": "DF", "name": "Yasser Ibrahim", "dob": "1997-02-19", "height_m": 1.88, "weight_kg": null, "club": "Al Ahly SC", "club_country": "EGY", "fc26": 74},
+    {"sticker": 12, "position": "DF", "name": "Ramy Rabia", "dob": "1994-01-15", "height_m": 1.88, "weight_kg": null, "club": "Al Ain FC", "club_country": "UAE", "fc26": 73},
+    {"sticker": 13, "position": "MF", "name": "Emam Ashour", "dob": "2000-11-13", "height_m": 1.78, "weight_kg": null, "club": "Al Ahly SC", "club_country": "EGY", "fc26": 74},
+    {"sticker": 14, "position": "MF", "name": "Marwan Attia", "dob": null, "height_m": null, "weight_kg": null, "club": "Al Ahly SC", "club_country": "EGY", "fc26": null},
+    {"sticker": 15, "position": "MF", "name": "Nabil Emad", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Najma SC", "club_country": "KSA", "fc26": null},
+    {"sticker": 16, "position": "MF", "name": "Hamdy Fathy", "dob": "1991-04-22", "height_m": null, "weight_kg": null, "club": "Al-Wakrah SC", "club_country": "QAT", "fc26": 72},
+    {"sticker": 17, "position": "MF", "name": "Mohanad Lasheen", "dob": null, "height_m": null, "weight_kg": null, "club": "Pyramids FC", "club_country": "EGY", "fc26": null},
+    {"sticker": 18, "position": "MF", "name": "Mahmoud Saber", "dob": null, "height_m": null, "weight_kg": null, "club": "ZED FC", "club_country": "EGY", "fc26": null},
+    {"sticker": 19, "position": "MF", "name": "Mostafa Ziko", "dob": "1999-11-13", "height_m": null, "weight_kg": null, "club": "Pyramids FC", "club_country": "EGY", "fc26": 72},
+    {"sticker": 20, "position": "FW", "name": "Hamza Abdelkarim", "dob": "2006-01-01", "height_m": null, "weight_kg": null, "club": "FC Barcelona Atlètic", "club_country": "ESP", "fc26": null},
+    {"sticker": 21, "position": "FW", "name": "Ibrahim Adel", "dob": "2002-09-27", "height_m": null, "weight_kg": null, "club": "FC Nordsjælland", "club_country": "DEN", "fc26": 71},
+    {"sticker": 22, "position": "FW", "name": "Haissem Hassan", "dob": null, "height_m": null, "weight_kg": null, "club": "Real Oviedo", "club_country": "ESP", "fc26": null},
+    {"sticker": 23, "position": "FW", "name": "Omar Marmoush", "dob": "1999-02-07", "height_m": 1.80, "weight_kg": 73, "club": "Manchester City", "club_country": "ENG", "fc26": 82},
+    {"sticker": 24, "position": "FW", "name": "Mohamed Salah", "dob": "1992-06-15", "height_m": 1.75, "weight_kg": 71, "club": "Liverpool FC", "club_country": "ENG", "fc26": 89},
+    {"sticker": 25, "position": "FW", "name": "Trézéguet", "dob": "1994-09-01", "height_m": 1.77, "weight_kg": null, "club": "Al Ahly SC", "club_country": "EGY", "fc26": 73},
+    {"sticker": 26, "position": "FW", "name": "Zizo", "dob": "1998-01-18", "height_m": null, "weight_kg": null, "club": "Al Ahly SC", "club_country": "EGY", "fc26": 74}
+  ]
+}

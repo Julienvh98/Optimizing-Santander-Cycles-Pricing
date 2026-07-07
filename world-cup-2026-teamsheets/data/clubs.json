@@ -600,7 +600,7 @@
     "#CE1126"
   ],
   "Al Ahly SC": [
-    "#E30613",
+    "#DA291C",
     "#FFFFFF"
   ],
   "KRC Genk": [
@@ -1146,5 +1146,129 @@
   "Dynamo Makhachkala": [
     "#0055A5",
     "#FFD100"
+  ],
+  "Zamalek SC": [
+    "#FFFFFF",
+    "#DA291C"
+  ],
+  "El Gouna FC": [
+    "#F58025",
+    "#000000"
+  ],
+  "ZED FC": [
+    "#000000",
+    "#FFD100"
+  ],
+  "Pyramids FC": [
+    "#DA291C",
+    "#000000"
+  ],
+  "Al-Najma SC": [
+    "#FFD100",
+    "#000000"
+  ],
+  "FC Barcelona Atlètic": [
+    "#A50044",
+    "#004D98"
+  ],
+  "FC Nordsjælland": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Real Oviedo": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Tractor SC": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Sepahan SC": [
+    "#FFD100",
+    "#8A1538"
+  ],
+  "Persepolis FC": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Shabab Al-Ahli": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Kalba FC": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "FC Dender": [
+    "#FFD100",
+    "#DA291C"
+  ],
+  "Chadormalou": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Standard Liège": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Millwall FC": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Lechia Gdańsk": [
+    "#8A1538",
+    "#FFFFFF"
+  ],
+  "Auckland FC": [
+    "#00263A",
+    "#F7B32B"
+  ],
+  "Minnesota United": [
+    "#8CD2E9",
+    "#000000"
+  ],
+  "Wellington Phoenix": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Portland Timbers": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Braintree Town": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Viking FK": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Silkeborg IF": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Western Sydney Wanderers": [
+    "#DA291C",
+    "#000000"
+  ],
+  "Peterborough United": [
+    "#0055A5",
+    "#FFD100"
+  ],
+  "Motherwell FC": [
+    "#DA291C",
+    "#FFD100"
+  ],
+  "AS Saint-Étienne": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Port Vale": [
+    "#000000",
+    "#FFD100"
+  ],
+  "Newcastle Jets": [
+    "#DA291C",
+    "#000000"
   ]
 }
