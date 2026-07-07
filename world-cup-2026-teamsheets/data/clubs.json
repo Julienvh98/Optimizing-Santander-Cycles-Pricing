@@ -1270,5 +1270,137 @@
   "Newcastle Jets": [
     "#DA291C",
     "#000000"
+  ],
+  "Athletic Club": [
+    "#EE2523",
+    "#FFFFFF"
+  ],
+  "Atlético Madrid": [
+    "#CB3524",
+    "#FFFFFF"
+  ],
+  "Real Sociedad": [
+    "#0A3F91",
+    "#FFFFFF"
+  ],
+  "CA Osasuna": [
+    "#DA291C",
+    "#001489"
+  ],
+  "GD Chaves": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "CD Travadores": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Sporting Praia": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Al Bataeh Club": [
+    "#0055A5",
+    "#FFD100"
+  ],
+  "Shamrock Rovers": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Seinäjoen JK": [
+    "#FFD100",
+    "#0055A5"
+  ],
+  "CD Torreense": [
+    "#000000",
+    "#FFD100"
+  ],
+  "FCSB": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Ludogorets Razgrad": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Puskás Akadémia FC": [
+    "#DA291C",
+    "#000000"
+  ],
+  "FC Krasnodar": [
+    "#000000",
+    "#FFD100"
+  ],
+  "SC Farense": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Vitória SC": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "Akron Togliatti": [
+    "#0055A5",
+    "#FFD100"
+  ],
+  "Estrela da Amadora": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Hellas Verona": [
+    "#F2C61A",
+    "#00205B"
+  ],
+  "Apollon Limassol": [
+    "#0055A5",
+    "#FFD100"
+  ],
+  "Omonia Nicosia": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Al Fateh SC": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Al Taawoun FC": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Al Ittihad Club": [
+    "#000000",
+    "#FFD100"
+  ],
+  "Al Nassr FC": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Al Shabab FC": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "Al Ettifaq FC": [
+    "#00843D",
+    "#DA291C"
+  ],
+  "Al Fayha FC": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Estudiantes de La Plata": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "CF Monterrey": [
+    "#003DA5",
+    "#FFFFFF"
+  ],
+  "SC Internacional": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Fluminense FC": [
+    "#8A1538",
+    "#00843D"
   ]
 }

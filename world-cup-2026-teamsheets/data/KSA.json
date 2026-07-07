@@ -1,0 +1,32 @@
+{
+  "code": "KSA",
+  "coach": "Georgios Donis",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Mohammed Alowais", "dob": "1993-11-05", "height_m": 1.88, "weight_kg": null, "club": "Al Hilal SFC", "club_country": "KSA", "fc26": 74},
+    {"sticker": 2, "position": "GK", "name": "Nawaf Alaqidi", "dob": "1999-05-17", "height_m": null, "weight_kg": null, "club": "Al Taawoun FC", "club_country": "KSA", "fc26": 70},
+    {"sticker": 3, "position": "GK", "name": "Ahmed Alkassar", "dob": null, "height_m": null, "weight_kg": null, "club": "Al Fateh SC", "club_country": "KSA", "fc26": null},
+    {"sticker": 4, "position": "DF", "name": "Saud Abdulhamid", "dob": "1999-09-18", "height_m": 1.82, "weight_kg": null, "club": "RC Lens", "club_country": "FRA", "fc26": 73},
+    {"sticker": 5, "position": "DF", "name": "Abdulelah Alamri", "dob": "1996-05-01", "height_m": null, "weight_kg": null, "club": "Al Hilal SFC", "club_country": "KSA", "fc26": 72},
+    {"sticker": 6, "position": "DF", "name": "Moteb Alharbi", "dob": null, "height_m": null, "weight_kg": null, "club": "Al Ahli SFC", "club_country": "KSA", "fc26": null},
+    {"sticker": 7, "position": "DF", "name": "Hassan Altambakti", "dob": null, "height_m": null, "weight_kg": null, "club": "Al Ahli SFC", "club_country": "KSA", "fc26": null},
+    {"sticker": 8, "position": "DF", "name": "Mohammed Abu Alshamat", "dob": null, "height_m": null, "weight_kg": null, "club": "Al Hilal SFC", "club_country": "KSA", "fc26": null},
+    {"sticker": 9, "position": "DF", "name": "Nawaf Bu Washl", "dob": null, "height_m": null, "weight_kg": null, "club": "Al Nassr FC", "club_country": "KSA", "fc26": null},
+    {"sticker": 10, "position": "DF", "name": "Hassan Kadish", "dob": "1994-04-22", "height_m": null, "weight_kg": null, "club": "Al Ittihad Club", "club_country": "KSA", "fc26": 70},
+    {"sticker": 11, "position": "DF", "name": "Ali Lajami", "dob": "1998-08-08", "height_m": null, "weight_kg": null, "club": "Al Hilal SFC", "club_country": "KSA", "fc26": 71},
+    {"sticker": 12, "position": "DF", "name": "Ali Majrashi", "dob": null, "height_m": null, "weight_kg": null, "club": "Al Shabab FC", "club_country": "KSA", "fc26": null},
+    {"sticker": 13, "position": "DF", "name": "Jehad Thikri", "dob": null, "height_m": null, "weight_kg": null, "club": "Al Nassr FC", "club_country": "KSA", "fc26": null},
+    {"sticker": 14, "position": "MF", "name": "Abdulrahman Ghareeb", "dob": "1999-05-01", "height_m": null, "weight_kg": null, "club": "Al Hilal SFC", "club_country": "KSA", "fc26": 71},
+    {"sticker": 15, "position": "MF", "name": "Musab Al-Juwayr", "dob": "2000-03-15", "height_m": null, "weight_kg": null, "club": "Al Hilal SFC", "club_country": "KSA", "fc26": 71},
+    {"sticker": 16, "position": "MF", "name": "Salman Al-Faraj", "dob": "1989-08-01", "height_m": 1.72, "weight_kg": null, "club": "Al Hilal SFC", "club_country": "KSA", "fc26": 72},
+    {"sticker": 17, "position": "MF", "name": "Mohammed Kanno", "dob": "1994-08-22", "height_m": 1.87, "weight_kg": null, "club": "Al Hilal SFC", "club_country": "KSA", "fc26": 76},
+    {"sticker": 18, "position": "MF", "name": "Nasser Al-Dawsari", "dob": "2000-01-10", "height_m": null, "weight_kg": null, "club": "Al Hilal SFC", "club_country": "KSA", "fc26": 73},
+    {"sticker": 19, "position": "MF", "name": "Riyadh Sharahili", "dob": null, "height_m": null, "weight_kg": null, "club": "Al Ahli SFC", "club_country": "KSA", "fc26": null},
+    {"sticker": 20, "position": "MF", "name": "Sami Al-Najei", "dob": null, "height_m": null, "weight_kg": null, "club": "Al Ittihad Club", "club_country": "KSA", "fc26": null},
+    {"sticker": 21, "position": "FW", "name": "Salem Al-Dawsari", "dob": "1991-08-19", "height_m": 1.69, "weight_kg": null, "club": "Al Hilal SFC", "club_country": "KSA", "fc26": 78},
+    {"sticker": 22, "position": "FW", "name": "Firas Al-Buraikan", "dob": "2000-01-27", "height_m": 1.83, "weight_kg": null, "club": "Al Ahli SFC", "club_country": "KSA", "fc26": 74},
+    {"sticker": 23, "position": "FW", "name": "Abdullah Al-Hamdan", "dob": "2000-01-13", "height_m": null, "weight_kg": null, "club": "Al Ettifaq FC", "club_country": "KSA", "fc26": 71},
+    {"sticker": 24, "position": "FW", "name": "Ayman Yahya", "dob": null, "height_m": null, "weight_kg": null, "club": "Al Taawoun FC", "club_country": "KSA", "fc26": null},
+    {"sticker": 25, "position": "FW", "name": "Khalid Al-Ghannam", "dob": null, "height_m": null, "weight_kg": null, "club": "Al Fateh SC", "club_country": "KSA", "fc26": null},
+    {"sticker": 26, "position": "FW", "name": "Marwan Al-Sahafi", "dob": null, "height_m": null, "weight_kg": null, "club": "Al Fayha FC", "club_country": "KSA", "fc26": null}
+  ]
+}

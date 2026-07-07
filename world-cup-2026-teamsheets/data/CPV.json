@@ -1,0 +1,32 @@
+{
+  "code": "CPV",
+  "coach": "Bubista (Pedro Leitão Brito)",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Vozinha", "dob": "1987-05-14", "height_m": 1.88, "weight_kg": null, "club": "GD Chaves", "club_country": "POR", "fc26": null},
+    {"sticker": 2, "position": "GK", "name": "Dos Santos", "dob": null, "height_m": null, "weight_kg": null, "club": "CD Travadores", "club_country": "CPV", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Márcio Rosa", "dob": null, "height_m": null, "weight_kg": null, "club": "Sporting Praia", "club_country": "CPV", "fc26": null},
+    {"sticker": 4, "position": "DF", "name": "Edilson \"Diney\" Borges", "dob": null, "height_m": null, "weight_kg": null, "club": "Al Bataeh Club", "club_country": "UAE", "fc26": null},
+    {"sticker": 5, "position": "DF", "name": "Logan Costa", "dob": "2001-01-17", "height_m": 1.90, "weight_kg": null, "club": "Villarreal CF", "club_country": "ESP", "fc26": 74},
+    {"sticker": 6, "position": "DF", "name": "Sidny Lopes Cabral", "dob": null, "height_m": null, "weight_kg": null, "club": "SL Benfica", "club_country": "POR", "fc26": null},
+    {"sticker": 7, "position": "DF", "name": "Roberto \"Pico\" Lopes", "dob": "1994-01-07", "height_m": null, "weight_kg": null, "club": "Shamrock Rovers", "club_country": "IRL", "fc26": null},
+    {"sticker": 8, "position": "DF", "name": "Steven Moreira", "dob": "1996-05-30", "height_m": null, "weight_kg": null, "club": "Columbus Crew", "club_country": "USA", "fc26": 71},
+    {"sticker": 9, "position": "DF", "name": "Kelvin Pires", "dob": null, "height_m": null, "weight_kg": null, "club": "Seinäjoen JK", "club_country": "FIN", "fc26": null},
+    {"sticker": 10, "position": "DF", "name": "Wagner Pina", "dob": null, "height_m": null, "weight_kg": null, "club": "Trabzonspor", "club_country": "TUR", "fc26": null},
+    {"sticker": 11, "position": "DF", "name": "Ianique \"Stopira\" Tavares", "dob": null, "height_m": null, "weight_kg": null, "club": "CD Torreense", "club_country": "POR", "fc26": null},
+    {"sticker": 12, "position": "DF", "name": "João Paulo Fernandes", "dob": null, "height_m": null, "weight_kg": null, "club": "FCSB", "club_country": "ROU", "fc26": null},
+    {"sticker": 13, "position": "MF", "name": "Deroy Duarte", "dob": "2002-05-17", "height_m": null, "weight_kg": null, "club": "Ludogorets Razgrad", "club_country": "BUL", "fc26": 71},
+    {"sticker": 14, "position": "MF", "name": "Laros Duarte", "dob": null, "height_m": null, "weight_kg": null, "club": "Puskás Akadémia FC", "club_country": "HUN", "fc26": null},
+    {"sticker": 15, "position": "MF", "name": "Ryan Mendes", "dob": "1991-02-24", "height_m": 1.75, "weight_kg": null, "club": "Iğdır FK", "club_country": "TUR", "fc26": 74},
+    {"sticker": 16, "position": "MF", "name": "Jamiro Monteiro", "dob": "1994-01-03", "height_m": 1.75, "weight_kg": null, "club": "PEC Zwolle", "club_country": "NED", "fc26": 73},
+    {"sticker": 17, "position": "MF", "name": "Kevin Pina", "dob": "1999-01-23", "height_m": null, "weight_kg": null, "club": "FC Krasnodar", "club_country": "RUS", "fc26": 73},
+    {"sticker": 18, "position": "MF", "name": "Yannick Semedo", "dob": null, "height_m": null, "weight_kg": null, "club": "SC Farense", "club_country": "POR", "fc26": null},
+    {"sticker": 19, "position": "MF", "name": "Hélio Varela", "dob": null, "height_m": null, "weight_kg": null, "club": "GD Chaves", "club_country": "POR", "fc26": null},
+    {"sticker": 20, "position": "FW", "name": "Telmo Arcanjo", "dob": null, "height_m": null, "weight_kg": null, "club": "Vitória SC", "club_country": "POR", "fc26": null},
+    {"sticker": 21, "position": "FW", "name": "Gilson Benchimol", "dob": null, "height_m": null, "weight_kg": null, "club": "Akron Togliatti", "club_country": "RUS", "fc26": null},
+    {"sticker": 22, "position": "FW", "name": "Jovane Cabral", "dob": "1997-10-17", "height_m": 1.75, "weight_kg": null, "club": "Estrela da Amadora", "club_country": "POR", "fc26": 73},
+    {"sticker": 23, "position": "FW", "name": "Nuno da Costa", "dob": "1990-08-05", "height_m": null, "weight_kg": null, "club": "İstanbul Başakşehir", "club_country": "TUR", "fc26": 71},
+    {"sticker": 24, "position": "FW", "name": "Dailon Livramento", "dob": "2002-01-08", "height_m": null, "weight_kg": null, "club": "Hellas Verona", "club_country": "ITA", "fc26": 71},
+    {"sticker": 25, "position": "FW", "name": "Garry Rodrigues", "dob": "1990-09-04", "height_m": 1.75, "weight_kg": null, "club": "Apollon Limassol", "club_country": "CYP", "fc26": 70},
+    {"sticker": 26, "position": "FW", "name": "Willy Semedo", "dob": null, "height_m": null, "weight_kg": null, "club": "Omonia Nicosia", "club_country": "CYP", "fc26": null}
+  ]
+}
