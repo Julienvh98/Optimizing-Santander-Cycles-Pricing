@@ -1,0 +1,32 @@
+{
+  "code": "AUT",
+  "coach": "Ralf Rangnick",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Patrick Pentz", "dob": "1997-11-06", "height_m": 1.90, "weight_kg": null, "club": "Brøndby IF", "club_country": "DEN", "fc26": 73},
+    {"sticker": 2, "position": "GK", "name": "Alexander Schlager", "dob": "1995-06-05", "height_m": 1.94, "weight_kg": null, "club": "RB Salzburg", "club_country": "AUT", "fc26": 75},
+    {"sticker": 3, "position": "GK", "name": "Florian Wiegele", "dob": null, "height_m": null, "weight_kg": null, "club": "Viktoria Plzeň", "club_country": "CZE", "fc26": null},
+    {"sticker": 4, "position": "DF", "name": "David Affengruber", "dob": "2002-08-26", "height_m": null, "weight_kg": null, "club": "Elche CF", "club_country": "ESP", "fc26": 73},
+    {"sticker": 5, "position": "DF", "name": "David Alaba", "dob": "1992-06-24", "height_m": 1.80, "weight_kg": 78, "club": "Real Madrid", "club_country": "ESP", "fc26": 83},
+    {"sticker": 6, "position": "DF", "name": "Kevin Danso", "dob": "1998-09-19", "height_m": 1.92, "weight_kg": null, "club": "Tottenham Hotspur", "club_country": "ENG", "fc26": 79},
+    {"sticker": 7, "position": "DF", "name": "Marco Friedl", "dob": "1998-01-16", "height_m": 1.86, "weight_kg": null, "club": "SV Werder Bremen", "club_country": "GER", "fc26": 76},
+    {"sticker": 8, "position": "DF", "name": "Philipp Lienhart", "dob": "1996-04-11", "height_m": 1.90, "weight_kg": null, "club": "SC Freiburg", "club_country": "GER", "fc26": 77},
+    {"sticker": 9, "position": "DF", "name": "Phillipp Mwene", "dob": "1994-08-01", "height_m": null, "weight_kg": null, "club": "1. FSV Mainz 05", "club_country": "GER", "fc26": 74},
+    {"sticker": 10, "position": "DF", "name": "Stefan Posch", "dob": "1997-05-14", "height_m": 1.90, "weight_kg": null, "club": "1. FSV Mainz 05", "club_country": "GER", "fc26": 77},
+    {"sticker": 11, "position": "DF", "name": "Alexander Prass", "dob": "2000-01-31", "height_m": null, "weight_kg": null, "club": "TSG Hoffenheim", "club_country": "GER", "fc26": 76},
+    {"sticker": 12, "position": "DF", "name": "Michael Svoboda", "dob": null, "height_m": null, "weight_kg": null, "club": "Venezia FC", "club_country": "ITA", "fc26": null},
+    {"sticker": 13, "position": "MF", "name": "Christoph Baumgartner", "dob": "1999-08-01", "height_m": 1.85, "weight_kg": null, "club": "RB Leipzig", "club_country": "GER", "fc26": 81},
+    {"sticker": 14, "position": "MF", "name": "Carney Chukwuemeka", "dob": "2003-10-20", "height_m": 1.80, "weight_kg": null, "club": "Borussia Dortmund", "club_country": "GER", "fc26": 77},
+    {"sticker": 15, "position": "MF", "name": "Florian Grillitsch", "dob": "1995-08-21", "height_m": 1.88, "weight_kg": null, "club": "SC Braga", "club_country": "POR", "fc26": 77},
+    {"sticker": 16, "position": "MF", "name": "Konrad Laimer", "dob": "1997-05-11", "height_m": 1.79, "weight_kg": null, "club": "Bayern Munich", "club_country": "GER", "fc26": 80},
+    {"sticker": 17, "position": "MF", "name": "Marcel Sabitzer", "dob": "1994-03-17", "height_m": 1.75, "weight_kg": null, "club": "Borussia Dortmund", "club_country": "GER", "fc26": 80},
+    {"sticker": 18, "position": "MF", "name": "Xaver Schlager", "dob": "1999-05-28", "height_m": 1.80, "weight_kg": null, "club": "RB Leipzig", "club_country": "GER", "fc26": 80},
+    {"sticker": 19, "position": "MF", "name": "Romano Schmid", "dob": "2000-01-27", "height_m": 1.77, "weight_kg": null, "club": "SV Werder Bremen", "club_country": "GER", "fc26": 77},
+    {"sticker": 20, "position": "MF", "name": "Alessandro Schöpf", "dob": "1994-01-11", "height_m": null, "weight_kg": null, "club": "Wolfsberger AC", "club_country": "AUT", "fc26": 72},
+    {"sticker": 21, "position": "MF", "name": "Nicolas Seiwald", "dob": "2001-05-04", "height_m": 1.82, "weight_kg": null, "club": "RB Leipzig", "club_country": "GER", "fc26": 79},
+    {"sticker": 22, "position": "MF", "name": "Paul Wanner", "dob": "2006-01-07", "height_m": null, "weight_kg": null, "club": "PSV Eindhoven", "club_country": "NED", "fc26": 78},
+    {"sticker": 23, "position": "MF", "name": "Patrick Wimmer", "dob": "2000-09-30", "height_m": null, "weight_kg": null, "club": "VfL Wolfsburg", "club_country": "GER", "fc26": 76},
+    {"sticker": 24, "position": "FW", "name": "Marko Arnautović", "dob": "1989-04-19", "height_m": 1.92, "weight_kg": 90, "club": "Red Star Belgrade", "club_country": "SRB", "fc26": 76},
+    {"sticker": 25, "position": "FW", "name": "Michael Gregoritsch", "dob": "1994-04-18", "height_m": 1.95, "weight_kg": null, "club": "FC Augsburg", "club_country": "GER", "fc26": 76},
+    {"sticker": 26, "position": "FW", "name": "Sasa Kalajdžić", "dob": "1997-07-07", "height_m": 2.01, "weight_kg": null, "club": "LASK", "club_country": "AUT", "fc26": 73}
+  ]
+}

@@ -1486,5 +1486,101 @@
   "Bodø/Glimt": [
     "#FFD100",
     "#000000"
+  ],
+  "Granada CF": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "USM Alger": [
+    "#DA291C",
+    "#000000"
+  ],
+  "MC Alger": [
+    "#DA291C",
+    "#00843D"
+  ],
+  "JS Kabylie": [
+    "#FFD100",
+    "#00843D"
+  ],
+  "SSC Bari": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "ES Tunis": [
+    "#DA291C",
+    "#000000"
+  ],
+  "FC Twente": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Győri ETO FC": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Frosinone Calcio": [
+    "#FFD100",
+    "#0055A5"
+  ],
+  "Elche CF": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "SV Werder Bremen": [
+    "#1D9053",
+    "#FFFFFF"
+  ],
+  "Wolfsberger AC": [
+    "#6B2C91",
+    "#FFFFFF"
+  ],
+  "LASK": [
+    "#000000",
+    "#FFD100"
+  ],
+  "Al-Hussein SC": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Al-Wehdat SC": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Al-Faisaly SC": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Al-Quwa Al-Jawiya": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Selangor FC": [
+    "#DA291C",
+    "#FFD100"
+  ],
+  "FC Seoul": [
+    "#DA291C",
+    "#000000"
+  ],
+  "Qatar SC": [
+    "#8A1538",
+    "#FFFFFF"
+  ],
+  "Al-Shabab FC": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "Al-Sailiya SC": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Lokomotiva Zagreb": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Raja Casablanca": [
+    "#00843D",
+    "#FFFFFF"
   ]
 }

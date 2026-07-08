@@ -1,0 +1,32 @@
+{
+  "code": "JOR",
+  "coach": "Jamal Sellami",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Yazeed Abulaila", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Hussein SC", "club_country": "JOR", "fc26": null},
+    {"sticker": 2, "position": "GK", "name": "Abdullah Al-Fakhouri", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Wehdat SC", "club_country": "JOR", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Noor Bani Attiah", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Faisaly SC", "club_country": "JOR", "fc26": null},
+    {"sticker": 4, "position": "DF", "name": "Husam Abu Dahab", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Wehdat SC", "club_country": "JOR", "fc26": null},
+    {"sticker": 5, "position": "DF", "name": "Mohammad Abu Hasheesh", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Karma SC", "club_country": "JOR", "fc26": null},
+    {"sticker": 6, "position": "DF", "name": "Mohannad Abu Taha", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Quwa Al-Jawiya", "club_country": "IRQ", "fc26": null},
+    {"sticker": 7, "position": "DF", "name": "Mohammad Abualnadi", "dob": null, "height_m": null, "weight_kg": null, "club": "Selangor FC", "club_country": "MAS", "fc26": null},
+    {"sticker": 8, "position": "DF", "name": "Yazan Al-Arab", "dob": null, "height_m": null, "weight_kg": null, "club": "FC Seoul", "club_country": "KOR", "fc26": null},
+    {"sticker": 9, "position": "DF", "name": "Saed Al-Rosan", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Faisaly SC", "club_country": "JOR", "fc26": null},
+    {"sticker": 10, "position": "DF", "name": "Anas Banawi", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Faisaly SC", "club_country": "JOR", "fc26": null},
+    {"sticker": 11, "position": "DF", "name": "Ehsan Haddad", "dob": "1994-01-01", "height_m": null, "weight_kg": null, "club": "Al-Hussein SC", "club_country": "JOR", "fc26": 71},
+    {"sticker": 12, "position": "DF", "name": "Abdallah Nasib", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Zawraa SC", "club_country": "IRQ", "fc26": null},
+    {"sticker": 13, "position": "DF", "name": "Saleem Obaid", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Hussein SC", "club_country": "JOR", "fc26": null},
+    {"sticker": 14, "position": "MF", "name": "Mohammad Al-Dawoud", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Wehdat SC", "club_country": "JOR", "fc26": null},
+    {"sticker": 15, "position": "MF", "name": "Mahmoud Al-Mardi", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Hussein SC", "club_country": "JOR", "fc26": null},
+    {"sticker": 16, "position": "MF", "name": "Noor Al-Rawabdeh", "dob": null, "height_m": null, "weight_kg": null, "club": "Selangor FC", "club_country": "MAS", "fc26": null},
+    {"sticker": 17, "position": "MF", "name": "Nizar Al-Rashdan", "dob": null, "height_m": null, "weight_kg": null, "club": "Qatar SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 18, "position": "MF", "name": "Rajaei Ayed", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Faisaly SC", "club_country": "JOR", "fc26": null},
+    {"sticker": 19, "position": "MF", "name": "Amer Jamous", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Zawraa SC", "club_country": "IRQ", "fc26": null},
+    {"sticker": 20, "position": "MF", "name": "Ibrahim Saadeh", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Karma SC", "club_country": "JOR", "fc26": null},
+    {"sticker": 21, "position": "FW", "name": "Odeh Al-Fakhouri", "dob": null, "height_m": null, "weight_kg": null, "club": "Pyramids FC", "club_country": "EGY", "fc26": null},
+    {"sticker": 22, "position": "FW", "name": "Mousa Al-Tamari", "dob": "1996-08-26", "height_m": 1.78, "weight_kg": null, "club": "Stade Rennais", "club_country": "FRA", "fc26": 77},
+    {"sticker": 23, "position": "FW", "name": "Ali Azaizeh", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Shabab FC", "club_country": "KSA", "fc26": null},
+    {"sticker": 24, "position": "FW", "name": "Ali Olwan", "dob": "1994-01-01", "height_m": null, "weight_kg": null, "club": "Al-Sailiya SC", "club_country": "QAT", "fc26": 71},
+    {"sticker": 25, "position": "FW", "name": "Ibrahim Sabra", "dob": null, "height_m": null, "weight_kg": null, "club": "Lokomotiva Zagreb", "club_country": "CRO", "fc26": null},
+    {"sticker": 26, "position": "FW", "name": "Mohammad Abu Zrayq", "dob": null, "height_m": null, "weight_kg": null, "club": "Raja Casablanca", "club_country": "MAR", "fc26": null}
+  ]
+}

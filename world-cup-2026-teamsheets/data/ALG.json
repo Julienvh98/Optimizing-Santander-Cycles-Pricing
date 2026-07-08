@@ -1,0 +1,32 @@
+{
+  "code": "ALG",
+  "coach": "Vladimir Petković",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Oussama Benbot", "dob": null, "height_m": null, "weight_kg": null, "club": "USM Alger", "club_country": "ALG", "fc26": null},
+    {"sticker": 2, "position": "GK", "name": "Abdellatif Ramdane", "dob": null, "height_m": null, "weight_kg": null, "club": "MC Alger", "club_country": "ALG", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Luca Zidane", "dob": "1998-05-13", "height_m": 1.86, "weight_kg": null, "club": "Granada CF", "club_country": "ESP", "fc26": 71},
+    {"sticker": 4, "position": "DF", "name": "Achraf Abada", "dob": null, "height_m": null, "weight_kg": null, "club": "USM Alger", "club_country": "ALG", "fc26": null},
+    {"sticker": 5, "position": "DF", "name": "Rayan Aït-Nouri", "dob": "2001-06-06", "height_m": 1.78, "weight_kg": null, "club": "Manchester City", "club_country": "ENG", "fc26": 81},
+    {"sticker": 6, "position": "DF", "name": "Zinédine Belaïd", "dob": null, "height_m": null, "weight_kg": null, "club": "JS Kabylie", "club_country": "ALG", "fc26": null},
+    {"sticker": 7, "position": "DF", "name": "Rafik Belghali", "dob": null, "height_m": null, "weight_kg": null, "club": "Hellas Verona", "club_country": "ITA", "fc26": null},
+    {"sticker": 8, "position": "DF", "name": "Ramy Bensebaïni", "dob": "1995-04-16", "height_m": 1.87, "weight_kg": null, "club": "Borussia Dortmund", "club_country": "GER", "fc26": 80},
+    {"sticker": 9, "position": "DF", "name": "Mehdi Dorval", "dob": null, "height_m": null, "weight_kg": null, "club": "SSC Bari", "club_country": "ITA", "fc26": null},
+    {"sticker": 10, "position": "DF", "name": "Jaouen Hadjam", "dob": "2003-01-24", "height_m": null, "weight_kg": null, "club": "BSC Young Boys", "club_country": "SUI", "fc26": 74},
+    {"sticker": 11, "position": "DF", "name": "Aïssa Mandi", "dob": "1991-10-22", "height_m": 1.85, "weight_kg": null, "club": "LOSC Lille", "club_country": "FRA", "fc26": 76},
+    {"sticker": 12, "position": "DF", "name": "Mohamed Amine Tougaï", "dob": null, "height_m": null, "weight_kg": null, "club": "ES Tunis", "club_country": "TUN", "fc26": null},
+    {"sticker": 13, "position": "MF", "name": "Houssem Aouar", "dob": "1998-06-30", "height_m": 1.75, "weight_kg": null, "club": "Al-Ittihad Club", "club_country": "KSA", "fc26": 79},
+    {"sticker": 14, "position": "MF", "name": "Nabil Bentaleb", "dob": "1994-11-24", "height_m": 1.85, "weight_kg": null, "club": "LOSC Lille", "club_country": "FRA", "fc26": 74},
+    {"sticker": 15, "position": "MF", "name": "Hicham Boudaoui", "dob": "2000-11-23", "height_m": 1.75, "weight_kg": null, "club": "OGC Nice", "club_country": "FRA", "fc26": 75},
+    {"sticker": 16, "position": "MF", "name": "Fares Chaibi", "dob": "2001-06-11", "height_m": null, "weight_kg": null, "club": "Eintracht Frankfurt", "club_country": "GER", "fc26": 76},
+    {"sticker": 17, "position": "MF", "name": "Ibrahim Maza", "dob": "2006-06-19", "height_m": null, "weight_kg": null, "club": "Bayer Leverkusen", "club_country": "GER", "fc26": 76},
+    {"sticker": 18, "position": "MF", "name": "Yassine Titraoui", "dob": null, "height_m": null, "weight_kg": null, "club": "Royal Charleroi SC", "club_country": "BEL", "fc26": null},
+    {"sticker": 19, "position": "MF", "name": "Ramiz Zerrouki", "dob": "1998-03-17", "height_m": 1.83, "weight_kg": null, "club": "FC Twente", "club_country": "NED", "fc26": 76},
+    {"sticker": 20, "position": "FW", "name": "Mohamed Amine Amoura", "dob": "2003-04-19", "height_m": 1.74, "weight_kg": null, "club": "VfL Wolfsburg", "club_country": "GER", "fc26": 80},
+    {"sticker": 21, "position": "FW", "name": "Nadir Benbouali", "dob": null, "height_m": null, "weight_kg": null, "club": "Győri ETO FC", "club_country": "HUN", "fc26": null},
+    {"sticker": 22, "position": "FW", "name": "Adil Boulbina", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Duhail SC", "club_country": "QAT", "fc26": null},
+    {"sticker": 23, "position": "FW", "name": "Fares Ghedjemis", "dob": null, "height_m": null, "weight_kg": null, "club": "Frosinone Calcio", "club_country": "ITA", "fc26": null},
+    {"sticker": 24, "position": "FW", "name": "Amine Gouiri", "dob": "2000-02-16", "height_m": 1.80, "weight_kg": null, "club": "Olympique de Marseille", "club_country": "FRA", "fc26": 79},
+    {"sticker": 25, "position": "FW", "name": "Anis Hadj Moussa", "dob": "2001-01-13", "height_m": null, "weight_kg": null, "club": "Feyenoord", "club_country": "NED", "fc26": 75},
+    {"sticker": 26, "position": "FW", "name": "Riyad Mahrez", "dob": "1991-02-21", "height_m": 1.79, "weight_kg": 67, "club": "Al-Ahli SFC", "club_country": "KSA", "fc26": 82}
+  ]
+}
