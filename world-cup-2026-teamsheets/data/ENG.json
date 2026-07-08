@@ -1,0 +1,32 @@
+{
+  "code": "ENG",
+  "coach": "Thomas Tuchel",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Dean Henderson", "dob": "1997-03-12", "height_m": 1.88, "weight_kg": null, "club": "Crystal Palace", "club_country": "ENG", "fc26": 79},
+    {"sticker": 2, "position": "GK", "name": "Jordan Pickford", "dob": "1994-03-07", "height_m": 1.85, "weight_kg": null, "club": "Everton FC", "club_country": "ENG", "fc26": 84},
+    {"sticker": 3, "position": "GK", "name": "James Trafford", "dob": "2002-10-10", "height_m": 1.91, "weight_kg": null, "club": "Manchester City", "club_country": "ENG", "fc26": 77},
+    {"sticker": 4, "position": "DF", "name": "Dan Burn", "dob": "1992-05-09", "height_m": 2.01, "weight_kg": null, "club": "Newcastle United", "club_country": "ENG", "fc26": 76},
+    {"sticker": 5, "position": "DF", "name": "Trevoh Chalobah", "dob": "1999-07-05", "height_m": 1.88, "weight_kg": null, "club": "Chelsea FC", "club_country": "ENG", "fc26": 78},
+    {"sticker": 6, "position": "DF", "name": "Marc Guéhi", "dob": "2000-07-13", "height_m": 1.87, "weight_kg": null, "club": "Manchester City", "club_country": "ENG", "fc26": 82},
+    {"sticker": 7, "position": "DF", "name": "Reece James", "dob": "1999-12-08", "height_m": 1.82, "weight_kg": null, "club": "Chelsea FC", "club_country": "ENG", "fc26": 81},
+    {"sticker": 8, "position": "DF", "name": "Ezri Konsa", "dob": "1997-10-23", "height_m": 1.83, "weight_kg": null, "club": "Aston Villa", "club_country": "ENG", "fc26": 78},
+    {"sticker": 9, "position": "DF", "name": "Nico O'Reilly", "dob": "2005-11-21", "height_m": null, "weight_kg": null, "club": "Manchester City", "club_country": "ENG", "fc26": 75},
+    {"sticker": 10, "position": "DF", "name": "Jarell Quansah", "dob": "2004-01-29", "height_m": 1.89, "weight_kg": null, "club": "Bayer Leverkusen", "club_country": "GER", "fc26": 78},
+    {"sticker": 11, "position": "DF", "name": "Djed Spence", "dob": "2000-08-09", "height_m": null, "weight_kg": null, "club": "Tottenham Hotspur", "club_country": "ENG", "fc26": 75},
+    {"sticker": 12, "position": "DF", "name": "John Stones", "dob": "1994-05-28", "height_m": 1.88, "weight_kg": null, "club": "Manchester City", "club_country": "ENG", "fc26": 82},
+    {"sticker": 13, "position": "MF", "name": "Elliot Anderson", "dob": "2002-09-08", "height_m": null, "weight_kg": null, "club": "Nottingham Forest", "club_country": "ENG", "fc26": 76},
+    {"sticker": 14, "position": "MF", "name": "Jude Bellingham", "dob": "2003-06-29", "height_m": 1.86, "weight_kg": 75, "club": "Real Madrid", "club_country": "ESP", "fc26": 90},
+    {"sticker": 15, "position": "MF", "name": "Eberechi Eze", "dob": "2000-06-29", "height_m": 1.78, "weight_kg": null, "club": "Arsenal FC", "club_country": "ENG", "fc26": 83},
+    {"sticker": 16, "position": "MF", "name": "Jordan Henderson", "dob": "1990-06-17", "height_m": 1.82, "weight_kg": null, "club": "Brentford FC", "club_country": "ENG", "fc26": 74},
+    {"sticker": 17, "position": "MF", "name": "Kobbie Mainoo", "dob": "2005-04-19", "height_m": 1.80, "weight_kg": null, "club": "Manchester United", "club_country": "ENG", "fc26": 79},
+    {"sticker": 18, "position": "MF", "name": "Declan Rice", "dob": "1999-01-14", "height_m": 1.85, "weight_kg": 78, "club": "Arsenal FC", "club_country": "ENG", "fc26": 87},
+    {"sticker": 19, "position": "MF", "name": "Morgan Rogers", "dob": "2002-07-26", "height_m": 1.88, "weight_kg": null, "club": "Aston Villa", "club_country": "ENG", "fc26": 78},
+    {"sticker": 20, "position": "FW", "name": "Anthony Gordon", "dob": "2001-02-24", "height_m": 1.78, "weight_kg": null, "club": "FC Barcelona", "club_country": "ESP", "fc26": 80},
+    {"sticker": 21, "position": "FW", "name": "Harry Kane", "dob": "1993-07-28", "height_m": 1.88, "weight_kg": 89, "club": "Bayern Munich", "club_country": "GER", "fc26": 89},
+    {"sticker": 22, "position": "FW", "name": "Noni Madueke", "dob": "2002-03-10", "height_m": 1.75, "weight_kg": null, "club": "Arsenal FC", "club_country": "ENG", "fc26": 80},
+    {"sticker": 23, "position": "FW", "name": "Marcus Rashford", "dob": "1997-10-31", "height_m": 1.85, "weight_kg": null, "club": "FC Barcelona", "club_country": "ESP", "fc26": 81},
+    {"sticker": 24, "position": "FW", "name": "Bukayo Saka", "dob": "2001-09-05", "height_m": 1.78, "weight_kg": 65, "club": "Arsenal FC", "club_country": "ENG", "fc26": 87},
+    {"sticker": 25, "position": "FW", "name": "Ivan Toney", "dob": "1996-03-16", "height_m": 1.82, "weight_kg": null, "club": "Al-Ahli SFC", "club_country": "KSA", "fc26": 79},
+    {"sticker": 26, "position": "FW", "name": "Ollie Watkins", "dob": "1995-12-30", "height_m": 1.80, "weight_kg": null, "club": "Aston Villa", "club_country": "ENG", "fc26": 81}
+  ]
+}

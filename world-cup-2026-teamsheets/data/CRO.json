@@ -1,0 +1,32 @@
+{
+  "code": "CRO",
+  "coach": "Zlatko Dalić",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Dominik Kotarski", "dob": "2000-01-01", "height_m": 1.93, "weight_kg": null, "club": "FC Copenhagen", "club_country": "DEN", "fc26": 75},
+    {"sticker": 2, "position": "GK", "name": "Dominik Livaković", "dob": "1995-01-09", "height_m": 1.85, "weight_kg": null, "club": "Dinamo Zagreb", "club_country": "CRO", "fc26": 80},
+    {"sticker": 3, "position": "GK", "name": "Ivor Pandur", "dob": "2000-08-25", "height_m": null, "weight_kg": null, "club": "Hull City", "club_country": "ENG", "fc26": 71},
+    {"sticker": 4, "position": "DF", "name": "Duje Ćaleta-Car", "dob": "1996-09-17", "height_m": 1.92, "weight_kg": null, "club": "Real Sociedad", "club_country": "ESP", "fc26": 75},
+    {"sticker": 5, "position": "DF", "name": "Martin Erlić", "dob": "1998-01-24", "height_m": 1.91, "weight_kg": null, "club": "FC Midtjylland", "club_country": "DEN", "fc26": 73},
+    {"sticker": 6, "position": "DF", "name": "Josko Gvardiol", "dob": "2002-01-23", "height_m": 1.85, "weight_kg": 79, "club": "Manchester City", "club_country": "ENG", "fc26": 86},
+    {"sticker": 7, "position": "DF", "name": "Marin Pongračić", "dob": "1998-10-24", "height_m": 1.92, "weight_kg": null, "club": "ACF Fiorentina", "club_country": "ITA", "fc26": 76},
+    {"sticker": 8, "position": "DF", "name": "Josip Stanišić", "dob": "2000-04-02", "height_m": 1.85, "weight_kg": null, "club": "Bayern Munich", "club_country": "GER", "fc26": 78},
+    {"sticker": 9, "position": "DF", "name": "Josip Šutalo", "dob": "2000-02-28", "height_m": 1.90, "weight_kg": null, "club": "AFC Ajax", "club_country": "NED", "fc26": 77},
+    {"sticker": 10, "position": "DF", "name": "Luka Vušković", "dob": "2006-08-13", "height_m": 1.94, "weight_kg": null, "club": "Hamburger SV", "club_country": "GER", "fc26": 73},
+    {"sticker": 11, "position": "MF", "name": "Martin Baturina", "dob": "2003-08-16", "height_m": 1.85, "weight_kg": null, "club": "Como 1907", "club_country": "ITA", "fc26": 78},
+    {"sticker": 12, "position": "MF", "name": "Toni Fruk", "dob": null, "height_m": null, "weight_kg": null, "club": "HNK Rijeka", "club_country": "CRO", "fc26": null},
+    {"sticker": 13, "position": "MF", "name": "Kristijan Jakić", "dob": "1997-08-14", "height_m": null, "weight_kg": null, "club": "FC Augsburg", "club_country": "GER", "fc26": 75},
+    {"sticker": 14, "position": "MF", "name": "Mateo Kovačić", "dob": "1994-05-06", "height_m": 1.76, "weight_kg": 78, "club": "Manchester City", "club_country": "ENG", "fc26": 84},
+    {"sticker": 15, "position": "MF", "name": "Luka Modrić", "dob": "1985-09-09", "height_m": 1.72, "weight_kg": 66, "club": "AC Milan", "club_country": "ITA", "fc26": 85},
+    {"sticker": 16, "position": "MF", "name": "Nikola Moro", "dob": "1998-01-19", "height_m": null, "weight_kg": null, "club": "Bologna FC", "club_country": "ITA", "fc26": 74},
+    {"sticker": 17, "position": "MF", "name": "Mario Pašalić", "dob": "1995-02-09", "height_m": 1.86, "weight_kg": null, "club": "Atalanta BC", "club_country": "ITA", "fc26": 79},
+    {"sticker": 18, "position": "MF", "name": "Luka Sučić", "dob": "2003-06-30", "height_m": null, "weight_kg": null, "club": "Real Sociedad", "club_country": "ESP", "fc26": 78},
+    {"sticker": 19, "position": "MF", "name": "Petar Sučić", "dob": "2003-06-30", "height_m": null, "weight_kg": null, "club": "Inter Milan", "club_country": "ITA", "fc26": 78},
+    {"sticker": 20, "position": "MF", "name": "Nikola Vlašić", "dob": "1997-10-04", "height_m": 1.80, "weight_kg": null, "club": "Torino FC", "club_country": "ITA", "fc26": 76},
+    {"sticker": 21, "position": "FW", "name": "Ante Budimir", "dob": "1991-07-22", "height_m": 1.91, "weight_kg": null, "club": "CA Osasuna", "club_country": "ESP", "fc26": 76},
+    {"sticker": 22, "position": "FW", "name": "Andrej Kramarić", "dob": "1991-06-19", "height_m": 1.78, "weight_kg": null, "club": "TSG Hoffenheim", "club_country": "GER", "fc26": 78},
+    {"sticker": 23, "position": "FW", "name": "Igor Matanović", "dob": "2003-11-01", "height_m": 1.94, "weight_kg": null, "club": "SC Freiburg", "club_country": "GER", "fc26": 73},
+    {"sticker": 24, "position": "FW", "name": "Petar Musa", "dob": "1998-10-01", "height_m": 1.92, "weight_kg": null, "club": "FC Dallas", "club_country": "USA", "fc26": 74},
+    {"sticker": 25, "position": "FW", "name": "Marco Pašalić", "dob": null, "height_m": null, "weight_kg": null, "club": "Orlando City SC", "club_country": "USA", "fc26": null},
+    {"sticker": 26, "position": "FW", "name": "Ivan Perišić", "dob": "1989-02-02", "height_m": 1.86, "weight_kg": null, "club": "PSV Eindhoven", "club_country": "NED", "fc26": 77}
+  ]
+}

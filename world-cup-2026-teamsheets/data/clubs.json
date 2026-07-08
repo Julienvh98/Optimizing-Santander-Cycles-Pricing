@@ -1093,7 +1093,7 @@
   ],
   "FC Copenhagen": [
     "#FFFFFF",
-    "#0F1E46"
+    "#00205B"
   ],
   "Sint-Truidense VV": [
     "#FFD100",
@@ -1689,6 +1689,82 @@
   ],
   "Werder Bremen": [
     "#1D9053",
+    "#FFFFFF"
+  ],
+  "St. Patrick's Athletic": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Accra Hearts of Oak": [
+    "#DA291C",
+    "#FFD100"
+  ],
+  "FC St. Gallen": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "PAOK FC": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "ŠK Slovan Bratislava": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "CD Plaza Amador": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Alianza FC": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Deportivo Saprissa": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Tauro FC": [
+    "#DA291C",
+    "#000000"
+  ],
+  "Sporting San Miguelito": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Independiente Medellín": [
+    "#DA291C",
+    "#000000"
+  ],
+  "Cavalry FC": [
+    "#000000",
+    "#FFD100"
+  ],
+  "San Jose Earthquakes": [
+    "#000000",
+    "#0055A5"
+  ],
+  "Ironi Kiryat Shmona": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "FC Juárez": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "CD Cobresal": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Club León": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Universidad de Concepción": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "ACF Fiorentina": [
+    "#5B2A86",
     "#FFFFFF"
   ]
 }

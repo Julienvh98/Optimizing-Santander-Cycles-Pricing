@@ -1,0 +1,32 @@
+{
+  "code": "GHA",
+  "coach": "Carlos Queiroz",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Joseph Anang", "dob": "1999-10-19", "height_m": null, "weight_kg": null, "club": "St. Patrick's Athletic", "club_country": "IRL", "fc26": 70},
+    {"sticker": 2, "position": "GK", "name": "Benjamin Asare", "dob": null, "height_m": null, "weight_kg": null, "club": "Accra Hearts of Oak", "club_country": "GHA", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Lawrence Ati-Zigi", "dob": "1995-01-29", "height_m": null, "weight_kg": null, "club": "FC St. Gallen", "club_country": "SUI", "fc26": 73},
+    {"sticker": 4, "position": "DF", "name": "Baba Abdul Rahman", "dob": "1994-07-02", "height_m": null, "weight_kg": null, "club": "PAOK FC", "club_country": "GRE", "fc26": 73},
+    {"sticker": 5, "position": "DF", "name": "Jonas Adjetey", "dob": null, "height_m": null, "weight_kg": null, "club": "VfL Wolfsburg", "club_country": "GER", "fc26": null},
+    {"sticker": 6, "position": "DF", "name": "Derrick Luckassen", "dob": "1996-01-30", "height_m": null, "weight_kg": null, "club": "Pafos FC", "club_country": "CYP", "fc26": 72},
+    {"sticker": 7, "position": "DF", "name": "Gideon Mensah", "dob": "1998-05-18", "height_m": null, "weight_kg": null, "club": "AJ Auxerre", "club_country": "FRA", "fc26": 73},
+    {"sticker": 8, "position": "DF", "name": "Abdul Mumin", "dob": "1998-01-29", "height_m": 1.88, "weight_kg": null, "club": "Rayo Vallecano", "club_country": "ESP", "fc26": 75},
+    {"sticker": 9, "position": "DF", "name": "Jerome Opoku", "dob": "1997-01-11", "height_m": null, "weight_kg": null, "club": "İstanbul Başakşehir", "club_country": "TUR", "fc26": 72},
+    {"sticker": 10, "position": "DF", "name": "Kojo Oppong Peprah", "dob": null, "height_m": null, "weight_kg": null, "club": "OGC Nice", "club_country": "FRA", "fc26": null},
+    {"sticker": 11, "position": "DF", "name": "Marvin Senaya", "dob": null, "height_m": null, "weight_kg": null, "club": "AJ Auxerre", "club_country": "FRA", "fc26": null},
+    {"sticker": 12, "position": "DF", "name": "Alidu Seidu", "dob": "2000-03-04", "height_m": null, "weight_kg": null, "club": "Stade Rennais", "club_country": "FRA", "fc26": 73},
+    {"sticker": 13, "position": "MF", "name": "Augustine Boakye", "dob": "2001-10-05", "height_m": null, "weight_kg": null, "club": "AS Saint-Étienne", "club_country": "FRA", "fc26": 71},
+    {"sticker": 14, "position": "MF", "name": "Abdul Fatawu Issahaku", "dob": "2002-11-16", "height_m": null, "weight_kg": null, "club": "Leicester City", "club_country": "ENG", "fc26": 76},
+    {"sticker": 15, "position": "MF", "name": "Elisha Owusu", "dob": "1998-11-09", "height_m": null, "weight_kg": null, "club": "AJ Auxerre", "club_country": "FRA", "fc26": 72},
+    {"sticker": 16, "position": "MF", "name": "Thomas Partey", "dob": "1993-06-13", "height_m": 1.85, "weight_kg": 74, "club": "Villarreal CF", "club_country": "ESP", "fc26": 80},
+    {"sticker": 17, "position": "MF", "name": "Kwasi Sibo", "dob": null, "height_m": null, "weight_kg": null, "club": "Real Oviedo", "club_country": "ESP", "fc26": null},
+    {"sticker": 18, "position": "MF", "name": "Kamaldeen Sulemana", "dob": "2002-01-08", "height_m": 1.72, "weight_kg": null, "club": "Atalanta BC", "club_country": "ITA", "fc26": 77},
+    {"sticker": 19, "position": "MF", "name": "Caleb Yirenkyi", "dob": null, "height_m": null, "weight_kg": null, "club": "FC Nordsjælland", "club_country": "DEN", "fc26": null},
+    {"sticker": 20, "position": "FW", "name": "Prince Kwabena Adu", "dob": null, "height_m": null, "weight_kg": null, "club": "Viktoria Plzeň", "club_country": "CZE", "fc26": null},
+    {"sticker": 21, "position": "FW", "name": "Jordan Ayew", "dob": "1991-09-11", "height_m": 1.78, "weight_kg": null, "club": "Leicester City", "club_country": "ENG", "fc26": 74},
+    {"sticker": 22, "position": "FW", "name": "Christopher Bonsu Baah", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Qadsiah FC", "club_country": "KSA", "fc26": null},
+    {"sticker": 23, "position": "FW", "name": "Ernest Nuamah", "dob": "2004-01-01", "height_m": 1.78, "weight_kg": null, "club": "Olympique Lyonnais", "club_country": "FRA", "fc26": 77},
+    {"sticker": 24, "position": "FW", "name": "Antoine Semenyo", "dob": "2000-01-07", "height_m": 1.87, "weight_kg": null, "club": "Manchester City", "club_country": "ENG", "fc26": 80},
+    {"sticker": 25, "position": "FW", "name": "Brandon Thomas-Asante", "dob": "1998-11-27", "height_m": null, "weight_kg": null, "club": "Coventry City", "club_country": "ENG", "fc26": 71},
+    {"sticker": 26, "position": "FW", "name": "Iñaki Williams", "dob": "1994-06-15", "height_m": 1.80, "weight_kg": 79, "club": "Athletic Club", "club_country": "ESP", "fc26": 79}
+  ]
+}

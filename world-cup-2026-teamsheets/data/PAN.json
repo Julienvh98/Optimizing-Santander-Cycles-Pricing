@@ -1,0 +1,32 @@
+{
+  "code": "PAN",
+  "coach": "Thomas Christiansen",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "César Blackman", "dob": "1998-03-08", "height_m": null, "weight_kg": null, "club": "ŠK Slovan Bratislava", "club_country": "SVK", "fc26": 70},
+    {"sticker": 2, "position": "GK", "name": "Jorge Gutiérrez", "dob": null, "height_m": null, "weight_kg": null, "club": "CD Plaza Amador", "club_country": "PAN", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Luis Mejía", "dob": "1990-05-28", "height_m": null, "weight_kg": null, "club": "Alianza FC", "club_country": "SLV", "fc26": 70},
+    {"sticker": 4, "position": "DF", "name": "Andrés Andrade", "dob": "1995-05-05", "height_m": null, "weight_kg": null, "club": "Deportivo Saprissa", "club_country": "CRC", "fc26": 71},
+    {"sticker": 5, "position": "DF", "name": "José Córdoba", "dob": "1998-03-19", "height_m": null, "weight_kg": null, "club": "Norwich City", "club_country": "ENG", "fc26": 72},
+    {"sticker": 6, "position": "DF", "name": "Eric Davis", "dob": "1990-10-08", "height_m": null, "weight_kg": null, "club": "CD Plaza Amador", "club_country": "PAN", "fc26": 71},
+    {"sticker": 7, "position": "DF", "name": "Fidel Escobar", "dob": "1996-01-15", "height_m": 1.85, "weight_kg": null, "club": "Colorado Rapids", "club_country": "USA", "fc26": 72},
+    {"sticker": 8, "position": "DF", "name": "Edgardo Fariña", "dob": null, "height_m": null, "weight_kg": null, "club": "CD Plaza Amador", "club_country": "PAN", "fc26": null},
+    {"sticker": 9, "position": "DF", "name": "Edgar Góndola", "dob": null, "height_m": null, "weight_kg": null, "club": "Tauro FC", "club_country": "PAN", "fc26": null},
+    {"sticker": 10, "position": "DF", "name": "Roderick Miller", "dob": "1999-01-04", "height_m": null, "weight_kg": null, "club": "Sporting San Miguelito", "club_country": "PAN", "fc26": 70},
+    {"sticker": 11, "position": "DF", "name": "Michael Amir Murillo", "dob": "1996-10-30", "height_m": 1.80, "weight_kg": null, "club": "Beşiktaş JK", "club_country": "TUR", "fc26": 75},
+    {"sticker": 12, "position": "DF", "name": "Jiovany Ramos", "dob": null, "height_m": null, "weight_kg": null, "club": "Independiente Medellín", "club_country": "COL", "fc26": null},
+    {"sticker": 13, "position": "MF", "name": "Iván Anderson", "dob": null, "height_m": null, "weight_kg": null, "club": "CD Plaza Amador", "club_country": "PAN", "fc26": null},
+    {"sticker": 14, "position": "MF", "name": "Yoel Bárcenas", "dob": "1993-01-16", "height_m": null, "weight_kg": null, "club": "Cavalry FC", "club_country": "CAN", "fc26": 71},
+    {"sticker": 15, "position": "MF", "name": "Adalberto Carrasquilla", "dob": "1999-06-11", "height_m": null, "weight_kg": null, "club": "Alianza FC", "club_country": "SLV", "fc26": 73},
+    {"sticker": 16, "position": "MF", "name": "Aníbal Godoy", "dob": "1990-01-12", "height_m": 1.78, "weight_kg": null, "club": "San Jose Earthquakes", "club_country": "USA", "fc26": 72},
+    {"sticker": 17, "position": "MF", "name": "Carlos Harvey", "dob": "1999-01-08", "height_m": null, "weight_kg": null, "club": "Deportivo Saprissa", "club_country": "CRC", "fc26": 71},
+    {"sticker": 18, "position": "MF", "name": "Azarías Londoño", "dob": null, "height_m": null, "weight_kg": null, "club": "Tauro FC", "club_country": "PAN", "fc26": null},
+    {"sticker": 19, "position": "MF", "name": "Cristian Martínez", "dob": "1997-02-14", "height_m": null, "weight_kg": null, "club": "Ironi Kiryat Shmona", "club_country": "ISR", "fc26": 71},
+    {"sticker": 20, "position": "MF", "name": "Alberto Quintero", "dob": "1988-01-03", "height_m": null, "weight_kg": null, "club": "CD Plaza Amador", "club_country": "PAN", "fc26": 71},
+    {"sticker": 21, "position": "MF", "name": "José Luis Rodríguez", "dob": "1999-11-06", "height_m": null, "weight_kg": null, "club": "FC Juárez", "club_country": "MEX", "fc26": 71},
+    {"sticker": 22, "position": "MF", "name": "César Yanis", "dob": null, "height_m": null, "weight_kg": null, "club": "CD Cobresal", "club_country": "CHI", "fc26": null},
+    {"sticker": 23, "position": "FW", "name": "Ismael Díaz", "dob": "1996-05-01", "height_m": null, "weight_kg": null, "club": "Club León", "club_country": "MEX", "fc26": 73},
+    {"sticker": 24, "position": "FW", "name": "José Fajardo", "dob": "1994-04-14", "height_m": null, "weight_kg": null, "club": "Universidad de Concepción", "club_country": "CHI", "fc26": 71},
+    {"sticker": 25, "position": "FW", "name": "Tomás Rodríguez", "dob": null, "height_m": null, "weight_kg": null, "club": "Deportivo Saprissa", "club_country": "CRC", "fc26": null},
+    {"sticker": 26, "position": "FW", "name": "Cecilio Waterman", "dob": "1996-10-03", "height_m": null, "weight_kg": null, "club": "Universidad de Concepción", "club_country": "CHI", "fc26": 72}
+  ]
+}
