@@ -1,0 +1,32 @@
+{
+  "code": "POR",
+  "coach": "Roberto Martínez",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Diogo Costa", "dob": "1999-09-19", "height_m": 1.86, "weight_kg": null, "club": "FC Porto", "club_country": "POR", "fc26": 84},
+    {"sticker": 2, "position": "GK", "name": "José Sá", "dob": "1993-01-17", "height_m": 1.90, "weight_kg": null, "club": "Wolverhampton Wanderers", "club_country": "ENG", "fc26": 79},
+    {"sticker": 3, "position": "GK", "name": "Rui Silva", "dob": "1994-02-07", "height_m": 1.90, "weight_kg": null, "club": "Sporting CP", "club_country": "POR", "fc26": 78},
+    {"sticker": 4, "position": "DF", "name": "Tomás Araújo", "dob": "2003-05-09", "height_m": 1.88, "weight_kg": null, "club": "SL Benfica", "club_country": "POR", "fc26": 75},
+    {"sticker": 5, "position": "DF", "name": "João Cancelo", "dob": "1994-05-27", "height_m": 1.82, "weight_kg": 74, "club": "FC Barcelona", "club_country": "ESP", "fc26": 84},
+    {"sticker": 6, "position": "DF", "name": "Diogo Dalot", "dob": "1999-03-18", "height_m": 1.83, "weight_kg": null, "club": "Manchester United", "club_country": "ENG", "fc26": 81},
+    {"sticker": 7, "position": "DF", "name": "Rúben Dias", "dob": "1997-05-14", "height_m": 1.87, "weight_kg": 82, "club": "Manchester City", "club_country": "ENG", "fc26": 88},
+    {"sticker": 8, "position": "DF", "name": "Gonçalo Inácio", "dob": "2001-06-25", "height_m": 1.90, "weight_kg": null, "club": "Sporting CP", "club_country": "POR", "fc26": 80},
+    {"sticker": 9, "position": "DF", "name": "Nuno Mendes", "dob": "2002-06-19", "height_m": 1.76, "weight_kg": null, "club": "Paris Saint-Germain", "club_country": "FRA", "fc26": 85},
+    {"sticker": 10, "position": "DF", "name": "Nélson Semedo", "dob": "1993-11-16", "height_m": 1.74, "weight_kg": null, "club": "Fenerbahçe SK", "club_country": "TUR", "fc26": 78},
+    {"sticker": 11, "position": "DF", "name": "Renato Veiga", "dob": "2004-09-08", "height_m": 1.87, "weight_kg": null, "club": "Villarreal CF", "club_country": "ESP", "fc26": 77},
+    {"sticker": 12, "position": "MF", "name": "Samuel Costa", "dob": "2001-11-01", "height_m": null, "weight_kg": null, "club": "RCD Mallorca", "club_country": "ESP", "fc26": 75},
+    {"sticker": 13, "position": "MF", "name": "Bruno Fernandes", "dob": "1994-09-08", "height_m": 1.79, "weight_kg": 69, "club": "Manchester United", "club_country": "ENG", "fc26": 86},
+    {"sticker": 14, "position": "MF", "name": "Matheus Nunes", "dob": "1998-08-27", "height_m": 1.83, "weight_kg": null, "club": "Manchester City", "club_country": "ENG", "fc26": 81},
+    {"sticker": 15, "position": "MF", "name": "João Neves", "dob": "2004-09-27", "height_m": 1.72, "weight_kg": null, "club": "Paris Saint-Germain", "club_country": "FRA", "fc26": 85},
+    {"sticker": 16, "position": "MF", "name": "Rúben Neves", "dob": "1997-03-13", "height_m": 1.80, "weight_kg": null, "club": "Al-Hilal SFC", "club_country": "KSA", "fc26": 82},
+    {"sticker": 17, "position": "MF", "name": "Bernardo Silva", "dob": "1994-08-10", "height_m": 1.73, "weight_kg": 64, "club": "Manchester City", "club_country": "ENG", "fc26": 87},
+    {"sticker": 18, "position": "MF", "name": "Vitinha", "dob": "2000-02-13", "height_m": 1.72, "weight_kg": null, "club": "Paris Saint-Germain", "club_country": "FRA", "fc26": 87},
+    {"sticker": 19, "position": "FW", "name": "Francisco Conceição", "dob": "2002-10-14", "height_m": 1.72, "weight_kg": null, "club": "Juventus FC", "club_country": "ITA", "fc26": 79},
+    {"sticker": 20, "position": "FW", "name": "João Félix", "dob": "1999-11-10", "height_m": 1.81, "weight_kg": null, "club": "Al-Nassr FC", "club_country": "KSA", "fc26": 82},
+    {"sticker": 21, "position": "FW", "name": "Gonçalo Guedes", "dob": "1996-11-29", "height_m": 1.80, "weight_kg": null, "club": "Real Sociedad", "club_country": "ESP", "fc26": 76},
+    {"sticker": 22, "position": "FW", "name": "Rafael Leão", "dob": "1999-06-10", "height_m": 1.88, "weight_kg": 81, "club": "AC Milan", "club_country": "ITA", "fc26": 86},
+    {"sticker": 23, "position": "FW", "name": "Pedro Neto", "dob": "2000-03-09", "height_m": 1.72, "weight_kg": null, "club": "Chelsea FC", "club_country": "ENG", "fc26": 83},
+    {"sticker": 24, "position": "FW", "name": "Gonçalo Ramos", "dob": "2001-06-20", "height_m": 1.86, "weight_kg": null, "club": "Paris Saint-Germain", "club_country": "FRA", "fc26": 83},
+    {"sticker": 25, "position": "FW", "name": "Cristiano Ronaldo", "dob": "1985-02-05", "height_m": 1.87, "weight_kg": 83, "club": "Al-Nassr FC", "club_country": "KSA", "fc26": 85},
+    {"sticker": 26, "position": "FW", "name": "Francisco Trincão", "dob": "2001-04-25", "height_m": 1.72, "weight_kg": null, "club": "Sporting CP", "club_country": "POR", "fc26": 79}
+  ]
+}

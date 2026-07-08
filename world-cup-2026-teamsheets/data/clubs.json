@@ -1100,8 +1100,8 @@
     "#0055A5"
   ],
   "Le Havre AC": [
-    "#6CACE4",
-    "#00205B"
+    "#0055A5",
+    "#FFFFFF"
   ],
   "Stade de Reims": [
     "#DA291C",
@@ -1581,6 +1581,114 @@
   ],
   "Raja Casablanca": [
     "#00843D",
+    "#FFFFFF"
+  ],
+  "FC Noah": [
+    "#FFD100",
+    "#DA291C"
+  ],
+  "AEL Larissa": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Widzew Łódź": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Spartak Moscow": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "TP Mazembe": [
+    "#000000",
+    "#DA291C"
+  ],
+  "Alanyaspor": [
+    "#FF6600",
+    "#00843D"
+  ],
+  "Atromitos FC": [
+    "#FFD100",
+    "#000000"
+  ],
+  "RCD Espanyol": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Al Jazira Club": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Neftchi Farg'ona": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "FC Nasaf": [
+    "#FFD100",
+    "#0055A5"
+  ],
+  "FC Navbahor": [
+    "#FFD100",
+    "#0055A5"
+  ],
+  "Surkhon Termiz": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "AGMK FC": [
+    "#FFD100",
+    "#000000"
+  ],
+  "Dinamo Samarqand": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "FC Bukhara": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Al-Bataeh Club": [
+    "#0055A5",
+    "#FFD100"
+  ],
+  "Baniyas Club": [
+    "#000000",
+    "#FFD100"
+  ],
+  "Millonarios FC": [
+    "#0055A5",
+    "#FFFFFF"
+  ],
+  "Atlético Nacional": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Atlas FC": [
+    "#DA291C",
+    "#000000"
+  ],
+  "Junior FC": [
+    "#DA291C",
+    "#FFFFFF"
+  ],
+  "Cagliari Calcio": [
+    "#DA291C",
+    "#00205B"
+  ],
+  "Deportivo Cali": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Racing Club": [
+    "#6CACE4",
+    "#FFFFFF"
+  ],
+  "León FC": [
+    "#00843D",
+    "#FFFFFF"
+  ],
+  "Werder Bremen": [
+    "#1D9053",
     "#FFFFFF"
   ]
 }

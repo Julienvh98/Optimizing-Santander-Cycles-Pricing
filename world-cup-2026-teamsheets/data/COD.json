@@ -1,0 +1,32 @@
+{
+  "code": "COD",
+  "coach": "Sébastien Desabre",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Dimitry Bertaud", "dob": "1997-09-08", "height_m": null, "weight_kg": null, "club": "Le Havre AC", "club_country": "FRA", "fc26": null},
+    {"sticker": 2, "position": "GK", "name": "Timothy Fayulu", "dob": null, "height_m": null, "weight_kg": null, "club": "FC Noah", "club_country": "ARM", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Lionel Mpasi", "dob": "1994-10-15", "height_m": null, "weight_kg": null, "club": "Le Havre AC", "club_country": "FRA", "fc26": 71},
+    {"sticker": 4, "position": "DF", "name": "Dylan Batubinsika", "dob": "1996-11-27", "height_m": null, "weight_kg": null, "club": "AEL Larissa", "club_country": "GRE", "fc26": null},
+    {"sticker": 5, "position": "DF", "name": "Rocky Bushiri", "dob": "1999-10-23", "height_m": null, "weight_kg": null, "club": "Hibernian FC", "club_country": "SCO", "fc26": 70},
+    {"sticker": 6, "position": "DF", "name": "Gédéon Kalulu", "dob": null, "height_m": null, "weight_kg": null, "club": "AEL Limassol", "club_country": "CYP", "fc26": null},
+    {"sticker": 7, "position": "DF", "name": "Steve Kapuadi", "dob": null, "height_m": null, "weight_kg": null, "club": "Widzew Łódź", "club_country": "POL", "fc26": null},
+    {"sticker": 8, "position": "DF", "name": "Joris Kayembe", "dob": null, "height_m": null, "weight_kg": null, "club": "KRC Genk", "club_country": "BEL", "fc26": null},
+    {"sticker": 9, "position": "DF", "name": "Arthur Masuaku", "dob": "1993-11-07", "height_m": null, "weight_kg": null, "club": "RC Lens", "club_country": "FRA", "fc26": 72},
+    {"sticker": 10, "position": "DF", "name": "Chancel Mbemba", "dob": "1994-08-08", "height_m": 1.87, "weight_kg": null, "club": "LOSC Lille", "club_country": "FRA", "fc26": 76},
+    {"sticker": 11, "position": "DF", "name": "Axel Tuanzebe", "dob": "1997-11-14", "height_m": null, "weight_kg": null, "club": "Burnley FC", "club_country": "ENG", "fc26": 71},
+    {"sticker": 12, "position": "DF", "name": "Aaron Wan-Bissaka", "dob": "1997-11-26", "height_m": 1.85, "weight_kg": null, "club": "West Ham United", "club_country": "ENG", "fc26": 76},
+    {"sticker": 13, "position": "MF", "name": "Théo Bongonda", "dob": "1995-02-20", "height_m": null, "weight_kg": null, "club": "Spartak Moscow", "club_country": "RUS", "fc26": 74},
+    {"sticker": 14, "position": "MF", "name": "Brian Cipenga", "dob": null, "height_m": null, "weight_kg": null, "club": "TP Mazembe", "club_country": "COD", "fc26": null},
+    {"sticker": 15, "position": "MF", "name": "Meschack Elia", "dob": "1998-05-04", "height_m": null, "weight_kg": null, "club": "Alanyaspor", "club_country": "TUR", "fc26": 71},
+    {"sticker": 16, "position": "MF", "name": "Gaël Kakuta", "dob": "1991-06-21", "height_m": null, "weight_kg": null, "club": "AEL Larissa", "club_country": "GRE", "fc26": 71},
+    {"sticker": 17, "position": "MF", "name": "Edo Kayembe", "dob": "1998-01-16", "height_m": null, "weight_kg": null, "club": "Watford FC", "club_country": "ENG", "fc26": 72},
+    {"sticker": 18, "position": "MF", "name": "Samuel Moutoussamy", "dob": "1996-08-12", "height_m": null, "weight_kg": null, "club": "Atromitos FC", "club_country": "GRE", "fc26": 71},
+    {"sticker": 19, "position": "MF", "name": "Nathan Mukau", "dob": null, "height_m": null, "weight_kg": null, "club": "Union Saint-Gilloise", "club_country": "BEL", "fc26": null},
+    {"sticker": 20, "position": "MF", "name": "Charles Pickel", "dob": "1996-06-15", "height_m": null, "weight_kg": null, "club": "RCD Espanyol", "club_country": "ESP", "fc26": 71},
+    {"sticker": 21, "position": "MF", "name": "Noah Sadiki", "dob": "2004-08-05", "height_m": null, "weight_kg": null, "club": "Union Saint-Gilloise", "club_country": "BEL", "fc26": 73},
+    {"sticker": 22, "position": "FW", "name": "Cédric Bakambu", "dob": "1991-04-11", "height_m": 1.80, "weight_kg": null, "club": "Real Betis", "club_country": "ESP", "fc26": 74},
+    {"sticker": 23, "position": "FW", "name": "Simon Banza", "dob": "1998-02-25", "height_m": null, "weight_kg": null, "club": "Al Jazira Club", "club_country": "UAE", "fc26": 72},
+    {"sticker": 24, "position": "FW", "name": "Silas Katompa Mvumpa", "dob": "1998-01-01", "height_m": null, "weight_kg": null, "club": "PSV Eindhoven", "club_country": "NED", "fc26": 76},
+    {"sticker": 25, "position": "FW", "name": "Fiston Mayele", "dob": "1994-08-15", "height_m": null, "weight_kg": null, "club": "Pyramids FC", "club_country": "EGY", "fc26": 73},
+    {"sticker": 26, "position": "FW", "name": "Yoane Wissa", "dob": "1996-09-03", "height_m": 1.76, "weight_kg": null, "club": "Newcastle United", "club_country": "ENG", "fc26": 78}
+  ]
+}

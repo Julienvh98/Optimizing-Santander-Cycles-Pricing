@@ -1,0 +1,32 @@
+{
+  "code": "COL",
+  "coach": "Néstor Lorenzo",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Álvaro Montero", "dob": "1996-01-08", "height_m": null, "weight_kg": null, "club": "Millonarios FC", "club_country": "COL", "fc26": 72},
+    {"sticker": 2, "position": "GK", "name": "David Ospina", "dob": "1988-08-31", "height_m": 1.83, "weight_kg": null, "club": "Atlético Nacional", "club_country": "COL", "fc26": 73},
+    {"sticker": 3, "position": "GK", "name": "Camilo Vargas", "dob": "1989-06-08", "height_m": null, "weight_kg": null, "club": "Atlas FC", "club_country": "MEX", "fc26": 72},
+    {"sticker": 4, "position": "DF", "name": "Willer Ditta", "dob": null, "height_m": null, "weight_kg": null, "club": "Junior FC", "club_country": "COL", "fc26": null},
+    {"sticker": 5, "position": "DF", "name": "Jhon Lucumí", "dob": "1998-07-26", "height_m": 1.87, "weight_kg": null, "club": "Bologna FC", "club_country": "ITA", "fc26": 78},
+    {"sticker": 6, "position": "DF", "name": "Deiver Machado", "dob": "1993-10-02", "height_m": null, "weight_kg": null, "club": "RC Lens", "club_country": "FRA", "fc26": 74},
+    {"sticker": 7, "position": "DF", "name": "Yerry Mina", "dob": "1994-09-23", "height_m": 1.95, "weight_kg": 88, "club": "Cagliari Calcio", "club_country": "ITA", "fc26": 78},
+    {"sticker": 8, "position": "DF", "name": "Johan Mojica", "dob": "1992-08-21", "height_m": null, "weight_kg": null, "club": "Real Betis", "club_country": "ESP", "fc26": 74},
+    {"sticker": 9, "position": "DF", "name": "Daniel Muñoz", "dob": "1996-05-25", "height_m": 1.78, "weight_kg": null, "club": "Crystal Palace", "club_country": "ENG", "fc26": 80},
+    {"sticker": 10, "position": "DF", "name": "Davinson Sánchez", "dob": "1996-06-12", "height_m": 1.87, "weight_kg": null, "club": "Galatasaray SK", "club_country": "TUR", "fc26": 76},
+    {"sticker": 11, "position": "DF", "name": "Santiago Arias", "dob": "1992-01-13", "height_m": null, "weight_kg": null, "club": "Atlético Nacional", "club_country": "COL", "fc26": 71},
+    {"sticker": 12, "position": "MF", "name": "Jhon Arias", "dob": "1997-11-24", "height_m": null, "weight_kg": null, "club": "Wolverhampton Wanderers", "club_country": "ENG", "fc26": 78},
+    {"sticker": 13, "position": "MF", "name": "Jorge Carrascal", "dob": "1998-01-25", "height_m": null, "weight_kg": null, "club": "Dinamo Moscow", "club_country": "RUS", "fc26": 74},
+    {"sticker": 14, "position": "MF", "name": "Kevin Castaño", "dob": "1998-08-06", "height_m": null, "weight_kg": null, "club": "FC Krasnodar", "club_country": "RUS", "fc26": 74},
+    {"sticker": 15, "position": "MF", "name": "Jefferson Lerma", "dob": "1994-10-25", "height_m": 1.83, "weight_kg": null, "club": "Crystal Palace", "club_country": "ENG", "fc26": 77},
+    {"sticker": 16, "position": "MF", "name": "Gustavo Puerta", "dob": "2004-01-25", "height_m": null, "weight_kg": null, "club": "Deportivo Cali", "club_country": "COL", "fc26": 71},
+    {"sticker": 17, "position": "MF", "name": "Juan Fernando Quintero", "dob": "1993-01-18", "height_m": 1.70, "weight_kg": null, "club": "Racing Club", "club_country": "ARG", "fc26": 76},
+    {"sticker": 18, "position": "MF", "name": "James Rodríguez", "dob": "1991-07-12", "height_m": 1.80, "weight_kg": 75, "club": "León FC", "club_country": "MEX", "fc26": 82},
+    {"sticker": 19, "position": "MF", "name": "Richard Ríos", "dob": "2000-04-08", "height_m": 1.75, "weight_kg": null, "club": "SL Benfica", "club_country": "POR", "fc26": 80},
+    {"sticker": 20, "position": "MF", "name": "Daniel Ruiz", "dob": "1997-01-27", "height_m": null, "weight_kg": null, "club": "Deportivo Toluca", "club_country": "MEX", "fc26": 74},
+    {"sticker": 21, "position": "MF", "name": "Mateus Uribe", "dob": "1991-03-21", "height_m": null, "weight_kg": null, "club": "Club América", "club_country": "MEX", "fc26": 75},
+    {"sticker": 22, "position": "FW", "name": "Rafael Santos Borré", "dob": "1997-09-15", "height_m": 1.75, "weight_kg": null, "club": "Werder Bremen", "club_country": "GER", "fc26": 76},
+    {"sticker": 23, "position": "FW", "name": "Jhon Córdoba", "dob": "1993-05-11", "height_m": 1.85, "weight_kg": null, "club": "FC Krasnodar", "club_country": "RUS", "fc26": 76},
+    {"sticker": 24, "position": "FW", "name": "Luis Díaz", "dob": "1997-01-13", "height_m": 1.75, "weight_kg": 65, "club": "Bayern Munich", "club_country": "GER", "fc26": 87},
+    {"sticker": 25, "position": "FW", "name": "Jhon Durán", "dob": "2003-12-13", "height_m": 1.92, "weight_kg": null, "club": "Al-Nassr FC", "club_country": "KSA", "fc26": 78},
+    {"sticker": 26, "position": "FW", "name": "Luis Javier Suárez", "dob": "1997-06-23", "height_m": 1.90, "weight_kg": null, "club": "Sporting CP", "club_country": "POR", "fc26": 78}
+  ]
+}

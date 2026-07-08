@@ -1,0 +1,32 @@
+{
+  "code": "UZB",
+  "coach": "Fabio Cannavaro",
+  "players": [
+    {"sticker": 1, "position": "GK", "name": "Botirali Ergashev", "dob": null, "height_m": null, "weight_kg": null, "club": "Neftchi Farg'ona", "club_country": "UZB", "fc26": null},
+    {"sticker": 2, "position": "GK", "name": "Abduvohid Nematov", "dob": null, "height_m": null, "weight_kg": null, "club": "FC Nasaf", "club_country": "UZB", "fc26": null},
+    {"sticker": 3, "position": "GK", "name": "Utkir Yusupov", "dob": null, "height_m": null, "weight_kg": null, "club": "FC Navbahor", "club_country": "UZB", "fc26": null},
+    {"sticker": 4, "position": "DF", "name": "Khojiakbar Alijonov", "dob": null, "height_m": null, "weight_kg": null, "club": "Pakhtakor Tashkent", "club_country": "UZB", "fc26": null},
+    {"sticker": 5, "position": "DF", "name": "Abdulla Abdullaev", "dob": null, "height_m": null, "weight_kg": null, "club": "Dibba Al-Fujairah", "club_country": "UAE", "fc26": null},
+    {"sticker": 6, "position": "DF", "name": "Rustam Ashurmatov", "dob": "1997-02-24", "height_m": null, "weight_kg": null, "club": "Esteghlal FC", "club_country": "IRN", "fc26": 72},
+    {"sticker": 7, "position": "DF", "name": "Umar Eshmurodov", "dob": null, "height_m": null, "weight_kg": null, "club": "FC Nasaf", "club_country": "UZB", "fc26": null},
+    {"sticker": 8, "position": "DF", "name": "Bekhruz Karimov", "dob": null, "height_m": null, "weight_kg": null, "club": "Surkhon Termiz", "club_country": "UZB", "fc26": null},
+    {"sticker": 9, "position": "DF", "name": "Abdukodir Khusanov", "dob": "2004-07-29", "height_m": 1.85, "weight_kg": null, "club": "Manchester City", "club_country": "ENG", "fc26": 79},
+    {"sticker": 10, "position": "DF", "name": "Sherzod Nasrullaev", "dob": null, "height_m": null, "weight_kg": null, "club": "FC Nasaf", "club_country": "UZB", "fc26": null},
+    {"sticker": 11, "position": "DF", "name": "Farrukh Sayfiev", "dob": null, "height_m": null, "weight_kg": null, "club": "Neftchi Farg'ona", "club_country": "UZB", "fc26": null},
+    {"sticker": 12, "position": "DF", "name": "Avazbek Ulmasaliev", "dob": null, "height_m": null, "weight_kg": null, "club": "AGMK FC", "club_country": "UZB", "fc26": null},
+    {"sticker": 13, "position": "DF", "name": "Jakhongir Urozov", "dob": null, "height_m": null, "weight_kg": null, "club": "Dinamo Samarqand", "club_country": "UZB", "fc26": null},
+    {"sticker": 14, "position": "MF", "name": "Sherzod Esanov", "dob": null, "height_m": null, "weight_kg": null, "club": "FC Bukhara", "club_country": "UZB", "fc26": null},
+    {"sticker": 15, "position": "MF", "name": "Abbosbek Fayzullaev", "dob": "2004-04-07", "height_m": null, "weight_kg": null, "club": "İstanbul Başakşehir", "club_country": "TUR", "fc26": 76},
+    {"sticker": 16, "position": "MF", "name": "Azizjon Ganiev", "dob": null, "height_m": null, "weight_kg": null, "club": "Al-Bataeh Club", "club_country": "UAE", "fc26": null},
+    {"sticker": 17, "position": "MF", "name": "Odiljon Hamrobekov", "dob": null, "height_m": null, "weight_kg": null, "club": "Tractor SC", "club_country": "IRN", "fc26": null},
+    {"sticker": 18, "position": "MF", "name": "Jamshid Iskanderov", "dob": null, "height_m": null, "weight_kg": null, "club": "Neftchi Farg'ona", "club_country": "UZB", "fc26": null},
+    {"sticker": 19, "position": "MF", "name": "Dostonbek Khamdamov", "dob": null, "height_m": null, "weight_kg": null, "club": "Pakhtakor Tashkent", "club_country": "UZB", "fc26": null},
+    {"sticker": 20, "position": "MF", "name": "Jaloliddin Masharipov", "dob": "1993-06-16", "height_m": null, "weight_kg": null, "club": "Esteghlal FC", "club_country": "IRN", "fc26": 72},
+    {"sticker": 21, "position": "MF", "name": "Akmal Mozgovoy", "dob": null, "height_m": null, "weight_kg": null, "club": "Pakhtakor Tashkent", "club_country": "UZB", "fc26": null},
+    {"sticker": 22, "position": "MF", "name": "Otabek Shukurov", "dob": null, "height_m": null, "weight_kg": null, "club": "Baniyas Club", "club_country": "UAE", "fc26": null},
+    {"sticker": 23, "position": "MF", "name": "Oston Urunov", "dob": null, "height_m": null, "weight_kg": null, "club": "Persepolis FC", "club_country": "IRN", "fc26": null},
+    {"sticker": 24, "position": "FW", "name": "Azizbek Amonov", "dob": null, "height_m": null, "weight_kg": null, "club": "FC Bukhara", "club_country": "UZB", "fc26": null},
+    {"sticker": 25, "position": "FW", "name": "Igor Sergeev", "dob": "1993-01-30", "height_m": null, "weight_kg": null, "club": "Persepolis FC", "club_country": "IRN", "fc26": 71},
+    {"sticker": 26, "position": "FW", "name": "Eldor Shomurodov", "dob": "1995-07-05", "height_m": 1.89, "weight_kg": null, "club": "İstanbul Başakşehir", "club_country": "TUR", "fc26": 75}
+  ]
+}
